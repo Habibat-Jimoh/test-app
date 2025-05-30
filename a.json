@@ -1,0 +1,2736 @@
+{
+  "countries": {
+    "nigeria": {
+      "page_fields": {
+        "PageID": "nigeria",
+        "PublishStatus": true,
+        "TabID": [
+          "recqRqrZ0uNO94dhb",
+          "recvbrOuNXmColfao",
+          "rec439Fq0q7a9OwY9"
+        ],
+        "Text": "In the Feb 2023 presidential election, a third party challenger, Peter Obi shook up the dominant APC and PDP parties, but APC's Tinubu won the presidency.",
+        "Country": "Nigeria",
+        "SubtabID": [
+          "recPLSxTvHBCyz3th",
+          "recpAPu4V1xcUwfT3",
+          "recfBelKb1DL7n0OC",
+          "recz8MKBwzyil53vX",
+          "recxzyvxcLPA6bFia"
+        ],
+        "SectionID": [
+          "recaARfP2bYDH1Qr4",
+          "rec79nptyn2eB3zpO",
+          "rec9dJHZn76KcNQgm",
+          "recSPRcKxYAQFGQ3O",
+          "rec5VsF5xs5mMjvxR",
+          "recxi1z0YiThUaLLr",
+          "recuNhAylYDZ5t8mR",
+          "recS5jzbYEGPz2fCt",
+          "recLmHr0sz8uhJYcY",
+          "rec2XXnTl8Z2EzFIh",
+          "recLpYVjWTrwClOlA",
+          "recMAzFJCa3Y0IHj1",
+          "recpHTeBkjWvnOmtr",
+          "recAcsEpbEvAcC38Z",
+          "recjgAWNTYmiSbCFP",
+          "recENMqbFLGAVcj5l",
+          "recKNRdTHesxztCOz",
+          "recudVFkwUugeWRe1",
+          "recy7p9yHPWtHr411",
+          "recmtebvIgIqBPLXk",
+          "reciIXtsSQYeRxIe8",
+          "recOcPKFZXpXriP1G"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "TabID": "nigeria-context",
+            "TabTitle": "Context & History",
+            "TabOrder": 1,
+            "TabDefault": true,
+            "TabSEOText": "This page offers a comprehensive overview of Egypt's government and political history through two key interactive visualisations. The first section provides a detailed table showcasing vital political and economic indicators, such as Egypt's population, GDP, government structure, age and tenure of the current president, military regime status, and democracy metrics.\n\nThe second section presents a historical and political chronology of Egypt, highlighting significant milestones such as independence, referendum history, coups, notable wars, and democratic progress. Together, these visualisations provide a rich resource for understanding Egypt's governance, leadership, and democratic evolution, catering to researchers, policymakers, and anyone interested in African political history.",
+            "PublishStatus": true,
+            "PageID": [
+              "rec4N5G4EIHBSAXCh"
+            ],
+            "SubtabID": [
+              "recPLSxTvHBCyz3th",
+              "recpAPu4V1xcUwfT3"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "nigeria-key-stats",
+                "SubtabTitle": "Key Stats",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recqRqrZ0uNO94dhb"
+                ],
+                "SectionID": [
+                  "recaARfP2bYDH1Qr4"
+                ],
+                "PageID": [
+                  "rec4N5G4EIHBSAXCh"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recPLSxTvHBCyz3th"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18736603/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Charttype": "key stats",
+                  "SectionID": "nigeria-key-stats-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "nigeria-democratic-history",
+                "SubtabTitle": "Democratic History",
+                "PublishStatus": true,
+                "SubtabOrder": 2,
+                "SubtabShow": true,
+                "TabID": [
+                  "recqRqrZ0uNO94dhb"
+                ],
+                "SectionID": [
+                  "rec79nptyn2eB3zpO"
+                ],
+                "PageID": [
+                  "rec4N5G4EIHBSAXCh"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recpAPu4V1xcUwfT3"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18732976/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Charttype": "democratic history",
+                  "SectionID": "nigeria-democratic-history-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "nigeria-candidates",
+            "TabTitle": "Candidates",
+            "TabOrder": 2,
+            "PublishStatus": true,
+            "PageID": [
+              "rec4N5G4EIHBSAXCh"
+            ],
+            "SubtabID": [
+              "recfBelKb1DL7n0OC"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "nigeria-2023-presidential-candidates",
+                "SubtabTitle": "2023 Presidential Candidates",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recvbrOuNXmColfao"
+                ],
+                "SectionID": [
+                  "rec9dJHZn76KcNQgm"
+                ],
+                "PageID": [
+                  "rec4N5G4EIHBSAXCh"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recfBelKb1DL7n0OC"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18700173/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "candidate",
+                  "SectionID": "nigeria-2023-candidate-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "nigeria-results",
+            "TabTitle": "Results & Voter Metrics",
+            "TabOrder": 3,
+            "PublishStatus": true,
+            "PageID": [
+              "rec4N5G4EIHBSAXCh"
+            ],
+            "SubtabID": [
+              "recz8MKBwzyil53vX",
+              "recxzyvxcLPA6bFia"
+            ],
+            "More info about this page": "Explore Nigeria\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics.\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across Nigeria.\n\nTogether, these visualizations offer a comprehensive view of Nigeria\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "nigeria-presidential-election",
+                "SubtabTitle": "Presidential Election",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "rec439Fq0q7a9OwY9"
+                ],
+                "SectionID": [
+                  "recSPRcKxYAQFGQ3O",
+                  "rec5VsF5xs5mMjvxR",
+                  "recxi1z0YiThUaLLr",
+                  "recuNhAylYDZ5t8mR",
+                  "rec2XXnTl8Z2EzFIh",
+                  "recS5jzbYEGPz2fCt",
+                  "recLmHr0sz8uhJYcY",
+                  "recMAzFJCa3Y0IHj1",
+                  "recLpYVjWTrwClOlA"
+                ],
+                "PageID": [
+                  "rec4N5G4EIHBSAXCh"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18736607/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "bar",
+                  "SectionID": "nigeria-2023-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18736760/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "bar",
+                  "SectionID": "nigeria-2019-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18736765/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2015",
+                  "Charttype": "bar",
+                  "SectionID": "nigeria-2015-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18737098/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Charttype": "voting metrics",
+                  "SectionID": "nigeria-voting-metrics-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 4
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18737070/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2015",
+                  "Charttype": "map",
+                  "SectionID": "nigeria-2015-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18715151/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "map",
+                  "SectionID": "nigeria-2023-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18737054/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "map",
+                  "SectionID": "nigeria-2019-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18845240/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "election representativeness",
+                  "SectionID": "nigeria-2019-election-representativeness-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 3
+                },
+                {
+                  "SubtabID": [
+                    "recz8MKBwzyil53vX"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18845226/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "election representativeness",
+                  "SectionID": "nigeria-2023-election-representativeness-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 3
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "nigeria-legislative-control",
+                "SubtabTitle": "Legislative Control",
+                "PublishStatus": true,
+                "SubtabOrder": 2,
+                "SubtabShow": true,
+                "TabID": [
+                  "rec439Fq0q7a9OwY9"
+                ],
+                "SectionID": [
+                  "recpHTeBkjWvnOmtr",
+                  "recAcsEpbEvAcC38Z",
+                  "recjgAWNTYmiSbCFP",
+                  "recENMqbFLGAVcj5l",
+                  "recKNRdTHesxztCOz",
+                  "recudVFkwUugeWRe1",
+                  "recy7p9yHPWtHr411",
+                  "recmtebvIgIqBPLXk",
+                  "reciIXtsSQYeRxIe8",
+                  "recOcPKFZXpXriP1G"
+                ],
+                "PageID": [
+                  "rec4N5G4EIHBSAXCh"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765448/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "senate parliament",
+                  "SectionID": "nigeria-2023-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765547/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "national parliament",
+                  "SectionID": "nigeria-2023-national-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765577/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "senate parliament",
+                  "SectionID": "nigeria-2019-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765600/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "national parliament",
+                  "SectionID": "nigeria-2019-national-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765622/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2015",
+                  "Charttype": "senate parliament",
+                  "SectionID": "nigeria-2015-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765651/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2015",
+                  "Charttype": "national parliament",
+                  "SectionID": "nigeria-2015-national-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765717/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2011",
+                  "Charttype": "senate parliament",
+                  "SectionID": "nigeria-2011-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765795/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2011",
+                  "Charttype": "national parliament",
+                  "SectionID": "nigeria-2011-national-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765849/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2007",
+                  "Charttype": "senate parliament",
+                  "SectionID": "nigeria-2007-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recxzyvxcLPA6bFia"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765889/embed",
+                  "PageID": [
+                    "rec4N5G4EIHBSAXCh"
+                  ],
+                  "Year": "2007",
+                  "Charttype": "national parliament",
+                  "SectionID": "nigeria-2007-national-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "botswana": {
+      "page_fields": {
+        "PageID": "botswana",
+        "PublishStatus": true,
+        "TabID": [
+          "recBD59BGaxa7QJm2",
+          "recmc149yMGJh6iFH",
+          "rectj92Iz74itfqXJ"
+        ],
+        "Text": "For the first time in 58 years, the BDP has lost power, with the UDC now the ruling party, marking a significant shift in leadership.",
+        "Country": "Botswana",
+        "SubtabID": [
+          "rec8uP8YgdhuCX9Ta",
+          "recD4tyRC2272WN5q",
+          "recAmB30AMCc1j5Hk",
+          "recU7SiR3ksQef2m2",
+          "recqSZhFBITa5pn25",
+          "recLaoadQK0RcpqPW"
+        ],
+        "SectionID": [
+          "recsmfbv1EvcmSTpv",
+          "recpVkjCWf6Psbax9",
+          "recxzB9LLGHoCCN4w",
+          "recVLhE9hzmHNd5zL",
+          "recQCwTWd4Za87acA",
+          "recvkxXFGb6NZx2yz",
+          "recKkXz9a4EhUrTvr",
+          "reczDVZ8w7kpaF4Nz",
+          "recgDgNlkv0CblZ3L",
+          "rechJrwNLB551GKyH",
+          "recDQjQOPq3Gup0ma",
+          "recVsw00YEB5NUvL8",
+          "reclApZCvH7ayPWph",
+          "reco92o5iYKND9SXC",
+          "recAyHw5EOjp3xz6P",
+          "reczkAwHQKJ0wLihl",
+          "recDlJk5A7Kzuvunv",
+          "recUDEUF8pT0YWdAi",
+          "rec92IIVKkmgFUeiV",
+          "recELByoE0oQJ7FN5"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "TabID": "botswana-context",
+            "TabTitle": "Context & History",
+            "TabOrder": 1,
+            "TabDefault": true,
+            "TabSEOText": "This page offers a comprehensive overview of Egypt's government and political history through two key interactive visualisations. The first section provides a detailed table showcasing vital political and economic indicators, such as Egypt's population, GDP, government structure, age and tenure of the current president, military regime status, and democracy metrics.\n\nThe second section presents a historical and political chronology of Egypt, highlighting significant milestones such as independence, referendum history, coups, notable wars, and democratic progress. Together, these visualisations provide a rich resource for understanding Egypt's governance, leadership, and democratic evolution, catering to researchers, policymakers, and anyone interested in African political history.",
+            "PublishStatus": true,
+            "PageID": [
+              "recNAF110TLLoMD7r"
+            ],
+            "SubtabID": [
+              "rec8uP8YgdhuCX9Ta",
+              "recD4tyRC2272WN5q"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-key-stats",
+                "SubtabTitle": "Key Stats",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recBD59BGaxa7QJm2"
+                ],
+                "SectionID": [
+                  "recsmfbv1EvcmSTpv"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "rec8uP8YgdhuCX9Ta"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16880524/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Charttype": "key stats",
+                  "SectionID": "botswana-key-stats-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-democratic-history",
+                "SubtabTitle": "Democratic History",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recBD59BGaxa7QJm2"
+                ],
+                "SectionID": [
+                  "recpVkjCWf6Psbax9"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recD4tyRC2272WN5q"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16854181/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Charttype": "democratic history",
+                  "SectionID": "botswana-democratic-history-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "botswana-candidates",
+            "TabTitle": "Candidates",
+            "TabOrder": 2,
+            "PublishStatus": true,
+            "PageID": [
+              "recNAF110TLLoMD7r"
+            ],
+            "SubtabID": [
+              "recAmB30AMCc1j5Hk"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-2024-presidential-candidates",
+                "SubtabTitle": "2024 Presidential Candidates",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recmc149yMGJh6iFH"
+                ],
+                "SectionID": [
+                  "recxzB9LLGHoCCN4w"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recAmB30AMCc1j5Hk"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17615921/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "candidate",
+                  "SectionID": "botswana-2024-candidate-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "botswana-results",
+            "TabTitle": "Results & Voter Metrics",
+            "TabOrder": 3,
+            "PublishStatus": true,
+            "PageID": [
+              "recNAF110TLLoMD7r"
+            ],
+            "SubtabID": [
+              "recU7SiR3ksQef2m2",
+              "recqSZhFBITa5pn25",
+              "recLaoadQK0RcpqPW"
+            ],
+            "More info about this page": "Explore Botswana\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here.\n\nDive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Botswana\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Botswana\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour. Finally, navigate through interactive election maps, which present regional election results and voting patterns, highlighting how political parties and candidates performed across different areas in Botswana.\n\nTogether, these visualisations provide a holistic view of Botswana\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-presidential-election",
+                "SubtabTitle": "Presidential Election",
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "rectj92Iz74itfqXJ"
+                ],
+                "SectionID": [
+                  "recVLhE9hzmHNd5zL",
+                  "recQCwTWd4Za87acA",
+                  "recvkxXFGb6NZx2yz",
+                  "recKkXz9a4EhUrTvr"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": []
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-general-election",
+                "SubtabTitle": "General Election",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "SubtabText": "In the General Election, The people of Botswana elect their 69 National Assembly members. Whichever party or party coalition holds the majority of National Assembly seats determines who will win the presidency.",
+                "TabID": [
+                  "rectj92Iz74itfqXJ"
+                ],
+                "SectionID": [
+                  "reczDVZ8w7kpaF4Nz",
+                  "recgDgNlkv0CblZ3L",
+                  "rechJrwNLB551GKyH",
+                  "recDQjQOPq3Gup0ma",
+                  "recVsw00YEB5NUvL8",
+                  "recELByoE0oQJ7FN5"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/20088027/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "parliament",
+                  "SectionID": "botswana-2024-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765159/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "parliament",
+                  "SectionID": "botswana-2019-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765106/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "parliament",
+                  "SectionID": "botswana-2014-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765109/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "parliament",
+                  "SectionID": "botswana-2009-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18765114/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2004",
+                  "Charttype": "parliament",
+                  "SectionID": "botswana-2004-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recqSZhFBITa5pn25"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17251687/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Charttype": "voting metrics",
+                  "SectionID": "botswana-voting-metrics-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "botswana-voter-preferences-based-on-vote-counts",
+                "SubtabTitle": "Voter Preferences Based on Vote Counts",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "SubtabText": "The people of Botswana do not directly elect their President. Instead, they vote for their National Assembly members who then vote amongst themselves for President. To better understand the preferences of individual voters, the following charts show the breakdown of votes per party among the voting populous from the General Elections.",
+                "TabID": [
+                  "rectj92Iz74itfqXJ"
+                ],
+                "SectionID": [
+                  "reclApZCvH7ayPWph",
+                  "reco92o5iYKND9SXC",
+                  "recAyHw5EOjp3xz6P",
+                  "reczkAwHQKJ0wLihl",
+                  "recDlJk5A7Kzuvunv",
+                  "recUDEUF8pT0YWdAi",
+                  "rec92IIVKkmgFUeiV"
+                ],
+                "PageID": [
+                  "recNAF110TLLoMD7r"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17645328/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "botswana-2024-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17170385/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "botswana-2019-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17560850/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "botswana-2014-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17560870/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "botswana-2009-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/20110332/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "map",
+                  "SectionID": "botswana-2024-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17537600/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "map",
+                  "SectionID": "botswana-2019-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recLaoadQK0RcpqPW"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17653882/embed",
+                  "PageID": [
+                    "recNAF110TLLoMD7r"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "map",
+                  "SectionID": "botswana-2014-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "south-africa": {
+      "page_fields": {
+        "PageID": "south-africa",
+        "PublishStatus": true,
+        "TabID": [
+          "recjhH8PA6csBNCmD",
+          "recFcFzYiilhvQOnt",
+          "recKiIlWbZo5eKJvz"
+        ],
+        "Text": "In the May 2024 general election, ANC only won 40% of the popular vote, showing dissatisfaction with their stewardship of the country. This marks a dramatic turning point, since ANC has held majority support since Mandela was elected in 1994. ANC was forced to form a \"government of national unity\" coalition, and Cyril Ramaphosa was re-elected for a second term.",
+        "Country": "South Africa",
+        "SubtabID": [
+          "recYTX197qiez3i6g",
+          "recdp3pbb5GskA0yr",
+          "recwsW0ciFSUFskc5",
+          "recf8CIZZDVFDtN41",
+          "recR4UyWgAQHkz1uH",
+          "recCjwWKo4bfPkwdr"
+        ],
+        "SectionID": [
+          "recy79hkfYd4lmhcO",
+          "recnwbQyRaCjCOPSm",
+          "rec7qq7UrW4e64Neg",
+          "recqzjMs14LyqMfoW",
+          "recpCkE2OQWCutxEI",
+          "reczp6Mx2k5brVu7L",
+          "rec2Z0PdtzTSzwpHf",
+          "rechanxFvwYSkye8i",
+          "rec1DvgMQL8OK4VwI",
+          "reculnAgaKOmU1JuW",
+          "recnTfEOM8Lv6nrS5",
+          "recS3UEK7uZUxG1DQ",
+          "recDUOsNBVBz4BOxJ",
+          "reciCrCJqXt5ApMNH",
+          "recK6cxDMUn6qGazL",
+          "recXbCmzIJPGJJSte",
+          "rec84ApkCSYsxJrEz",
+          "rec9s7oxWWzrn481B",
+          "recyD6TfaeZ4h4A2m",
+          "recoXV0j6hUzix9TG",
+          "recLT32r9zvDndbB9"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "TabID": "south-africa-context",
+            "TabTitle": "Context & History",
+            "TabOrder": 1,
+            "TabDefault": true,
+            "TabSEOText": "This page offers a comprehensive overview of Egypt's government and political history through two key interactive visualisations. The first section provides a detailed table showcasing vital political and economic indicators, such as Egypt's population, GDP, government structure, age and tenure of the current president, military regime status, and democracy metrics.\n\nThe second section presents a historical and political chronology of Egypt, highlighting significant milestones such as independence, referendum history, coups, notable wars, and democratic progress. Together, these visualisations provide a rich resource for understanding Egypt's governance, leadership, and democratic evolution, catering to researchers, policymakers, and anyone interested in African political history.",
+            "PublishStatus": true,
+            "PageID": [
+              "recwwcOJMtt6DF1eA"
+            ],
+            "SubtabID": [
+              "recYTX197qiez3i6g",
+              "recdp3pbb5GskA0yr"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-key-stats",
+                "SubtabTitle": "Key Stats",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recjhH8PA6csBNCmD"
+                ],
+                "SectionID": [
+                  "recy79hkfYd4lmhcO"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recYTX197qiez3i6g"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16877081/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Charttype": "key stats",
+                  "SectionID": "south-africa-key-stats-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-democratic-history",
+                "SubtabTitle": "Democratic History",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recjhH8PA6csBNCmD"
+                ],
+                "SectionID": [
+                  "recnwbQyRaCjCOPSm"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recdp3pbb5GskA0yr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16683318/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Charttype": "democratic history",
+                  "SectionID": "south-africa-democratic-history-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "south-africa-candidates",
+            "TabTitle": "Candidates",
+            "TabOrder": 2,
+            "PublishStatus": true,
+            "PageID": [
+              "recwwcOJMtt6DF1eA"
+            ],
+            "SubtabID": [
+              "recwsW0ciFSUFskc5"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-2024-presidential-candidates",
+                "SubtabTitle": "2024 Presidential Candidates",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recFcFzYiilhvQOnt"
+                ],
+                "SectionID": [
+                  "rec7qq7UrW4e64Neg"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recwsW0ciFSUFskc5"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17568287/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "candidate",
+                  "SectionID": "south-africa-2024-candidate-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "south-africa-results",
+            "TabTitle": "Results & Voter Metrics",
+            "TabOrder": 3,
+            "PublishStatus": true,
+            "PageID": [
+              "recwwcOJMtt6DF1eA"
+            ],
+            "SubtabID": [
+              "recf8CIZZDVFDtN41",
+              "recR4UyWgAQHkz1uH",
+              "recCjwWKo4bfPkwdr"
+            ],
+            "More info about this page": "Explore South Africa\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics.\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across South Africa.\n\nTogether, these visualizations offer a comprehensive view of South Africa\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-presidential-election",
+                "SubtabTitle": "Presidential Election",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "SubtabText": "South Africans do not directly elect their President. Instead, they vote for their National Assembly members who then vote amongst themselves for President. This section shows the results from the National Assembly members' selection of the President.",
+                "TabID": [
+                  "recKiIlWbZo5eKJvz"
+                ],
+                "SectionID": [
+                  "recqzjMs14LyqMfoW",
+                  "recpCkE2OQWCutxEI",
+                  "reczp6Mx2k5brVu7L",
+                  "recnTfEOM8Lv6nrS5"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recf8CIZZDVFDtN41"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18566412/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "bar",
+                  "SectionID": "south-africa-2024-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recf8CIZZDVFDtN41"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18909125/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "bar",
+                  "SectionID": "south-africa-2019-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recf8CIZZDVFDtN41"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18909202/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "bar",
+                  "SectionID": "south-africa-2014-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recf8CIZZDVFDtN41"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18909210/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "bar",
+                  "SectionID": "south-africa-2009-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-general-election",
+                "SubtabTitle": "General Election",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "SubtabText": "In the General Elections, South Africans elect their 400 National Assembly members. Whichever party or party coalition holds the majority of National Assembly seats determines who will win the presidency.",
+                "TabID": [
+                  "recKiIlWbZo5eKJvz"
+                ],
+                "SectionID": [
+                  "rec2Z0PdtzTSzwpHf",
+                  "recS3UEK7uZUxG1DQ",
+                  "recDUOsNBVBz4BOxJ",
+                  "reciCrCJqXt5ApMNH",
+                  "recK6cxDMUn6qGazL",
+                  "recXbCmzIJPGJJSte"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17251881/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Charttype": "voting metrics",
+                  "SectionID": "south-africa-voting-metrics-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756962/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "parliament",
+                  "SectionID": "south-africa-2024-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756961/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "parliament",
+                  "SectionID": "south-africa-2019-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756957/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "parliament",
+                  "SectionID": "south-africa-2014-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756955/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "parliament",
+                  "SectionID": "south-africa-2009-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recR4UyWgAQHkz1uH"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16825255/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2004",
+                  "Charttype": "parliament",
+                  "SectionID": "south-africa-2004-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "south-africa-voter-preferences-based-on-vote-counts",
+                "SubtabTitle": "Voter Preferences Based on Vote Counts",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "SubtabText": "South Africans do not directly elect their President. Instead, they vote for their National Assembly members who then vote amongst themselves for President. To better understand the preferences of individual voters, the following charts show the breakdown of votes per party among the voting populous from the General Elections.",
+                "TabID": [
+                  "recKiIlWbZo5eKJvz"
+                ],
+                "SectionID": [
+                  "rechanxFvwYSkye8i",
+                  "rec1DvgMQL8OK4VwI",
+                  "reculnAgaKOmU1JuW",
+                  "rec84ApkCSYsxJrEz",
+                  "rec9s7oxWWzrn481B",
+                  "recyD6TfaeZ4h4A2m",
+                  "recoXV0j6hUzix9TG",
+                  "recLT32r9zvDndbB9"
+                ],
+                "PageID": [
+                  "recwwcOJMtt6DF1eA"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17644956/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "map",
+                  "SectionID": "south-africa-2024-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16986204/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "map",
+                  "SectionID": "south-africa-2019-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17561384/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "map",
+                  "SectionID": "south-africa-2014-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17561390/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "map",
+                  "SectionID": "south-africa-2009-map-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17644942/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2024",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "south-africa-2024-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17171408/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2019",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "south-africa-2019-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17533656/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "south-africa-2014-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recCjwWKo4bfPkwdr"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17533753/embed",
+                  "PageID": [
+                    "recwwcOJMtt6DF1eA"
+                  ],
+                  "Year": "2009",
+                  "Charttype": "voter preference bar",
+                  "SectionID": "south-africa-2009-voter-preference-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "egypt": {
+      "page_fields": {
+        "PageID": "egypt",
+        "PublishStatus": true,
+        "TabID": [
+          "recni8LPQdFN566xB",
+          "recqmy98JAAjtnYms",
+          "recC3qa7WPz5aDcpt"
+        ],
+        "Text": "For Egypt's October 2025 legislative election, opposition parties have been pushing for a proportional list system that would allow them to get more representation in parliament.",
+        "Country": "Egypt",
+        "SubtabID": [
+          "recwGk6C0AGHX4U34",
+          "recbbjZeYpLpywJH6",
+          "recvGeTKgN1sHQoa7",
+          "recsC4D80NbasJP8e",
+          "recuGYATo2kKJxB9X"
+        ],
+        "SectionID": [
+          "recSZNYyjsRIaRZSk",
+          "rec35V2wATEelUuMD",
+          "recD4TTt921VCPE1g",
+          "recVAfTDUzvQPVaaz",
+          "recUYUcS7sbRUMdqb",
+          "recf5R6EPOtcVXmbp",
+          "recu68s8Q0ehrtgZg",
+          "recgIkNPcr3yrOgdo",
+          "recl35NFhhAgbdgJn",
+          "recrz1hMiXuN8gLcn",
+          "recuNL2HtOMKGZSqa",
+          "recTJYO2LsqjbYRbR",
+          "recvITjwUjdSIG5N6",
+          "recti7lqAAUse9B6u",
+          "rect8wRIiG3Ef2T8w"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "TabID": "egypt-candidates",
+            "TabTitle": "Candidates",
+            "TabOrder": 2,
+            "PublishStatus": true,
+            "PageID": [
+              "recz37spxgtJOrjjN"
+            ],
+            "SubtabID": [
+              "recvGeTKgN1sHQoa7"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "egypt-2024-presidential-candidates",
+                "SubtabTitle": "2024 Presidential Candidates",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recni8LPQdFN566xB"
+                ],
+                "SectionID": [
+                  "recl35NFhhAgbdgJn"
+                ],
+                "PageID": [
+                  "recz37spxgtJOrjjN"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recvGeTKgN1sHQoa7"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676779/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "candidate",
+                  "SectionID": "egypt-2023-candidate-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "egypt-results",
+            "TabTitle": "Results & Voter Metrics",
+            "TabOrder": 3,
+            "PublishStatus": true,
+            "PageID": [
+              "recz37spxgtJOrjjN"
+            ],
+            "SubtabID": [
+              "recsC4D80NbasJP8e",
+              "recuGYATo2kKJxB9X"
+            ],
+            "More info about this page": "Explore Egypt\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here. Dive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Egypt\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Egypt\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour.\n\nTogether, these visualisations provide a holistic view of Egypt\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "egypt-presidential-election",
+                "SubtabTitle": "Presidential Election",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recqmy98JAAjtnYms"
+                ],
+                "SectionID": [
+                  "recD4TTt921VCPE1g",
+                  "recUYUcS7sbRUMdqb",
+                  "recgIkNPcr3yrOgdo",
+                  "recf5R6EPOtcVXmbp"
+                ],
+                "PageID": [
+                  "recz37spxgtJOrjjN"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recsC4D80NbasJP8e"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18686925/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2023",
+                  "Charttype": "bar",
+                  "SectionID": "egypt-2023-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recsC4D80NbasJP8e"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676777/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2018",
+                  "Charttype": "bar",
+                  "SectionID": "egypt-2018-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recsC4D80NbasJP8e"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676781/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Charttype": "voting metrics",
+                  "SectionID": "egypt-voting-metrics-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recsC4D80NbasJP8e"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18686922/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2014",
+                  "Charttype": "bar",
+                  "SectionID": "egypt-2014-bar-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "egypt-legislative-control",
+                "SubtabTitle": "Legislative Control",
+                "PublishStatus": true,
+                "SubtabOrder": 2,
+                "SubtabShow": true,
+                "TabID": [
+                  "recqmy98JAAjtnYms"
+                ],
+                "SectionID": [
+                  "recVAfTDUzvQPVaaz",
+                  "recu68s8Q0ehrtgZg",
+                  "recrz1hMiXuN8gLcn",
+                  "recuNL2HtOMKGZSqa",
+                  "recTJYO2LsqjbYRbR",
+                  "recvITjwUjdSIG5N6",
+                  "recti7lqAAUse9B6u",
+                  "rect8wRIiG3Ef2T8w"
+                ],
+                "PageID": [
+                  "recz37spxgtJOrjjN"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676773/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2020",
+                  "Charttype": "house of representative",
+                  "SectionID": "egypt-2020-house-of-representative-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/21401433/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2025",
+                  "Charttype": "senate parliament",
+                  "SectionID": "egypt-2025-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/21401472/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2025",
+                  "Charttype": "house of representative",
+                  "SectionID": "egypt-2025-house-of-representative-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/21400917/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2020",
+                  "Charttype": "senate parliament",
+                  "SectionID": "egypt-2020-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756516/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2015",
+                  "Charttype": "house of representative",
+                  "SectionID": "egypt-2015-house-of-representative-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/21401238/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2012",
+                  "Charttype": "senate parliament",
+                  "SectionID": "egypt-2012-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18756521/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2011",
+                  "Charttype": "house of representative",
+                  "SectionID": "egypt-2011-house-of-representative-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                },
+                {
+                  "SubtabID": [
+                    "recuGYATo2kKJxB9X"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/21401237/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Year": "2010",
+                  "Charttype": "senate parliament",
+                  "SectionID": "egypt-2010-senate-parliament-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tab_fields": {
+            "TabID": "egypt-context",
+            "TabTitle": "Context & History",
+            "TabOrder": 1,
+            "TabDefault": true,
+            "TabSEOText": "This page offers a comprehensive overview of Egypt's government and political history through two key interactive visualisations. The first section provides a detailed table showcasing vital political and economic indicators, such as Egypt's population, GDP, government structure, age and tenure of the current president, military regime status, and democracy metrics.\n\nThe second section presents a historical and political chronology of Egypt, highlighting significant milestones such as independence, referendum history, coups, notable wars, and democratic progress. Together, these visualisations provide a rich resource for understanding Egypt's governance, leadership, and democratic evolution, catering to researchers, policymakers, and anyone interested in African political history.",
+            "PublishStatus": true,
+            "PageID": [
+              "recz37spxgtJOrjjN"
+            ],
+            "SubtabID": [
+              "recwGk6C0AGHX4U34",
+              "recbbjZeYpLpywJH6"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "SubtabID": "egypt-key-stats",
+                "SubtabTitle": "Key Stats",
+                "PublishStatus": true,
+                "SubtabOrder": 1,
+                "SubtabShow": true,
+                "TabID": [
+                  "recC3qa7WPz5aDcpt"
+                ],
+                "SectionID": [
+                  "recSZNYyjsRIaRZSk"
+                ],
+                "PageID": [
+                  "recz37spxgtJOrjjN"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recwGk6C0AGHX4U34"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676787/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Charttype": "key stats",
+                  "SectionID": "egypt-key-stats-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 1
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "SubtabID": "egypt-democratic-history",
+                "SubtabTitle": "Democratic History",
+                "PublishStatus": true,
+                "SubtabOrder": 2,
+                "SubtabShow": true,
+                "TabID": [
+                  "recC3qa7WPz5aDcpt"
+                ],
+                "SectionID": [
+                  "rec35V2wATEelUuMD"
+                ],
+                "PageID": [
+                  "recz37spxgtJOrjjN"
+                ]
+              },
+              "sections": [
+                {
+                  "SubtabID": [
+                    "recbbjZeYpLpywJH6"
+                  ],
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18676789/embed",
+                  "PageID": [
+                    "recz37spxgtJOrjjN"
+                  ],
+                  "Charttype": "democratic history",
+                  "SectionID": "egypt-democratic-history-chart",
+                  "ShowSection": "Yes",
+                  "SectionOrder": 2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "democracy": {
+    "election-integrity": {
+      "page_fields": {
+        "Democracy-pageID": "election-integrity",
+        "Democracy-page": "Election Integrity",
+        "Democracy-tabID": [
+          "recjHzGGozHerSgSo"
+        ],
+        "Democracy-subtabID": [
+          "rec7ZigNNMVG2wmFU",
+          "recKvNRLg38yDMviY"
+        ],
+        "Democracy-sectionID": [
+          "recL3xuz1nxltTQvJ",
+          "recdXOynmLSrnHT2e"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "election-integrity-tab",
+            "Democracy-tab": "Election Integrity",
+            "Category": "Democracy Data",
+            "TabOrder": 5,
+            "Democracy-subtabID": [
+              "recKvNRLg38yDMviY",
+              "rec7ZigNNMVG2wmFU"
+            ],
+            "More info about this page": "Explore a comprehensive analysis of electoral integrity across Africa, focusing on the comparison between official election results and independent observations. This resource examines the accuracy of reported outcomes, the impact of vote share deviations on election results, and discrepancies between official and observed figures. With reports from reputable organizations like YIAGA, CCMG, CODEOGHANA, MESN, NDI e.t.c. The data provides valuable insights into the reliability of election results, offering a clearer picture of the transparency and credibility of the electoral process. Understand how discrepancies in electoral outcomes can affect democracy, governance, and political stability across African nations.",
+            "Democracy-pageID": [
+              "rec272oEMbhvLWKTR"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "election-integrity-tab-election-integrity-official-results-vs-independent-audits",
+                "Democracy-tabID": [
+                  "recjHzGGozHerSgSo"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "In many countries, independent election observers audit the vote tabulation process using a rigorous statistically representative sampling process called the PRVT (more details on the PRVT). The table below summarizes election observations across the continent comparing the official results against the sampled audit of results. The audit trends are encouraging; however, elections can still be corrupted prior to ballots being cast through various means, including disenfranchisement, voter intimidation, and vote buying.",
+                "SubtabTitle": "Election Integrity: Official Results vs. Independent Audits",
+                "Democracy-sectionID": [
+                  "recL3xuz1nxltTQvJ"
+                ],
+                "Democracy-pageID": [
+                  "rec272oEMbhvLWKTR"
+                ],
+                "Description": "This table is not comprehensive of all independent election observations that have occurred in Africa. We are actively adding to the list as we gain access to more reports. If you have data to contribute, please contact opendata@stears.co. It is also noteworthy that in some countries, independent election observers are not able to freely publish their findings."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-electionintegritytabelectionintegrityofficialresultsvsindependentaudits",
+                  "Democracy-subtabID": [
+                    "rec7ZigNNMVG2wmFU"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18755523/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "rec272oEMbhvLWKTR"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "election-integrity-tab-directory-of-independent-election-observers",
+                "Democracy-tabID": [
+                  "recjHzGGozHerSgSo"
+                ],
+                "SubtabOrder": 2,
+                "SubtabText": "To see a full list of independent election observers and other local resources related to elections, view our Directory of Country Resources.",
+                "SubtabTitle": "Directory of Independent Election Observers",
+                "Democracy-sectionID": [
+                  "recdXOynmLSrnHT2e"
+                ],
+                "Democracy-pageID": [
+                  "rec272oEMbhvLWKTR"
+                ]
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-electionintegritytabdirectoryofindependentelectionobservers",
+                  "Democracy-subtabID": [
+                    "recKvNRLg38yDMviY"
+                  ],
+                  "SectionOrder": "2",
+                  "Democracy-pageID": [
+                    "rec272oEMbhvLWKTR"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "democracy-level": {
+      "page_fields": {
+        "Democracy-pageID": "democracy-level",
+        "Democracy-page": "Democracy Level",
+        "Democracy-tabID": [
+          "recDx80h77mxEnlN9"
+        ],
+        "Democracy-subtabID": [
+          "reciCqcGVAmG7JhJw"
+        ],
+        "Democracy-sectionID": [
+          "recnfE92JJewxPJPA"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "democracy-level-tab",
+            "Democracy-tab": "Democracy Level",
+            "Category": "Democracy Data",
+            "TabOrder": 2,
+            "Democracy-subtabID": [
+              "reciCqcGVAmG7JhJw"
+            ],
+            "More info about this page": "Explore in-depth data on Africa's levels of democracy with an interactive map based on the Economist Intelligence Unit's Democracy Index.\n\nThis index evaluates countries across five key dimensions: electoral process, government functionality, political participation, political culture, and civil liberties. Each African nation is classified as a full democracy, flawed democracy, hybrid regime, or authoritarian regime. The interactive map provides a dynamic visualisation of rankings, allowing users to compare trends, and gain insights into the continent's political landscape. It\u2019s your gateway to understanding Africa\u2019s democratic evolution.",
+            "Democracy-pageID": [
+              "recEfQqP9PoAIVrQ5"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "democracy-level-tab-",
+                "Democracy-tabID": [
+                  "recDx80h77mxEnlN9"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "This map shows each country in Africa ranked by how effectively it operates as a democracy, ranging from completely authoritarian to being a full democracy.",
+                "Democracy-sectionID": [
+                  "recnfE92JJewxPJPA"
+                ],
+                "Democracy-pageID": [
+                  "recEfQqP9PoAIVrQ5"
+                ],
+                "Description": "EIU's Democracy Index is based on five categories: electoral process and pluralism, functioning of government, political participation, political culture, and civil liberties. Based on its scores on a range of indicators within these categories, each country is scored on a 0-10 scale and classified as one of four types of regime: \u201cfull democracy\u201d, \u201cflawed democracy\u201d, \u201chybrid regime\u201d or \u201cauthoritarian regime.\" This data was sourced from the 2024 EIU Democracy Index."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-democracyleveltab",
+                  "Democracy-subtabID": [
+                    "reciCqcGVAmG7JhJw"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16407634/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recEfQqP9PoAIVrQ5"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "term-compliance": {
+      "page_fields": {
+        "Democracy-pageID": "term-compliance",
+        "Democracy-page": "Term Compliance",
+        "Democracy-tabID": [
+          "recW8aSdR3wPJqsV3"
+        ],
+        "Democracy-subtabID": [
+          "recsKwMCKh5HeCFVV"
+        ],
+        "Democracy-sectionID": [
+          "recVQqVoS6ALCWWEA"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "term-compliance-tab",
+            "Democracy-tab": "Term Compliance",
+            "Category": "Democracy Data",
+            "TabOrder": 4,
+            "Democracy-subtabID": [
+              "recsKwMCKh5HeCFVV"
+            ],
+            "More info about this page": "Dive into detailed insights on African presidential term limits and compliance with legal mandates through an interactive visualisation. This resource showcases the duration of presidential terms across African nations, adherence to constitutional term limits, and instances where limits were extended or violated. Countries with leadership that respects term limits tend to demonstrate stronger democratic governance and greater stability. Explore how accountable leaders have been throughout the continent.",
+            "Democracy-pageID": [
+              "recG98RWplXXA6zAU"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "term-compliance-tab-",
+                "Democracy-tabID": [
+                  "recW8aSdR3wPJqsV3"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "This interactive graphic shows the tenure and term limit compliance by each elected African head of state. Circles represent each post-independence elected head of state for the country. Size reflects the duration of their rule.",
+                "Democracy-sectionID": [
+                  "recVQqVoS6ALCWWEA"
+                ],
+                "Democracy-pageID": [
+                  "recG98RWplXXA6zAU"
+                ],
+                "Description": "Circles represent each post-independence elected head of state for the country. Size reflects the duration of their rule. The country's constitution and amendments were studied to determine the applicable term limits (both duration of terms and maximum number of terms) at the time the leader was in power."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-termcompliancetab",
+                  "Democracy-subtabID": [
+                    "recsKwMCKh5HeCFVV"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18896246/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recG98RWplXXA6zAU"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "conflicts-coups": {
+      "page_fields": {
+        "Democracy-pageID": "conflicts-coups",
+        "Democracy-page": "Conflicts & Coups",
+        "Democracy-tabID": [
+          "reck0fXWOolzG8VVV"
+        ],
+        "Democracy-subtabID": [
+          "recfcGopGdiPqU5P8"
+        ],
+        "Democracy-sectionID": [
+          "recrsjvClszoPWODB"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "conflicts-coups-tab",
+            "Democracy-tab": "Conflicts & Coups",
+            "Category": "Democracy Data",
+            "TabOrder": 1,
+            "Democracy-subtabID": [
+              "recfcGopGdiPqU5P8"
+            ],
+            "More info about this page": "Dive into Africa\u2019s geopolitical challenges with an interactive map that highlights coup and conflict statuses across the continent. This map showcases countries under military regimes, those experiencing ongoing conflicts, which could mean nations at risk of instability.\n\nIt provides historical context, current updates, and visual markers for conflict zones, helping you analyse the political and security landscape of Africa. Gain a deeper understanding of the factors shaping peace and governance in African nations.",
+            "Democracy-pageID": [
+              "recMQUIE1CDIIyfZP"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "conflicts-coups-tab-",
+                "Democracy-tabID": [
+                  "reck0fXWOolzG8VVV"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "This map shows all countries in Africa that are currently either under a military regime or in an active civil war.",
+                "Democracy-sectionID": [
+                  "recrsjvClszoPWODB"
+                ],
+                "Democracy-pageID": [
+                  "recMQUIE1CDIIyfZP"
+                ],
+                "Description": "This map highlights which countries are currently in active civil war or ruled by military regimes."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-conflictscoupstab",
+                  "Democracy-subtabID": [
+                    "recfcGopGdiPqU5P8"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16675177/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recMQUIE1CDIIyfZP"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "democracy-age": {
+      "page_fields": {
+        "Democracy-pageID": "democracy-age",
+        "Democracy-page": "Democracy Age",
+        "Democracy-tabID": [
+          "recRoTjG2a3ienWxr"
+        ],
+        "Democracy-subtabID": [
+          "recEp7O3IRvHqKTKz",
+          "recwuV3mo89ZpAjof"
+        ],
+        "Democracy-sectionID": [
+          "recBIcqrhe3KZSH6l",
+          "recro8NIGx4n9MtHP"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "democracy-age-tab",
+            "Democracy-tab": "Democracy Age",
+            "Category": "Democracy Data",
+            "TabOrder": 3,
+            "Democracy-subtabID": [
+              "recwuV3mo89ZpAjof",
+              "recEp7O3IRvHqKTKz"
+            ],
+            "More info about this page": "Dive into detailed data on Africa's age of democracy through a visual table. This table will display each African country's number of years since their first competitive election, indicate whether they have experienced uninterrupted democracy, and show the duration of their current continuous democratic governance. The closer the alignment between the years since the first competitive election and the duration of uninterrupted democracy, the more developed the country's democracy is.\n\nAdditionally, explore a timeline of Africa's democratic evolution, presented through a map that highlights the duration of uninterrupted democracy in each country. This metric reflects how long each nation has successfully maintained democratic governance without military coups or authoritarian rule. By factoring in multiparty elections and the absence of coups, the map provides a comprehensive view of the democratic progress across the continent.\n\nFind out which African nations boast the longest-standing democratic practices. These visuals are  crucial for assessing the maturity and effectiveness of democratic systems across Africa.",
+            "Democracy-pageID": [
+              "recMW0SeOXBU3puaQ"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "democracy-age-tab-age-of-democracy",
+                "Democracy-tabID": [
+                  "recRoTjG2a3ienWxr"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "Across Africa, democracy is still a very young system of governance. The age of democracy in each country helps contextualise its level of maturity and effectiveness.",
+                "SubtabTitle": "Age of Democracy",
+                "Democracy-sectionID": [
+                  "recBIcqrhe3KZSH6l"
+                ],
+                "Democracy-pageID": [
+                  "recMW0SeOXBU3puaQ"
+                ],
+                "Description": "*The first competitive election refers to the first multiparty election that occurred either after independence (without a foreign head of state) or in direct preparation for the transition to independence.\n\n**If the country has never experienced a military coup or pause in elections after their first competitive election, they are considered an uninterrupted democracy.\n\n***The age of current continuous democracy refers to  how long the country has been functioning as a democracy -no military coup or pause in competitive elections- since its last such interruption, if any.\n\n****A country is currently holding competitive elections if multiple political parties or candidates freely compete for power, or if there is no military rule."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-democracyagetabageofdemocracy",
+                  "Democracy-subtabID": [
+                    "recEp7O3IRvHqKTKz"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18629721/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recMW0SeOXBU3puaQ"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "democracy-age-tab-map-of-current-continuous-democracy-age",
+                "Democracy-tabID": [
+                  "recRoTjG2a3ienWxr"
+                ],
+                "SubtabOrder": 2,
+                "SubtabTitle": "Map of Current Continuous Democracy Age",
+                "Democracy-sectionID": [
+                  "recro8NIGx4n9MtHP"
+                ],
+                "Democracy-pageID": [
+                  "recMW0SeOXBU3puaQ"
+                ],
+                "Description": "This map shows the number of years that have passed in the country's current, uninterrupted period of democracy. Countries that no longer holding competitive multi-party elections or have never held them are labeled as \"Non-democracy.\""
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-democracyagetabmapofcurrentcontinuousdemocracyage",
+                  "Democracy-subtabID": [
+                    "recwuV3mo89ZpAjof"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16674477/embed",
+                  "SectionOrder": "2",
+                  "Democracy-pageID": [
+                    "recMW0SeOXBU3puaQ"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "recent-elections": {
+      "page_fields": {
+        "Democracy-pageID": "recent-elections",
+        "Democracy-page": "Recent Elections",
+        "Democracy-tabID": [
+          "recZ9jqK5mc5gBGWB"
+        ],
+        "Democracy-subtabID": [
+          "recqakFNOfQYgyMeb"
+        ],
+        "Democracy-sectionID": [
+          "reco4HoQza4PFqeLS"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "recent-elections-tab",
+            "Democracy-tab": "Recent Elections",
+            "Category": "Election Tracker",
+            "TabOrder": 2,
+            "Democracy-subtabID": [
+              "recqakFNOfQYgyMeb"
+            ],
+            "More info about this page": "Explore in-depth data on past or recent African elections, visualized through an interactive table.\n\nThis page offers insights into past African elections, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya.\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
+            "Democracy-pageID": [
+              "recjdNE96zSLT6lbN"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "recent-elections-tab-",
+                "Democracy-tabID": [
+                  "recZ9jqK5mc5gBGWB"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "This table captures all recently passed national level elections. For key races, we provide country profiles with more context, candidates, history, and results.",
+                "Democracy-sectionID": [
+                  "reco4HoQza4PFqeLS"
+                ],
+                "Democracy-pageID": [
+                  "recjdNE96zSLT6lbN"
+                ]
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-recentelectionstab",
+                  "Democracy-subtabID": [
+                    "recqakFNOfQYgyMeb"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/17851913/embed",
+                  "SectionOrder": "2",
+                  "Democracy-pageID": [
+                    "recjdNE96zSLT6lbN"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "upcoming-elections": {
+      "page_fields": {
+        "Democracy-pageID": "upcoming-elections",
+        "Democracy-page": "Upcoming Elections",
+        "Democracy-tabID": [
+          "recPbgDxIEPslaJDY"
+        ],
+        "Democracy-subtabID": [
+          "recPAH24eX62I7Bwm"
+        ],
+        "Democracy-sectionID": [
+          "recFc5AY2sawL2KWY"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "upcoming-elections-tab",
+            "Democracy-tab": "Upcoming Elections",
+            "Category": "Election Tracker",
+            "TabOrder": 1,
+            "Democracy-subtabID": [
+              "recPAH24eX62I7Bwm"
+            ],
+            "More info about this page": "Explore in-depth data on upcoming African elections, visualized through an interactive table.\n\nThis page offers insights into African elections scheduled within the next 12 months, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya.\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
+            "Democracy-pageID": [
+              "recjeNSyJWyuAViu2"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "upcoming-elections-tab-",
+                "Democracy-tabID": [
+                  "recPbgDxIEPslaJDY"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "This table captures all national level elections occurring in the next 12 months. For key races, we provide country profiles with more context, candidates, history, and results.",
+                "Democracy-sectionID": [
+                  "recFc5AY2sawL2KWY"
+                ],
+                "Democracy-pageID": [
+                  "recjeNSyJWyuAViu2"
+                ]
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-upcomingelectionstab",
+                  "Democracy-subtabID": [
+                    "recPAH24eX62I7Bwm"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16669295/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recjeNSyJWyuAViu2"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "context-maps": {
+      "page_fields": {
+        "Democracy-pageID": "context-maps",
+        "Democracy-page": "Context Maps",
+        "Democracy-tabID": [
+          "recKJyhRsbpoZnOTV"
+        ],
+        "Democracy-subtabID": [
+          "recKqxnteId1QpgHL",
+          "recLvWlkoVudJnRHZ",
+          "recA4eOFWz4PWDeq8",
+          "recwJeJjWDm8V1VII",
+          "rec91xmAU5QwJrCoA",
+          "recyhm1tEe4KsHdmt"
+        ],
+        "Democracy-sectionID": [
+          "recUKj5TilFpJ6rWG",
+          "recGiQFKyeoCyCSsl",
+          "rechzEzoqi0lvluiV",
+          "recpjwfzBmwEK1wmp",
+          "rec7xROilq0De8ZJq",
+          "recpbhOBMwS1tduEr"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "context-maps-tab",
+            "Democracy-tab": "Context Maps",
+            "Category": "Election Tracker",
+            "TabOrder": 3,
+            "Democracy-subtabID": [
+              "recKqxnteId1QpgHL",
+              "recLvWlkoVudJnRHZ",
+              "recA4eOFWz4PWDeq8",
+              "recwJeJjWDm8V1VII",
+              "rec91xmAU5QwJrCoA",
+              "recyhm1tEe4KsHdmt"
+            ],
+            "More info about this page": "Explore in-depth data on African politics and democracy, visualized using interactive maps of Africa.\n\nThis page contains five different maps of Africa, providing insights into the geographical distribution of various key metrics. These include:\n\nDemocracy levels according to the Economist Intelligence Unit,\nCoup and conflict status, highlighting which African countries are currently under military regimes or experiencing major conflicts,\nAge of uninterrupted democracy, showing how long each country has been considered democratic based on the absence of coups and the presence of multiparty elections (often viewed as more democratic than single-party elections),\nPopulation size of African countries, based on United Nations data, and\nGDP of African countries, based on World Bank data.",
+            "Democracy-pageID": [
+              "reco6kA5T7i0WdRCz"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-population-size",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 5,
+                "SubtabTitle": "Population size",
+                "Democracy-sectionID": [
+                  "rec7xROilq0De8ZJq"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ],
+                "Description": "These population counts are from the most recent UN Population Estimates (2023). They provide a sense of the scale of the population that will be impacted by the elections."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstabpopulationsize",
+                  "Democracy-subtabID": [
+                    "rec91xmAU5QwJrCoA"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16674536/embed",
+                  "SectionOrder": "5",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-coup-and-conflict-status",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 3,
+                "SubtabTitle": "Coup and Conflict Status",
+                "Democracy-sectionID": [
+                  "rechzEzoqi0lvluiV"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ],
+                "Description": "This map highlights which countries are currently in active civil war or ruled by military regimes."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstabcoupandconflictstatus",
+                  "Democracy-subtabID": [
+                    "recA4eOFWz4PWDeq8"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16675177/embed",
+                  "SectionOrder": "3",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-overview",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 1,
+                "SubtabText": "The maps provided below put the upcoming elections in context. Many upcoming elections are in countries that aren't true democracies and are therefore unlikely to result in any change. Across Africa, democracy is still a very young system of governance, and in many countries, it's floundering. In a 2023 survey of 54k Africans across 38 countries, only 39.2% of respondents were somewhat or very satisfied with democracy. This is down from 49.6% in 2012. This dissatisfaction could lead to greater civil unrest and the return of more military regimes. \ufeffThere have already been 9 coups since 2020. Additionally, the impact of the elections should be considered through the lens of how many people are impacted (country population size) and the size of the economy each leader is responsible for shaping (GDP).",
+                "SubtabTitle": "Overview",
+                "Democracy-sectionID": [
+                  "recUKj5TilFpJ6rWG"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ]
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstaboverview",
+                  "Democracy-subtabID": [
+                    "recKqxnteId1QpgHL"
+                  ],
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-democracy-level",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 2,
+                "SubtabTitle": "Democracy Level",
+                "Democracy-sectionID": [
+                  "recGiQFKyeoCyCSsl"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ],
+                "Description": "EIU's Democracy Index is based on five categories: electoral process and pluralism, functioning of government, political participation, political culture, and civil liberties. Based on its scores on a range of indicators within these categories, each country is scored on a 0-10 scale and classified as one of four types of regime: \u201cfull democracy\u201d, \u201cflawed democracy\u201d, \u201chybrid regime\u201d or \u201cauthoritarian regime.\" This data was sourced from the 2024 EIU Democracy Index."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstabdemocracylevel",
+                  "Democracy-subtabID": [
+                    "recLvWlkoVudJnRHZ"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16407634/embed",
+                  "SectionOrder": "2",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-age-of-democracy",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 4,
+                "SubtabTitle": "Age of Democracy",
+                "Democracy-sectionID": [
+                  "recpjwfzBmwEK1wmp"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ],
+                "Description": "Across Africa, democracy is still a very young system of governance. The age of democracy in each country helps contextualise its level of maturity and effectiveness. This map shows the number of years that have passed in the country's current, uninterrupted period of democracy. Countries that no longer holding competitive multi-party elections or have never held them are labeled as \"Non-democracy.\""
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstabageofdemocracy",
+                  "Democracy-subtabID": [
+                    "recwJeJjWDm8V1VII"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16674477/embed",
+                  "SectionOrder": "4",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            },
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "context-maps-tab-gdp",
+                "Democracy-tabID": [
+                  "recKJyhRsbpoZnOTV"
+                ],
+                "SubtabOrder": 6,
+                "SubtabTitle": "GDP",
+                "Democracy-sectionID": [
+                  "recpbhOBMwS1tduEr"
+                ],
+                "Democracy-pageID": [
+                  "reco6kA5T7i0WdRCz"
+                ],
+                "Description": "These GDP values are from the World Bank's most recent 2023 estimates. They provide a sense of the scale of the economies that will be impacted by the elections."
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-contextmapstabgdp",
+                  "Democracy-subtabID": [
+                    "recyhm1tEe4KsHdmt"
+                  ],
+                  "Charttype": "Map",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/16674935/embed",
+                  "SectionOrder": "6",
+                  "Democracy-pageID": [
+                    "reco6kA5T7i0WdRCz"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "directory": {
+      "page_fields": {
+        "Democracy-pageID": "directory",
+        "Democracy-page": "Directory",
+        "Democracy-tabID": [
+          "recPsN3KvlIHkIzvC"
+        ],
+        "Democracy-subtabID": [
+          "rec5LLAVqMEDuG7Cw"
+        ],
+        "Democracy-sectionID": [
+          "rec6eZb1ORSCTRPX7"
+        ]
+      },
+      "tabs": [
+        {
+          "tab_fields": {
+            "Democracy-tabID": "directory-tab",
+            "Democracy-tab": "Directory",
+            "Category": "Directory of Country Resources",
+            "TabOrder": 1,
+            "TabText": "This list captures local African democracy-focused civil society organisations operating across the continent. Their work spans election observation, publishing granular election results, fact-checking, and fighting misinformation.",
+            "Democracy-subtabID": [
+              "rec5LLAVqMEDuG7Cw"
+            ],
+            "Democracy-pageID": [
+              "recpiSBNPhwGXS1Ku"
+            ]
+          },
+          "subtabs": [
+            {
+              "subtab_fields": {
+                "Democracy-subtabID": "directory-tab-",
+                "Democracy-tabID": [
+                  "recPsN3KvlIHkIzvC"
+                ],
+                "SubtabOrder": 1,
+                "Democracy-sectionID": [
+                  "rec6eZb1ORSCTRPX7"
+                ],
+                "Democracy-pageID": [
+                  "recpiSBNPhwGXS1Ku"
+                ]
+              },
+              "sections": [
+                {
+                  "Democracy-sectionID": "section-directorytab",
+                  "Democracy-subtabID": [
+                    "rec5LLAVqMEDuG7Cw"
+                  ],
+                  "Charttype": "Table",
+                  "FlourishEmbed": "https://flo.uri.sh/visualisation/18893053/embed",
+                  "SectionOrder": "1",
+                  "Democracy-pageID": [
+                    "recpiSBNPhwGXS1Ku"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

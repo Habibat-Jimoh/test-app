@@ -1,0 +1,503 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #1c1c1e;
+  color: #eee;
+  overflow-x: hidden;
+}
+
+.layout {
+  display: flex;
+  min-height: 100vh;
+  position: relative;
+  padding-top: 50px; /* same height as top-pane */
+}
+
+.sidebar {
+  width: 180px;
+  background-color: #0E0F10;
+  padding: 20px;
+  position: fixed; 
+  top: 50px;
+  left: 0;
+  height: calc(100vh - 50px); 
+  overflow-y: auto; 
+  z-index: 10;
+}
+
+.sidebar h2 {
+  color: #B2BFCC;
+  font-size: 14px; 
+  font-weight: 400; 
+}
+
+/* ─── CATEGORY HEADINGS ─── */
+.sidebar h3 {
+  margin-top: 1.5em;
+  font-size: 12px;
+  color: #B2BFCC;         
+  font-weight: 400; 
+}
+
+/* ensure a clickable <h3><a>…</a></h3> stays grey and never blue */
+.sidebar h3 a {
+  color: #B2BFCC;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.sidebar h3 a:hover {
+  text-decoration: none;
+}
+
+/* ─── PAGE LINKS ─── */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+.sidebar ul li a {
+  color: #B2BFCC;              
+  text-decoration: none;
+  display: block;
+  padding: 4px 0;
+  font-size: 12px;             
+  font-weight: 400;
+  border-bottom: none;
+}
+
+.sidebar ul li a:hover {
+  text-decoration: none;       
+}
+
+.content {
+  flex-grow: 1;
+  padding: 30px 40px;
+  background-color: #0E0F10;
+  margin-left: 250px; 
+  margin-right: 20px; 
+  min-height: 100vh;
+  margin-top: 50px;
+}
+
+h2, h3, h4, h5 {
+  color: #fff;
+}
+
+.tab, .subtab, .section {
+  margin-bottom: 2em;
+}
+
+.section iframe {
+  border: none;
+  width: 100%;
+  height: 400px;
+}
+
+footer {
+  margin-top: 4em;
+  font-size: 14px;
+  color: #777;
+}
+
+.year-tabs.category-tabs .year-button {
+  background: none;
+  padding: 0;
+  margin: 0 1.5em 0 0;
+  color: #B2BFCC;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid transparent;
+  font-size: 16px;
+}
+
+.year-tabs.category-tabs .year-button.active {
+  color: #fff;
+  border-bottom-color: #fff;
+  background: none;
+}
+.year-tabs.category-tabs .year-button:hover {
+  border-bottom-color: none;
+  background: none;
+}
+
+.tabs, .year-tabs, .category-tabs {
+  margin-bottom: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #333;
+}
+
+.category-tabs {
+  padding-bottom: 0;
+}
+
+.tab-button, .year-button {
+  padding: 10px 20px;
+  margin: 0 5px 0 0;
+  background-color: #222;
+  color: #fff;
+  border: none;
+  border-bottom: 3px solid transparent;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.tab-button:hover, .year-button:hover {
+  background-color: #2a2a2a;
+}
+
+.tab-button.active {
+  border-bottom: 3px solid transparent;
+  background-color: #2a2a2a;
+}
+
+.tab-panel, .year-panel {
+  margin-top: 1em;
+}
+
+/* Democracy rating styles */
+td, th {
+  padding: 12px 16px;
+  text-align: left;
+  border-bottom: 1px solid #333;
+  vertical-align: top;
+}
+
+th {
+  font-weight: 600;
+  color: #fff;
+  background-color: #1a1a1a;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2em;
+  font-size: 14px;
+}
+
+tr:nth-child(even) {
+  background-color: #1d1d1d;
+}
+
+tr:hover {
+  background-color: #222;
+}
+
+/* Table styling for data tables */
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.data-table th {
+  background-color: #1a1a1a;
+  padding: 12px 15px;
+  text-align: left;
+  font-weight: 500;
+  color: #fff;
+  border-bottom: 2px solid #333;
+}
+
+.data-table td {
+  padding: 10px 15px;
+  border-bottom: 1px solid #333;
+}
+
+.data-table tr:nth-child(even) {
+  background-color: #1d1d1d;
+}
+
+.data-table tr:hover {
+  background-color: #222;
+}
+
+/* Checkmark styling */
+.checkmark {
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+/* Search box styling */
+.search-box {
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  background-color: #222;
+  border: 1px solid #444;
+  color: #fff;
+  width: 250px;
+  font-size: 14px;
+}
+
+.search-box:focus {
+  outline: none;
+  border-color: #00aaff;
+}
+
+/* Democracy rating */
+[data-rating="Authoritarian"] {
+  background-color: #8B3232;
+  color: white;
+  padding: 8px 12px;
+  font-weight: 500;
+}
+
+/* View profile/results button */
+a.view-button {
+  display: inline-flex;
+  align-items: center;
+  color: #88cfff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* match the “Upcoming | Recent | Context” look on desktop too */
+.tabs.category-tabs {
+  border-bottom: none;
+  margin-bottom: 1.5em;
+}
+.tabs.category-tabs .tab-button {
+  background: none;
+  padding: 0;
+  margin: 0 1.5em 0 0;
+  color: #B2BFCC;
+  font-weight: 400;
+  border: none;
+  border-bottom: 1px solid transparent;
+}
+.tabs.category-tabs .tab-button.active {
+  color: #fff;
+  /* border-bottom-color: #fff; */
+  border-bottom: 1px solid #fff;
+}
+.tabs.category-tabs .tab-button:hover {
+  border-bottom-color: none;
+}
+
+/* Page-level tabs: plain text with underline on active */
+.tabs.page-tabs {
+  border-bottom: none;         
+  margin-bottom: 1.5em;
+}
+.tabs.page-tabs .tab-button {
+  background: none;              
+  padding: 0;                   
+  margin: 0 1.5em 0 0;          
+  color: #B2BFCC;                
+  font-weight: 400;           
+  border: none;                 
+  text-decoration: 1px solid transparent;
+
+}
+.tabs.page-tabs .tab-button.active {
+  color: #fff;                  
+  border-bottom: 1px solid #fff;
+  text-decoration: none;
+}
+.tabs.page-tabs .tab-button:hover {
+  text-decoration: none;  
+  border-bottom-color: transparent;
+  background: none;
+}
+
+/* More info about this page section */
+.more-info-section {
+  margin: 20px 0;
+  border-bottom: 1px solid #333;
+  padding-bottom: 20px;
+}
+
+.more-info-toggle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  padding: 10px 0;
+  user-select: none;
+}
+
+.more-info-title {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.more-info-icon {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  width: 20px;
+  text-align: center;
+}
+
+.more-info-toggle:hover .more-info-title {
+  color: none;
+}
+
+.more-info-toggle:hover .more-info-icon {
+  color: none;
+}
+
+.more-info-content {
+  padding: 15px 0 0 0;
+  color: #B2BFCC;
+  line-height: 1.5;
+}
+
+.more-info-content p {
+  margin: 0;
+}
+
+.chart-footnote {
+  font-size: 0.85em;
+  font-style: italic;
+  color: #ccc;
+  margin-top: 5px;
+}
+
+
+.top-pane {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background-color: #0E0F10;
+  border-bottom: 1px solid #222;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+}
+
+.top-pane-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  justify-content: space-between;
+}
+
+.logo-placeholder {
+  color: #B2BFCC;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.top-nav {
+  display: flex;
+  align-items: center;
+}
+
+.top-nav > a {
+  color: #B2BFCC;
+  margin-left: 25px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 6px 12px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.top-nav > a:hover {
+  color: none;
+}
+
+.btn-ash {
+  background-color: #B2BFCC; /* ash background */
+  color: #000 !important; /* black text */
+}
+
+.btn-ash:hover {
+  background-color: none;
+}
+
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+  margin-left: 25px;
+}
+
+/* Dropdown button style */
+.dropbtn {
+  background-color: #B2BFCC; /* ash background */
+  color: #000;
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #1c1c1e;
+  min-width: 160px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  border-radius: 4px;
+  z-index: 101;
+  top: 36px;
+}
+
+/* Dropdown links */
+.dropdown-content a {
+  color: #B2BFCC;
+  padding: 10px 16px;
+  text-decoration: none;
+  display: block;
+  font-size: 14px;
+  border-bottom: 1px solid #333;
+}
+
+.dropdown-content a:hover {
+  background-color: none;
+  color: none;
+  border-bottom: none;
+}
+
+/* Show dropdown on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Optional: change arrow on hover */
+.dropdown:hover .dropbtn {
+  background-color: none;
+  color: none;
+}
+
+/* Responsive design */
+@media (max-width: 900px) {
+  .layout {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: auto;
+    padding: 15px;
+    position: sticky;
+    top: 0;
+    max-height: 100vh;
+    overflow-y: auto;
+  }
+
+  .category-tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+
+  .content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
+}

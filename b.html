@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{% block title %}Africa Dashboard{% endblock %}</title>
+  <link rel="stylesheet" href="/static/style.css?v={{ version }}">
+  <style>
+    .nav-group ul {
+      display: none;
+      margin: 0;
+      padding-left: 15px;
+    }
+    .nav-group.active ul {
+      display: block;
+    }
+    .nav-group h3 {
+      cursor: pointer;
+      margin-bottom: 5px;
+    }
+    .nav-group li {
+      list-style: none;
+      margin: 4px 0;
+    }
+    .nav-group a {
+      color: #7bcaff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header class="top-pane">
+    <div class="top-pane-container">
+      <!-- Placeholder for logo, or just a text -->
+      <div class="logo-placeholder">Stears Logo</div>
+      <nav class="top-nav">
+        <a href="/about-us">About Us</a>
+      
+        <div class="dropdown">
+          <button class="dropbtn btn-ash">Products ▾</button>
+          <div class="dropdown-content">
+            <a href="/products/product1">Product 1</a>
+            <a href="/products/product2">Product 2</a>
+            <a href="/products/product3">Product 3</a>
+            <!-- add or remove products here -->
+        
+          </div>
+        </div>
+
+        <a href="/subscribe" class="btn-ash">Subscribe</a>
+
+      </nav>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <h2>African Democracy</h2>
+
+      <div class="nav-group" onclick="toggleGroup(this)">
+        <h3>Election Tracker</h3>
+        <ul>
+          {% for slug, page in sidebar.tracker.items() %}
+            <li><a href="/{{ slug }}">{{ page.page_fields["Democracy-page"] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="nav-group" onclick="toggleGroup(this)">
+        <h3>Democracy Data</h3>
+        <ul>
+          {% for slug, page in sidebar.democracy.items() %}
+            <li><a href="/{{ slug }}">{{ page.page_fields["Democracy-page"] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="nav-group" onclick="toggleGroup(this)">
+        <h3>Country Data & History</h3>
+        <ul>
+          {% for slug, country in sidebar.countries.items() %}
+            <li><a href="/{{ slug }}">{{ country.page_fields["Country"] }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      <div class="nav-group">
+        {% for slug, page in sidebar.directory.items() %}
+          <h3><a href="/{{ slug }}">Directory of Country Resources</a></h3>
+        {% endfor %}
+      </div>
+    </aside>
+
+    <main class="content">
+      {% block content %}{% endblock %}
+      <footer><p>&copy; {{ year }} Africa Open Data</p></footer>
+    </main>
+  </div>
+
+  <script>
+    function toggleGroup(el) {
+      document.querySelectorAll('.nav-group').forEach(group => {
+        if (group !== el) group.classList.remove('active');
+      });
+      el.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
