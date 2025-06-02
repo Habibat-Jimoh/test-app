@@ -532,148 +532,140 @@ a.view-button {
 .main-footer {
   background-color: #1c1c1e;
   padding: 40px 0;
-  margin-top: 60px;
+  margin-top: 20px;
   /* border-top: 1px solid #222; */
 }
 
-.footer-container {
+.alt-footer .main-footer {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
+.alt-footer .footer-row {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 40px;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 8px 36px 0 36px;
+  min-height: 0; 
 }
 
-.footer-left {
-  flex: 1;
-  max-width: 400px;
+.alt-footer .footer-left {
+  flex: 0 0 340px;
+  min-width: 220px;
 }
 
-.footer-logo {
+.alt-footer .footer-logo {
   display: flex;
   align-items: center;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
-.open-data-text {
-  color: #B2BFCC;
-  font-size: 18px;
-  font-weight: 500;
-  margin-left: 8px;
-}
-
-.footer-description {
+.alt-footer .footer-description.small {
+  font-size: 16px;
   color: #888;
-  font-size: 14px;
-  line-height: 1.6;
   margin: 0;
+  line-height: 1.5;
 }
 
-.footer-right {
-  display: flex;
-  gap: 60px;
-  align-items: flex-start;
+/* Nav links */
+.alt-footer .footer-nav {
+  flex: 0 0 180px;
 }
-
-.footer-column {
-  display: flex;
-  flex-direction: column;
-}
-
-.footer-column h4 {
-  color: #fff;
-  font-size: 14px;
-  font-weight: 600;
-  margin: 0 0 16px 0;
-  text-transform: uppercase;
-}
-
-.footer-column ul {
+.alt-footer .footer-nav ul {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-
-.footer-column ul li {
-  margin-bottom: 8px;
+.alt-footer .footer-nav ul li {
+  margin-bottom: 12px;
 }
-
-.footer-column ul li a {
+.alt-footer .footer-nav ul li a {
   color: #B2BFCC;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 9px;
 }
-
-.footer-column ul li a:hover {
+.alt-footer .footer-nav ul li a:hover {
   color: #fff;
 }
 
-.subscribe-column {
-  min-width: 200px;
-}
-
-.subscribe-column p {
-  color: #888;
-  font-size: 14px;
-  line-height: 1.5;
-  margin: 0 0 16px 0;
-}
-
-.email-input-container {
+/* Subscribe (far right) */
+.alt-footer .footer-subscribe {
+  flex: 0 0 320px;
+  margin-left: auto;
   display: flex;
-  margin-bottom: 16px;
-}
-
-.email-input-container input {
-  flex: 1;
-  padding: 8px 12px;
-  background-color: #222;
-  border: 1px solid #444;
-  border-right: none;
-  color: #fff;
-  font-size: 14px;
-  border-radius: 4px 0 0 4px;
-}
-
-.email-input-container input:focus {
-  outline: none;
-  border-color: #B2BFCC;
-}
-
-.email-input-container button {
-  padding: 8px 12px;
-  background-color: #B2BFCC;
-  color: #000;
-  border: none;
-  cursor: pointer;
-  font-size: 14px;
-  border-radius: 0 4px 4px 0;
-}
-
-.social-icons {
-  display: flex;
+  flex-direction: column;
   gap: 8px;
+  align-items: flex-start;
 }
-
-.social-icon {
-  width: 28px;
-  height: 28px;
-  background-color: #333;
+.alt-footer .subscribe-title {
+  color: #B2BFCC;
+  font-size: 9px;
+  font-weight: 700;
+  margin-bottom: 2px;
+  letter-spacing: 0.02em;
+}
+.alt-footer .subscribe-desc {
+  color: #888;
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+.alt-footer .footer-form input[type="email"] {
+  width: 100%;
+  padding: 12px 10px;
+  border: 1px solid #444;
+  background: #222;
+  color: #fff;
+  border-radius: 2px;
+  font-size: 9px;
+  margin-bottom: 8px;
+}
+.alt-footer .footer-social {
+  display: flex;
+  gap: 12px;
+}
+.alt-footer .social-icon {
+  width: 40px;
+  height: 40px;
+  background: #222;
   color: #B2BFCC;
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 3px;
+  font-size: 18px;
   text-decoration: none;
-  font-size: 12px;
-  font-weight: bold;
-  border-radius: 4px;
+  transition: background 0.2s;
 }
-
-.social-icon:hover {
-  background-color: #444;
+.alt-footer .social-icon:hover {
+  background: #444;
   color: #fff;
 }
+
+/* Remove the horizontal line at the bottom */
+.alt-footer .footer-line {
+  display: none;
+}
+
+@media (max-width: 1100px) {
+  .alt-footer .footer-row {
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+  }
+  .alt-footer .footer-left,
+  .alt-footer .footer-nav,
+  .alt-footer .footer-subscribe {
+    margin: 0 0 18px 0;
+    flex: 1 1 100%;
+    max-width: 100%;
+  }
+  .alt-footer .footer-subscribe {
+    align-items: stretch;
+  }
+}
+
 
 .header-container {
   background-color: #1a1a1a;
