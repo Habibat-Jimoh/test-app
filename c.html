@@ -6,7 +6,7 @@
   <!-- Header section in its own card -->
   <div class="header-container">
     <h2>{{ page_title }}</h2>
-    {% if description %}
+    {% if country_description %}
       <p class="page-description">{{ country_description }}</p>
     {% endif %}
     {% if category == "Election Tracker" %}
@@ -134,10 +134,12 @@
         </div>
       {% endfor %}
     </div>
-    {# More info in its own card, outside the tabbed card #}
+    {# More info in its own card, but only one shown at a time #}
     {% for tab in source_tabs %}
       {% if tab.more_info %}
-        <div class="content-container more-info-section">
+        <div class="content-container more-info-section"
+             id="more-info-section-{{ loop.index0 }}"
+             style="display: {% if loop.first %}block{% else %}none{% endif %};">
           <div class="more-info-toggle" onclick="toggleMoreInfo({{ loop.index0 }})">
             <span class="more-info-title">More info about this page</span>
             <span class="more-info-icon" id="more-info-icon-{{ loop.index0 }}">+</span>
@@ -160,7 +162,6 @@
 
     // Toggle active class - handle both country tabs and regular content tabs differently
     if (document.querySelector('.country-tabs')) {
-      // For country pages: target country-tabs specifically
       document.querySelectorAll('.country-tabs .tab-button').forEach((btn, i) => {
         if (i == index) {
           btn.classList.add('active');
@@ -169,7 +170,6 @@
         }
       });
     } else {
-      // For other pages: target regular tabs but exclude category tabs
       document.querySelectorAll('.tabs:not(.category-tabs) .tab-button').forEach((btn, i) => {
         if (i == index) {
           btn.classList.add('active');
@@ -194,6 +194,11 @@
         }
       });
     }
+
+    // Show only the relevant More Info section
+    document.querySelectorAll('.more-info-section').forEach((section, i) => {
+      section.style.display = i == index ? 'block' : 'none';
+    });
   }
 
   function showYear(button, year, tabIndex, subtabSlug) {
