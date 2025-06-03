@@ -6,6 +6,7 @@
   <!-- Header section in its own card -->
   <div class="header-container">
     <h2>{{ page_title }}</h2>
+    <div class="header-divider"></div>
     {% if country_description %}
       <p class="page-description">{{ country_description }}</p>
     {% endif %}
@@ -60,77 +61,82 @@
             <p class="tab-text">{{ tab.text }}</p>
           {% endif %}
 
+          {# --- BEGIN: Grouped Section Containers --- #}
           {% for subtab in tab.subtabs %}
             {% if subtab.sections_by_year is defined and subtab.sections_by_year|length > 0 %}
-              {% if subtab.title %}
-                <h3>{{ subtab.title }}</h3>
-              {% endif %}
-              {% if subtab.text %}
-                <p class="subtab-text">{{ subtab.text }}</p>
-              {% endif %}
+              <div class="section-container">
+                {% if subtab.title %}
+                  <h3>{{ subtab.title }}</h3>
+                  <div class="section-divider"></div>
+                {% endif %}
+                {% if subtab.text %}
+                  <p class="subtab-text">{{ subtab.text }}</p>
+                {% endif %}
 
-              {% if subtab.years|length == 1 and subtab.years[0] == "all" %}
-                {% for section in subtab.sections_by_year["all"] %}
-                  <div class="section">
-                    {% if section.Text %}
-                      <p>{{ section.Text }}</p>
-                    {% endif %}
-                    {% if section.List %}
-                      <ul>
-                        {% for item in section.List %}
-                          <li>{{ item }}</li>
-                        {% endfor %}
-                      </ul>
-                    {% endif %}
-                    {% if section.FlourishEmbed %}
-                      <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
-                      {% if subtab.democracy_description %}
-                        <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
+                {% if subtab.years|length == 1 and subtab.years[0] == "all" %}
+                  {% for section in subtab.sections_by_year["all"] %}
+                    <div class="section">
+                      {% if section.Text %}
+                        <p>{{ section.Text }}</p>
                       {% endif %}
-                    {% endif %}
-                  </div>
-                {% endfor %}
-              {% else %}
-                <div class="year-tabs {% if is_country_page %}category-tabs{% endif %}">
-                  {% for year in subtab.years %}
-                    <button
-                      class="year-button {% if loop.first %}active{% endif %}"
-                      onclick="showYear(this, '{{ year }}', {{ tab_index }}, '{{ subtab.title | replace(' ', '_') }}')"
-                    >
-                      {{ year }}
-                    </button>
+                      {% if section.List %}
+                        <ul>
+                          {% for item in section.List %}
+                            <li>{{ item }}</li>
+                          {% endfor %}
+                        </ul>
+                      {% endif %}
+                      {% if section.FlourishEmbed %}
+                        <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                        {% if subtab.democracy_description %}
+                          <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
+                        {% endif %}
+                      {% endif %}
+                    </div>
                   {% endfor %}
-                </div>
-
-                {% for year in subtab.years %}
-                  <div class="year-panel"
-                       id="year-{{ year }}-{{ tab_index }}-{{ subtab.title | replace(' ', '_') }}"
-                       style="display: {% if loop.first %}block{% else %}none{% endif %};">
-                    {% for section in subtab.sections_by_year[year] %}
-                      <div class="section">
-                        {% if section.Text %}
-                          <p>{{ section.Text }}</p>
-                        {% endif %}
-                        {% if section.List %}
-                          <ul>
-                            {% for item in section.List %}
-                              <li>{{ item }}</li>
-                            {% endfor %}
-                          </ul>
-                        {% endif %}
-                        {% if section.FlourishEmbed %}
-                          <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
-                          {% if subtab.democracy_description %}
-                            <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
-                          {% endif %}
-                        {% endif %}
-                      </div>
+                {% else %}
+                  <div class="year-tabs {% if is_country_page %}category-tabs{% endif %}">
+                    {% for year in subtab.years %}
+                      <button
+                        class="year-button {% if loop.first %}active{% endif %}"
+                        onclick="showYear(this, '{{ year }}', {{ tab_index }}, '{{ subtab.title | replace(' ', '_') }}')"
+                      >
+                        {{ year }}
+                      </button>
                     {% endfor %}
                   </div>
-                {% endfor %}
-              {% endif %}
+
+                  {% for year in subtab.years %}
+                    <div class="year-panel"
+                         id="year-{{ year }}-{{ tab_index }}-{{ subtab.title | replace(' ', '_') }}"
+                         style="display: {% if loop.first %}block{% else %}none{% endif %};">
+                      {% for section in subtab.sections_by_year[year] %}
+                        <div class="section">
+                          {% if section.Text %}
+                            <p>{{ section.Text }}</p>
+                          {% endif %}
+                          {% if section.List %}
+                            <ul>
+                              {% for item in section.List %}
+                                <li>{{ item }}</li>
+                              {% endfor %}
+                            </ul>
+                          {% endif %}
+                          {% if section.FlourishEmbed %}
+                            <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                            {% if subtab.democracy_description %}
+                              <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
+                            {% endif %}
+                          {% endif %}
+                        </div>
+                      {% endfor %}
+                    </div>
+                  {% endfor %}
+                {% endif %}
+              </div>
             {% endif %}
           {% endfor %}
+          {# --- END: Grouped Section Containers --- #}
         </div>
       {% endfor %}
     </div>
@@ -152,7 +158,7 @@
     {% endfor %}
   {% endif %}
 </div>
-
+<!-- JavaScript unchanged -->
 <script>
   function showTab(index) {
     // Show the correct tab panel
