@@ -707,6 +707,25 @@ a.view-button {
   border: 1px solid #333;
 }
 
+.section-container {
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 24px 24px 0 24px;
+  margin-bottom: 28px;
+  background: #18191b;
+}
+
+.section-container h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+  color: #fff;
+}
+
+.section-divider {
+  border-bottom: 1px solid #444;
+  margin: 12px 0 18px 0;
+}
+
 /* Adjust tabs styling when inside header container */
 .header-container .tabs {
   margin-bottom: 0;
@@ -716,6 +735,14 @@ a.view-button {
 .header-container .tabs.category-tabs {
   border-bottom: none;
   margin-bottom: 0;
+}
+
+.header-divider {
+  border-bottom: 1px solid #444;
+  width: 100%;
+  margin: 18px 0 0 0;
+  padding: 0;
+  /* Ensures the line goes full width inside .header-container (remove horizontal padding if present on header-container) */
 }
 
 /* Ensure content inside content-container has proper spacing */
