@@ -486,16 +486,16 @@ a.view-button {
 /* Stay updated section styles */
 .stay-updated-section {
   background-color: #1a1a1a;
-  padding: 40px;
+  padding: 30px;
   margin: 40px 0;
-  border-radius: 8px;
+  border-radius: 0;
   text-align: left;
   width: 100%;
 }
 
 .stay-updated-section h3 {
   color: #fff;
-  font-size: 24px;
+  font-size: 12px;
   font-weight: 600;
   margin-bottom: 10px;
   margin-top: 0;
@@ -503,7 +503,7 @@ a.view-button {
 
 .stay-updated-section p {
   color: #b0b0b0;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
   margin-bottom: 15px;
 }
@@ -513,27 +513,29 @@ a.view-button {
   color: #fff;
   padding: 10px 20px;
   border: none;
-  border-radius: 4px;
-  font-size: 14px;
+  border-radius: 0;
+  font-size: 10px;
   font-weight: 500;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .subscribe-btn:hover {
-  background-color: #555; /* Slightly darker on hover */
+  background-color: none;
+  color: none /* Slightly darker on hover */
 }
 
 .subscribe-btn:hover {
-  background-color: #9da8b3;
+  background-color: none;
 }
 
 /* ======== SMALLER ALT-FOOTER START ======== */
 .main-footer {
   background-color: #1c1c1e;
-  padding: 40px 0;
+  padding: 0 0;
   margin-top: 20px;
-  /* border-top: 1px solid #222; */
+  margin-bottom: 70px;
+  border-bottom: 0.5px solid #ABACAE;
 }
 
 .alt-footer .main-footer {
@@ -742,6 +744,8 @@ a.view-button {
   width: 100%;
   margin: 18px 0 0 0;
   padding: 0;
+  margin-top: -5px;
+  margin-bottom: 10px;
   /* Ensures the line goes full width inside .header-container (remove horizontal padding if present on header-container) */
 }
 
