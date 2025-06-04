@@ -5,12 +5,30 @@
 <div class="page-wrapper">
   <!-- Header section in its own card -->
   <div class="header-container">
-    <h2>{{ page_title }}</h2>
-    <div class="header-divider"></div>
-    {% if country_description %}
-      <p class="page-description">{{ country_description }}</p>
-    {% endif %}
-    {% if category == "Election Tracker" %}
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div>
+        <h2>{{ page_title }}</h2>
+        {% if country_description %}
+          <p class="page-description">{{ country_description }}</p>
+        {% endif %}
+      </div>
+      {% if is_country_page and country_explore_button %}
+        <div>
+          {{ country_explore_button|safe }}
+        </div>
+      {% endif %}
+    </div>
+    {# Move divider here, directly after heading and text, before the tabs #}
+    <div class="header-divider" style="margin-bottom: 0;"></div>
+    {% if is_country_page and source_tabs %}
+      <div class="tabs category-tabs country-tabs">
+        {% for tab in source_tabs %}
+          <button class="tab-button {% if loop.first %}active{% endif %}" onclick="showTab('{{ loop.index0 }}')">
+            {{ tab.title }}
+          </button>
+        {% endfor %}
+      </div>
+    {% elif category == "Election Tracker" %}
       <div class="tabs category-tabs">
         {% for slug, page in sidebar.tracker.items() %}
           <a href="/{{ slug }}" class="tab-button {% if slug == current_slug %}active{% endif %}">
@@ -33,13 +51,7 @@
     <!-- Main tabbed content in its own card -->
     <div class="content-container">
       {% if is_country_page %}
-        <div class="tabs category-tabs country-tabs">
-          {% for tab in source_tabs %}
-            <button class="tab-button {% if loop.first %}active{% endif %}" onclick="showTab('{{ loop.index0 }}')">
-              {{ tab.title }}
-            </button>
-          {% endfor %}
-        </div>
+        {# Tabs are already rendered above for country page #}
       {% elif category not in ["Election Tracker", "Democracy Data", "Directory of Country Resources"] %}
         <div class="tabs">
           {% for tab in source_tabs %}
