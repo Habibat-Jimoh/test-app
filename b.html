@@ -16,6 +16,9 @@
     .nav-group h3 {
       cursor: pointer;
       margin-bottom: 5px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
     }
     .nav-group li {
       list-style: none;
@@ -159,6 +162,66 @@
       margin: 32px 44px 0 44px;
     }
 
+    /* --- CHEVRON ICON (SVG) --- */
+    .chevron {
+      display: flex;
+      align-items: center;
+      margin-left: 70px;
+      min-width: 20px;
+      min-height: 20px;
+    }
+    .chevron svg {
+      display: block;
+      width: 20px;
+      height: 20px;
+      stroke: #B2BFCC;
+      stroke-width: 1.2; /* lighter line */
+      fill: none;
+      transition: transform 0.2s;
+    }
+    .nav-group.active .chevron svg {
+      transform: rotate(90deg);
+    }
+
+    /* -- MODIFICATION: Stay up-to-date container mimics content-container -- */
+    .stay-updated-section-container {
+      background-color: #1a1a1a;
+      padding: 30px;
+      border-radius: 0;
+      border: 1px solid #333;
+      margin: 40px 0;
+      text-align: left;
+      width: 100%;
+    }
+    .stay-updated-section-container h3 {
+      color: #fff;
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 10px;
+      margin-top: 0;
+    }
+    .stay-updated-section-container p {
+      color: #b0b0b0;
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 15px;
+    }
+    .stay-updated-section-container .subscribe-btn {
+      background-color: #666;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 0;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .stay-updated-section-container .subscribe-btn:hover {
+      background-color: #444;
+      color: #fff;
+    }
+
     @media (max-width: 1100px) {
       .alt-footer .footer-row {
         flex-direction: column;
@@ -225,7 +288,14 @@
         <h2>African Democracy</h2>
 
         <div class="nav-group" onclick="toggleGroup(this)">
-          <h3>Election Tracker</h3>
+          <h3>
+            Election Tracker 
+            <span class="chevron">
+              <svg viewBox="0 0 24 24">
+                <polyline points="8 5 16 12 8 19"/>
+              </svg>
+            </span>
+          </h3>
           <ul>
             {% for slug, page in sidebar.tracker.items() %}
               <li><a href="/{{ slug }}">{{ page.page_fields["Democracy-page"] }}</a></li>
@@ -234,7 +304,14 @@
         </div>
 
         <div class="nav-group" onclick="toggleGroup(this)">
-          <h3>Democracy Data</h3>
+          <h3>
+            Democracy Data
+            <span class="chevron">
+              <svg viewBox="0 0 24 24">
+                <polyline points="8 5 16 12 8 19"/>
+              </svg>
+            </span>
+          </h3>
           <ul>
             {% for slug, page in sidebar.democracy.items() %}
               <li><a href="/{{ slug }}">{{ page.page_fields["Democracy-page"] }}</a></li>
@@ -243,7 +320,14 @@
         </div>
 
         <div class="nav-group" onclick="toggleGroup(this)">
-          <h3>Country Data & History</h3>
+          <h3>
+            Country Data & History
+            <span class="chevron">
+              <svg viewBox="0 0 24 24">
+                <polyline points="8 5 16 12 8 19"/>
+              </svg>
+            </span>
+          </h3>
           <ul>
             {% for slug, country in sidebar.countries.items() %}
               <li><a href="/{{ slug }}">{{ country.page_fields["Country"] }}</a></li>
@@ -262,8 +346,8 @@
     <main class="content">
       {% block content %}{% endblock %}
       
-      <!-- Stay up-to-date section -->
-      <div class="stay-updated-section">
+      <!-- Stay up-to-date section in a container like More info -->
+      <div class="stay-updated-section-container">
         <h3>Stay up-to-date on African elections</h3>
         <p>We'll send you updates on upcoming African elections, including results and major changes to dates or candidates on the ballot.</p>
         <button class="subscribe-btn">Subscribe</button>
