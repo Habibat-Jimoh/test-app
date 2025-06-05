@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
-  background-color: #1c1c1e;
+  background-color: #1b1d20;
   color: #eee;
   overflow-x: hidden;
   font-size: 14px;
@@ -12,7 +12,7 @@ body {
   min-height: 100vh;
   position: relative;
   padding-top: 50px; /* same height as top-pane */
-  gap: 20px;
+  gap: -5px;
 }
 
 .sidebar {
@@ -36,15 +36,15 @@ body {
 
 .sidebar h2 {
   color: #B2BFCC;
-  font-size: 14px; 
+  font-size: 15px; 
   font-weight: 400; 
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
 }
 
 /* ─── CATEGORY HEADINGS ─── */
 .sidebar h3 {
-  margin-top: 1.5em;
-  font-size: 14px;
+  margin-top: 0.5em;
+  font-size: 12px;
   color: #B2BFCC;         
   font-weight: 400; 
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
@@ -72,7 +72,7 @@ body {
   text-decoration: none;
   display: block;
   padding: 4px 0;
-  font-size: 14px;             
+  font-size: 12px;             
   font-weight: 400;
   border-bottom: none;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
@@ -348,38 +348,46 @@ a.view-button {
 
 /* More info about this page section */
 .more-info-section {
+  background: #111;
+  padding: 16px 30px;
+  border: 1px solid #333;
+  border-radius: 0;
   margin: 10px 0;
-  border-bottom: 1px solid #333;
-  padding-bottom: 20px;
-  font-size: 14px;
-  font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  box-sizing: border-box;
 }
 
 .more-info-toggle {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 0;
+  margin: 0;
   cursor: pointer;
-  padding: 10px 0;
   user-select: none;
-  font-size: 14px;
-  font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  min-height: 10px; 
 }
 
 .more-info-title {
+  font-size: 14px;     
+  font-weight: 600;
   color: #fff;
-  font-size: 14px;
-  font-weight: 500;
-  font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.1;
 }
 
 .more-info-icon {
   color: #fff;
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bold;
-  width: 20px;
-  text-align: center;
-  font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  margin-left: 12px;
+  margin-right: 0;
+  width: 28px;
+  text-align: right;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
 }
 
 .more-info-toggle:hover .more-info-title {
@@ -417,7 +425,7 @@ a.view-button {
   right: 0;
   height: 50px;
   background-color: #0E0F10;
-  border-bottom: 1px solid #222;
+  border-bottom: 0.5px solid #4B5563;
   display: flex;
   align-items: center;
   z-index: 100;
@@ -595,11 +603,11 @@ a.view-button {
 
 /* ======== SMALLER ALT-FOOTER START ======== */
 .main-footer {
-  background-color: #1c1c1e;
+  background-color: #1b1d20;
   padding: 0 0;
   margin-top: 20px;
-  margin-bottom: 70px;
-  border-bottom: 0.5px solid #ABACAE;
+  margin-bottom: 50px;
+  /* border-bottom: 0.5px solid #4B5563; */
 }
 
 .alt-footer .main-footer {
@@ -665,7 +673,7 @@ a.view-button {
 /* Vertical divider */
 .alt-footer .footer-divider {
   width: 1px;
-  background: #444;
+  background: #4B5563;
   height: 60px; /* Was 110px, reduce */
   margin: 0 16px;
   align-self: flex-start;
@@ -728,9 +736,11 @@ a.view-button {
   color: #fff;
 }
 
+
 /* Remove the horizontal line at the bottom */
 .alt-footer .footer-line {
-  display: none;
+  /* display: none; */
+  border-bottom: 0.5px solid #4B5563;
 }
 
 @media (max-width: 1100px) {
@@ -759,7 +769,7 @@ a.view-button {
   margin-bottom: 10px;
   margin-top: -10px;
   border-radius: 0;
-  border: 1px solid #333;
+  border: 0.5px solid #4B5563;
   font-size: 14px;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
 }
@@ -767,7 +777,7 @@ a.view-button {
 .header-container h2 {
   margin: 0 0 16px 0;
   color: #fff;
-  font-size: 14px;
+  font-size: 20px;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
 }
 
@@ -783,7 +793,7 @@ a.view-button {
   background-color: #1a1a1a;
   padding: 30px;
   border-radius: 0;
-  border: 1px solid #333;
+  border: 0.5px solid #4B5563;
   font-size: 14px;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
   margin-bottom: 10px; /* <--- Add this for spacing between containers */
@@ -807,8 +817,13 @@ a.view-button {
 }
 
 .section-divider {
-  border-bottom: 1px solid #444;
-  margin: 12px 0 18px 0;
+  border-bottom: 0.5px solid #4B5563;
+  margin: 0 0 18px 0;
+  width: calc(100% + 60px); /* 2 * 30px padding of .content-container */
+  margin-left: -30px;
+  margin-right: -30px;
+  padding: 0;
+  box-sizing: content-box;
 }
 
 /* Adjust tabs styling when inside header container */
@@ -820,16 +835,17 @@ a.view-button {
 .header-container .tabs.category-tabs {
   border-bottom: none;
   margin-bottom: 0;
+  margin-top: 10px;
 }
 
 .header-divider {
-  border-bottom: 1px solid #444;
-  width: 100%;
-  margin: 18px 0 0 0;
-  padding: 0;
-  margin-top: -5px;
+  border-bottom: 0.5px solid #4B5563;
+  width: calc(100% + 60px); /* 2 * 30px padding of .header-container */
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-top: 0;
   margin-bottom: 10px;
-  /* Ensures the line goes full width inside .header-container (remove horizontal padding if present on header-container) */
+  padding: 0;
 }
 
 .header-container .tab-button,
