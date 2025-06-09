@@ -18,7 +18,6 @@
         </div>
       {% endif %}
     </div>
-    {# Move divider here, directly after heading and text, before the tabs #}
     <div class="header-divider" style="margin-bottom: 0;"></div>
     {% if is_country_page and source_tabs %}
       <div class="tabs category-tabs country-tabs">
@@ -55,7 +54,6 @@
            data-tab="{{ loop.index0 }}">
         {% set tab_index = loop.index0 %}
 
-        {# Render TabText once per tab here #}
         {% if tab.text %}
           <p class="tab-text">{{ tab.text }}</p>
         {% endif %}
@@ -67,9 +65,12 @@
               {% if subtab.title %}
                 <h3>{{ subtab.title }}</h3>
                 <div class="section-divider"></div>
-              {% endif %}
-              {% if subtab.text %}
+                {% if subtab.text %}
+                  <p class="subtab-text">{{ subtab.text }}</p>
+                {% endif %}
+              {% elif subtab.text %}
                 <p class="subtab-text">{{ subtab.text }}</p>
+                <div class="section-divider"></div>
               {% endif %}
 
               {% if subtab.years|length == 1 and subtab.years[0] == "all" %}
