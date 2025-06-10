@@ -548,7 +548,7 @@ a.view-button {
   padding: 30px;
   border-radius: 0;
   border: 0.5px solid #4B5563 ;
-  margin: 40px 0;
+  margin: 10px 0;
   text-align: left;
   width: 100%;
   box-sizing: border-box;
@@ -557,14 +557,14 @@ a.view-button {
   color: #fff;
   font-size: 16px;
   font-weight: 600;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   margin-top: 0;
 }
 .stay-updated-section-container p {
   color: #b0b0b0;
   font-size: 14px;
   line-height: 1.5;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 }
 .stay-updated-section-container .subscribe-btn {
   background-color: #666;
