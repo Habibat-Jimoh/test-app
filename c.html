@@ -18,7 +18,12 @@
         </div>
       {% endif %}
     </div>
-    <div class="header-divider" style="margin-bottom: 0;"></div>
+    {# Show divider ONLY if there is more than one tab/page #}
+    {% if (is_country_page and source_tabs and source_tabs|length > 1)
+        or (category == "Election Tracker" and sidebar.tracker and sidebar.tracker|length > 1)
+        or (category == "Democracy Data" and sidebar.democracy and sidebar.democracy|length > 1) %}
+      <div class="header-divider" style="margin-bottom: 0;"></div>
+    {% endif %}
     {% if is_country_page and source_tabs %}
       <div class="tabs category-tabs country-tabs">
         {% for tab in source_tabs %}
