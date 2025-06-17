@@ -414,6 +414,21 @@ a.view-button {
   line-height: 1.5;
   font-size: 14px;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  margin-top: 18px;  
+  position: relative;
+}
+
+.more-info-content::before {
+  content: "";
+  display: block;
+  border-bottom: 0.5px solid #4B5563;
+  width: calc(100% + 60px);   /* 30px padding left/right, matches other dividers */
+  margin-left: -30px;
+  margin-right: -30px;
+  margin-top: -15px;           /* Aligns divider right under the header */
+  margin-bottom: 15px;         /* Space between divider and text */
+  height: 0;
+  box-sizing: content-box;
 }
 
 .more-info-content p {
@@ -529,16 +544,24 @@ a.view-button {
   font-size: 14px;
   border-bottom: 1px solid #333;
   font-family: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  background: none;
+  transition: none; 
 }
 
-.dropdown-content a:hover {
-  background-color: none;
-  color: none;
-  border-bottom: none;
+/* Remove any border, color, or background changes on hover/focus */
+.dropdown-content a:hover,
+.dropdown-content a:focus {
+  color: #B2BFCC;
+  background: none;
+  border-bottom: 1px solid #333;
+  outline: none;
 }
 
-/* Show dropdown on hover */
-.dropdown:hover .dropdown-content {
+/* Make dropdown stay open when hovering over the dropdown or the dropdown-content */
+.dropdown:hover .dropdown-content,
+.dropdown:focus-within .dropdown-content,
+.dropdown-content:hover,
+.dropdown-content:focus-within {
   display: block;
 }
 
@@ -976,6 +999,224 @@ a.view-button {
   color: #B2BFCC;
   stroke: #B2BFCC;
 }
+
+
+.nav-group ul {
+  display: none;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.nav-group.active ul {
+  display: block;
+}
+
+.nav-group h3 {
+  cursor: pointer;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+    
+.nav-group li {
+  list-style: none;
+  margin: 4px 0;
+}
+
+.nav-group a {
+  color: #7bcaff;
+  text-decoration: none;
+}
+
+/* --- FOOTER LAYOUT FOR IMAGE 5 --- */
+.alt-footer .footer-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 40px;
+  padding: 24px 44px 0 44px;
+}
+    
+.alt-footer .footer-left {
+  flex: 1 1 0;
+  min-width: 240px;
+  max-width: 350px;
+}    
+
+.alt-footer .footer-logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}    
+
+.alt-footer .open-data-text {
+  color: #B2BFCC;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 8px;
+}    
+    
+.alt-footer .footer-description.small {
+  font-size: 14px;
+  color: #888;
+  margin: 0;
+  line-height: 1.5;
+  word-break: break-word;
+}    
+
+/* Group nav + subscribe side-by-side on right */
+.alt-footer .footer-right-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 40px;
+}    
+
+.alt-footer .footer-nav {
+  flex: 0 0 auto;
+  text-align: left;
+}
+.alt-footer .footer-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.alt-footer .footer-nav ul li {
+  margin-bottom: 12px;
+}
+.alt-footer .footer-nav ul li a {
+  color: #B2BFCC;
+  text-decoration: none;
+  font-size: 15px;
+  transition: color 0.2s;
+}
+.alt-footer .footer-nav ul li a:hover {
+  color: #fff;
+}    
+
+/* Vertical divider */
+.alt-footer .footer-divider {
+  width: 1px;
+  background: #444;
+  height: 110px;
+  margin: 0 28px;
+  align-self: flex-start;
+  flex-shrink: 0;
+}
+
+/* Subscribe section right beside nav */
+.alt-footer .footer-subscribe {
+  min-width: 230px;
+  max-width: 270px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+}
+.alt-footer .subscribe-title {
+  color: #B2BFCC;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 2px;
+  letter-spacing: 0.02em;
+}
+
+.alt-footer .subscribe-desc {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.alt-footer .footer-form input[type="email"] {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid #444;
+  background: #222;
+  color: #fff;
+  border-radius: 2px;
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+.alt-footer .footer-social {
+  display: flex;
+  gap: 12px;
+}
+    
+.alt-footer .social-icon {
+  width: 32px;
+  height: 32px;
+  background: #222;
+  color: #B2BFCC;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.alt-footer .social-icon:hover {
+  background: #444;
+  color: #fff;
+}
+
+/* Bottom line below footer */
+.alt-footer .footer-line {
+  border: none;
+  border-bottom: 1px solid #444;
+  margin: 32px 44px 0 44px;
+}
+
+
+/* --- CHEVRON ICON (SVG) --- */
+.chevron {
+  display: flex;
+  align-items: center;
+  margin-left: 70px;
+  min-width: 20px;
+  min-height: 20px;
+}
+.chevron svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+  stroke: #B2BFCC;
+  stroke-width: 1.2; /* lighter line */
+  fill: none;
+  transition: transform 0.2s;
+}
+.nav-group.active .chevron svg {
+  transform: rotate(90deg);
+}
+    
+
+@media (max-width: 1100px) {
+  .alt-footer .footer-row {
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+  }
+  .alt-footer .footer-left {
+    margin-bottom: 20px;
+    max-width: 100%;
+  }
+  .alt-footer .footer-right-group {
+    flex-direction: column;
+    gap: 18px;
+    width: 100%;
+  }
+  .alt-footer .footer-divider {
+    display: none;
+  }
+  .alt-footer .footer-subscribe {
+    align-items: stretch;
+    max-width: 100%;
+  }
+  .alt-footer .footer-line {
+    margin: 24px 20px 0 20px;
+  }
+}
+    
 
 /* Responsive design */
 @media (max-width: 900px) {
