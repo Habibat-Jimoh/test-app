@@ -90,7 +90,8 @@
                   "Charttype": "key stats",
                   "SectionID": "nigeria-key-stats-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             },
@@ -123,7 +124,8 @@
                   "Charttype": "democratic history",
                   "SectionID": "nigeria-democratic-history-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             }
@@ -173,7 +175,8 @@
                   "Charttype": "candidate",
                   "SectionID": "nigeria-2023-candidate-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -192,7 +195,7 @@
               "recz8MKBwzyil53vX",
               "recxzyvxcLPA6bFia"
             ],
-            "More info about this page": "Explore Nigeria\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics.\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across Nigeria.\n\nTogether, these visualizations offer a comprehensive view of Nigeria\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
+            "More info about this page": "Explore Nigeria\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics. <br><br>\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across Nigeria.\n\nTogether, these visualizations offer a comprehensive view of Nigeria\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
           },
           "subtabs": [
             {
@@ -233,7 +236,8 @@
                   "Charttype": "bar",
                   "SectionID": "nigeria-2023-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -247,7 +251,8 @@
                   "Charttype": "bar",
                   "SectionID": "nigeria-2019-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -261,7 +266,8 @@
                   "Charttype": "bar",
                   "SectionID": "nigeria-2015-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -274,7 +280,8 @@
                   "Charttype": "voting metrics",
                   "SectionID": "nigeria-voting-metrics-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 4
+                  "SectionOrder": 4,
+                  "Chart-dimension": "100% x 400px"
                 },
                 {
                   "SubtabID": [
@@ -288,7 +295,8 @@
                   "Charttype": "map",
                   "SectionID": "nigeria-2015-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -302,7 +310,8 @@
                   "Charttype": "map",
                   "SectionID": "nigeria-2023-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -316,7 +325,8 @@
                   "Charttype": "map",
                   "SectionID": "nigeria-2019-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -330,7 +340,8 @@
                   "Charttype": "election representativeness",
                   "SectionID": "nigeria-2019-election-representativeness-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 3
+                  "SectionOrder": 3,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -344,7 +355,8 @@
                   "Charttype": "election representativeness",
                   "SectionID": "nigeria-2023-election-representativeness-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 3
+                  "SectionOrder": 3,
+                  "Chart-dimension": "100% x 300px"
                 }
               ]
             },
@@ -387,7 +399,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "nigeria-2023-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -401,7 +414,8 @@
                   "Charttype": "national parliament",
                   "SectionID": "nigeria-2023-national-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -415,7 +429,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "nigeria-2019-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -429,7 +444,8 @@
                   "Charttype": "national parliament",
                   "SectionID": "nigeria-2019-national-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -443,7 +459,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "nigeria-2015-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -457,7 +474,8 @@
                   "Charttype": "national parliament",
                   "SectionID": "nigeria-2015-national-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -471,7 +489,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "nigeria-2011-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -485,7 +504,8 @@
                   "Charttype": "national parliament",
                   "SectionID": "nigeria-2011-national-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -499,7 +519,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "nigeria-2007-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -513,7 +534,8 @@
                   "Charttype": "national parliament",
                   "SectionID": "nigeria-2007-national-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -610,7 +632,8 @@
                   "Charttype": "key stats",
                   "SectionID": "botswana-key-stats-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             },
@@ -643,7 +666,8 @@
                   "Charttype": "democratic history",
                   "SectionID": "botswana-democratic-history-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             }
@@ -693,7 +717,8 @@
                   "Charttype": "candidate",
                   "SectionID": "botswana-2024-candidate-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -713,7 +738,7 @@
               "recqSZhFBITa5pn25",
               "recLaoadQK0RcpqPW"
             ],
-            "More info about this page": "Explore Botswana\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here.\n\nDive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Botswana\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Botswana\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour. Finally, navigate through interactive election maps, which present regional election results and voting patterns, highlighting how political parties and candidates performed across different areas in Botswana.\n\nTogether, these visualisations provide a holistic view of Botswana\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
+            "More info about this page": "Explore Botswana\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here. <br><br>\n\nDive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Botswana\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Botswana\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour. Finally, navigate through interactive election maps, which present regional election results and voting patterns, highlighting how political parties and candidates performed across different areas in Botswana. <br><br>\n\nTogether, these visualisations provide a holistic view of Botswana\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
           },
           "subtabs": [
             {
@@ -773,7 +798,8 @@
                   "Charttype": "parliament",
                   "SectionID": "botswana-2024-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -787,7 +813,8 @@
                   "Charttype": "parliament",
                   "SectionID": "botswana-2019-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -801,7 +828,8 @@
                   "Charttype": "parliament",
                   "SectionID": "botswana-2014-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -815,7 +843,8 @@
                   "Charttype": "parliament",
                   "SectionID": "botswana-2009-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -829,7 +858,8 @@
                   "Charttype": "parliament",
                   "SectionID": "botswana-2004-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -842,7 +872,8 @@
                   "Charttype": "voting metrics",
                   "SectionID": "botswana-voting-metrics-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             },
@@ -883,7 +914,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "botswana-2024-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -897,7 +929,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "botswana-2019-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -911,7 +944,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "botswana-2014-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -925,7 +959,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "botswana-2009-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -939,7 +974,8 @@
                   "Charttype": "map",
                   "SectionID": "botswana-2024-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -953,7 +989,8 @@
                   "Charttype": "map",
                   "SectionID": "botswana-2019-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -967,7 +1004,8 @@
                   "Charttype": "map",
                   "SectionID": "botswana-2014-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -1065,7 +1103,8 @@
                   "Charttype": "key stats",
                   "SectionID": "south-africa-key-stats-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             },
@@ -1098,7 +1137,8 @@
                   "Charttype": "democratic history",
                   "SectionID": "south-africa-democratic-history-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             }
@@ -1148,7 +1188,8 @@
                   "Charttype": "candidate",
                   "SectionID": "south-africa-2024-candidate-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -1168,7 +1209,7 @@
               "recR4UyWgAQHkz1uH",
               "recCjwWKo4bfPkwdr"
             ],
-            "More info about this page": "Explore South Africa\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics.\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across South Africa.\n\nTogether, these visualizations offer a comprehensive view of South Africa\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
+            "More info about this page": "Explore South Africa\u2019s election data through a collection of interactive visualizations and charts that reveal key political and democratic trends. The dynamic charts show shifts in parliamentary control over the years, highlighting changes in party seat distributions. Presidential voter metrics, including turnout, invalid votes, and participation rates, uncover patterns in electoral engagement. Bar charts illustrate presidential election results by party vote percentages, providing a clear picture of voter and party dynamics. <br><br>\n\nAlso, election integrity data compares observer group estimates with official results, highlighting trends and discrepancies. Interactive maps present regional voting patterns, showing how parties and candidates performed across South Africa.\n\nTogether, these visualizations offer a comprehensive view of South Africa\u2019s electoral history, making it an essential resource for political analysts, journalists, students, and democracy advocates."
           },
           "subtabs": [
             {
@@ -1205,7 +1246,8 @@
                   "Charttype": "bar",
                   "SectionID": "south-africa-2024-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1219,7 +1261,8 @@
                   "Charttype": "bar",
                   "SectionID": "south-africa-2019-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1233,7 +1276,8 @@
                   "Charttype": "bar",
                   "SectionID": "south-africa-2014-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1247,7 +1291,8 @@
                   "Charttype": "bar",
                   "SectionID": "south-africa-2009-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 }
               ]
             },
@@ -1286,7 +1331,8 @@
                   "Charttype": "voting metrics",
                   "SectionID": "south-africa-voting-metrics-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 },
                 {
                   "SubtabID": [
@@ -1300,7 +1346,8 @@
                   "Charttype": "parliament",
                   "SectionID": "south-africa-2024-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1314,7 +1361,8 @@
                   "Charttype": "parliament",
                   "SectionID": "south-africa-2019-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1328,7 +1376,8 @@
                   "Charttype": "parliament",
                   "SectionID": "south-africa-2014-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1342,7 +1391,8 @@
                   "Charttype": "parliament",
                   "SectionID": "south-africa-2009-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1356,7 +1406,8 @@
                   "Charttype": "parliament",
                   "SectionID": "south-africa-2004-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             },
@@ -1398,7 +1449,8 @@
                   "Charttype": "map",
                   "SectionID": "south-africa-2024-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1412,7 +1464,8 @@
                   "Charttype": "map",
                   "SectionID": "south-africa-2019-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1426,7 +1479,8 @@
                   "Charttype": "map",
                   "SectionID": "south-africa-2014-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1440,7 +1494,8 @@
                   "Charttype": "map",
                   "SectionID": "south-africa-2009-map-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1454,7 +1509,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "south-africa-2024-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1468,7 +1524,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "south-africa-2019-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1482,7 +1539,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "south-africa-2014-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1496,7 +1554,8 @@
                   "Charttype": "voter preference bar",
                   "SectionID": "south-africa-2009-voter-preference-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 }
               ]
             }
@@ -1585,7 +1644,8 @@
                   "Charttype": "candidate",
                   "SectionID": "egypt-2023-candidate-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -1604,7 +1664,7 @@
               "recsC4D80NbasJP8e",
               "recuGYATo2kKJxB9X"
             ],
-            "More info about this page": "Explore Egypt\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here. Dive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Egypt\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Egypt\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour.\n\nTogether, these visualisations provide a holistic view of Egypt\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
+            "More info about this page": "Explore Egypt\u2019s comprehensive election data through an engaging collection of interactive visualisations and charts, all featured here. <br><br>\n\nDive into the parliamentary election results, displayed through a dynamic chart that breaks down the number of seats held by political parties across election years, offering insights into Egypt\u2019s legislative control and political shifts. Analyse presidential voter metrics  showcasing trends in voter turnout, invalid votes, and participation rates, providing a detailed perspective on Egypt\u2019s evolving electoral engagement. Discover presidential election results via bar charts that illustrate party performance by percentage votes, revealing key trends in voter and political party behaviour. <br><br>\n\nTogether, these visualisations provide a holistic view of Egypt\u2019s electoral and democratic history, making this an essential resource for political analysts, journalists, students, and democracy advocates."
           },
           "subtabs": [
             {
@@ -1640,7 +1700,8 @@
                   "Charttype": "bar",
                   "SectionID": "egypt-2023-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1654,7 +1715,8 @@
                   "Charttype": "bar",
                   "SectionID": "egypt-2018-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 },
                 {
                   "SubtabID": [
@@ -1667,7 +1729,8 @@
                   "Charttype": "voting metrics",
                   "SectionID": "egypt-voting-metrics-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 },
                 {
                   "SubtabID": [
@@ -1681,7 +1744,8 @@
                   "Charttype": "bar",
                   "SectionID": "egypt-2014-bar-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 300px"
                 }
               ]
             },
@@ -1722,7 +1786,8 @@
                   "Charttype": "house of representative",
                   "SectionID": "egypt-2020-house-of-representative-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1736,7 +1801,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "egypt-2025-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1750,7 +1816,8 @@
                   "Charttype": "house of representative",
                   "SectionID": "egypt-2025-house-of-representative-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1764,7 +1831,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "egypt-2020-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1778,7 +1846,8 @@
                   "Charttype": "house of representative",
                   "SectionID": "egypt-2015-house-of-representative-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1792,7 +1861,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "egypt-2012-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1806,7 +1876,8 @@
                   "Charttype": "house of representative",
                   "SectionID": "egypt-2011-house-of-representative-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 },
                 {
                   "SubtabID": [
@@ -1820,7 +1891,8 @@
                   "Charttype": "senate parliament",
                   "SectionID": "egypt-2010-senate-parliament-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 600px"
                 }
               ]
             }
@@ -1872,7 +1944,8 @@
                   "Charttype": "key stats",
                   "SectionID": "egypt-key-stats-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 1
+                  "SectionOrder": 1,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             },
@@ -1905,7 +1978,8 @@
                   "Charttype": "democratic history",
                   "SectionID": "egypt-democratic-history-chart",
                   "ShowSection": "Yes",
-                  "SectionOrder": 2
+                  "SectionOrder": 2,
+                  "Chart-dimension": "100% x 400px"
                 }
               ]
             }
@@ -2037,7 +2111,7 @@
             "Democracy-subtabID": [
               "reciCqcGVAmG7JhJw"
             ],
-            "More info about this page": "Explore in-depth data on Africa's levels of democracy with an interactive map based on the Economist Intelligence Unit's Democracy Index.\n\nThis index evaluates countries across five key dimensions: electoral process, government functionality, political participation, political culture, and civil liberties. Each African nation is classified as a full democracy, flawed democracy, hybrid regime, or authoritarian regime. The interactive map provides a dynamic visualisation of rankings, allowing users to compare trends, and gain insights into the continent's political landscape. It\u2019s your gateway to understanding Africa\u2019s democratic evolution.",
+            "More info about this page": "Explore in-depth data on Africa's levels of democracy with an interactive map based on the Economist Intelligence Unit's Democracy Index. <br><br>\n\nThis index evaluates countries across five key dimensions: electoral process, government functionality, political participation, political culture, and civil liberties. Each African nation is classified as a full democracy, flawed democracy, hybrid regime, or authoritarian regime. The interactive map provides a dynamic visualisation of rankings, allowing users to compare trends, and gain insights into the continent's political landscape. It\u2019s your gateway to understanding Africa\u2019s democratic evolution.",
             "Democracy-pageID": [
               "recEfQqP9PoAIVrQ5"
             ]
@@ -2167,7 +2241,7 @@
             "Democracy-subtabID": [
               "recfcGopGdiPqU5P8"
             ],
-            "More info about this page": "Dive into Africa\u2019s geopolitical challenges with an interactive map that highlights coup and conflict statuses across the continent. This map showcases countries under military regimes, those experiencing ongoing conflicts, which could mean nations at risk of instability.\n\nIt provides historical context, current updates, and visual markers for conflict zones, helping you analyse the political and security landscape of Africa. Gain a deeper understanding of the factors shaping peace and governance in African nations.",
+            "More info about this page": "Dive into Africa\u2019s geopolitical challenges with an interactive map that highlights coup and conflict statuses across the continent. This map showcases countries under military regimes, those experiencing ongoing conflicts, which could mean nations at risk of instability. <br><br>\n\nIt provides historical context, current updates, and visual markers for conflict zones, helping you analyse the political and security landscape of Africa. Gain a deeper understanding of the factors shaping peace and governance in African nations.",
             "Democracy-pageID": [
               "recMQUIE1CDIIyfZP"
             ]
@@ -2235,7 +2309,7 @@
               "recwuV3mo89ZpAjof",
               "recEp7O3IRvHqKTKz"
             ],
-            "More info about this page": "Dive into detailed data on Africa's age of democracy through a visual table. This table will display each African country's number of years since their first competitive election, indicate whether they have experienced uninterrupted democracy, and show the duration of their current continuous democratic governance. The closer the alignment between the years since the first competitive election and the duration of uninterrupted democracy, the more developed the country's democracy is.\n\nAdditionally, explore a timeline of Africa's democratic evolution, presented through a map that highlights the duration of uninterrupted democracy in each country. This metric reflects how long each nation has successfully maintained democratic governance without military coups or authoritarian rule. By factoring in multiparty elections and the absence of coups, the map provides a comprehensive view of the democratic progress across the continent.\n\nFind out which African nations boast the longest-standing democratic practices. These visuals are  crucial for assessing the maturity and effectiveness of democratic systems across Africa.",
+            "More info about this page": "Dive into detailed data on Africa's age of democracy through a visual table. This table will display each African country's number of years since their first competitive election, indicate whether they have experienced uninterrupted democracy, and show the duration of their current continuous democratic governance. The closer the alignment between the years since the first competitive election and the duration of uninterrupted democracy, the more developed the country's democracy is. <br><br>\n\nAdditionally, explore a timeline of Africa's democratic evolution, presented through a map that highlights the duration of uninterrupted democracy in each country. This metric reflects how long each nation has successfully maintained democratic governance without military coups or authoritarian rule. By factoring in multiparty elections and the absence of coups, the map provides a comprehensive view of the democratic progress across the continent. <br><br>\n\nFind out which African nations boast the longest-standing democratic practices. These visuals are  crucial for assessing the maturity and effectiveness of democratic systems across Africa.",
             "Democracy-pageID": [
               "recMW0SeOXBU3puaQ"
             ]
@@ -2332,7 +2406,7 @@
             "Democracy-subtabID": [
               "recqakFNOfQYgyMeb"
             ],
-            "More info about this page": "Explore in-depth data on past or recent African elections, visualized through an interactive table.\n\nThis page offers insights into past African elections, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya.\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
+            "More info about this page": "Explore in-depth data on past or recent African elections, visualized through an interactive table. <br><br>\n\nThis page offers insights into past African elections, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya. <br><br>\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
             "Democracy-pageID": [
               "recjdNE96zSLT6lbN"
             ]
@@ -2396,7 +2470,7 @@
             "Democracy-subtabID": [
               "recPAH24eX62I7Bwm"
             ],
-            "More info about this page": "Explore in-depth data on upcoming African elections, visualized through an interactive table.\n\nThis page offers insights into African elections scheduled within the next 12 months, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya.\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
+            "More info about this page": "Explore in-depth data on upcoming African elections, visualized through an interactive table. <br><br>\n\nThis page offers insights into African elections scheduled within the next 12 months, with further analysis on selected countries, such as South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya. <br><br>\n\nDiscover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape.",
             "Democracy-pageID": [
               "recjeNSyJWyuAViu2"
             ]
@@ -2475,7 +2549,7 @@
               "rec91xmAU5QwJrCoA",
               "recyhm1tEe4KsHdmt"
             ],
-            "More info about this page": "Explore in-depth data on African politics and democracy, visualized using interactive maps of Africa.\n\nThis page contains five different maps of Africa, providing insights into the geographical distribution of various key metrics. These include:\n\nDemocracy levels according to the Economist Intelligence Unit,\nCoup and conflict status, highlighting which African countries are currently under military regimes or experiencing major conflicts,\nAge of uninterrupted democracy, showing how long each country has been considered democratic based on the absence of coups and the presence of multiparty elections (often viewed as more democratic than single-party elections),\nPopulation size of African countries, based on United Nations data, and\nGDP of African countries, based on World Bank data.",
+            "More info about this page": "Explore in-depth data on African politics and democracy, visualized using interactive maps of Africa.\n<br><br>\nThis page contains five different maps of Africa, providing insights into the geographical distribution of various key metrics. These include:\n<ul>\n<li><b>Democracy levels</b> according to the Economist Intelligence Unit,</li>\n<li><b>Coup and conflict status</b>, highlighting which African countries are currently under military regimes or experiencing major conflicts,</li>\n<li><b>Age of uninterrupted democracy</b>, showing how long each country has been considered democratic based on the absence of coups and the presence of multiparty elections (often viewed as more democratic than single-party elections),</li>\n<li><b>Population size</b> of African countries, based on United Nations data, and</li>\n<li><b>GDP</b> of African countries, based on World Bank data.</li>\n</ul>",
             "Democracy-pageID": [
               "reco6kA5T7i0WdRCz"
             ]
@@ -2690,7 +2764,6 @@
             "Democracy-tab": "Directory",
             "Category": "Directory of Country Resources",
             "TabOrder": 1,
-            "TabText": "This list captures local African democracy-focused civil society organisations operating across the continent. Their work spans election observation, publishing granular election results, fact-checking, and fighting misinformation.",
             "Democracy-subtabID": [
               "rec5LLAVqMEDuG7Cw"
             ],
@@ -2706,6 +2779,7 @@
                   "recPsN3KvlIHkIzvC"
                 ],
                 "SubtabOrder": 1,
+                "SubtabText": "This list captures local African democracy-focused civil society organisations operating across the continent. Their work spans election observation, publishing granular election results, fact-checking, and fighting misinformation.",
                 "Democracy-sectionID": [
                   "rec6eZb1ORSCTRPX7"
                 ],
