@@ -99,6 +99,29 @@
                     {% endif %}
                   </div>
                 {% endfor %}
+              {% elif subtab.years|length == 1 %}
+                {# Only one year, no year tabs, but show content for that year #}
+                {% set year = subtab.years[0] %}
+                {% for section in subtab.sections_by_year[year] %}
+                  <div class="section">
+                    {% if section.Text %}
+                      <p>{{ section.Text }}</p>
+                    {% endif %}
+                    {% if section.List %}
+                      <ul>
+                        {% for item in section.List %}
+                          <li>{{ item }}</li>
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                    {% if section.FlourishEmbed %}
+                      <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                      {% if subtab.democracy_description %}
+                        <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
+                      {% endif %}
+                    {% endif %}
+                  </div>
+                {% endfor %}
               {% else %}
                 <div class="year-tabs {% if is_country_page %}category-tabs{% endif %}">
                   {% for year in subtab.years %}
