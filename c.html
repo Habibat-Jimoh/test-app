@@ -92,7 +92,16 @@
                       </ul>
                     {% endif %}
                     {% if section.FlourishEmbed %}
-                      <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                      {# Chart dimension handling #}
+                      {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
+                      {% set dim_parts = chart_dim.split("x") %}
+                      {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
+                      {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
+                      <iframe src="{{ section.FlourishEmbed }}"
+                              allowfullscreen
+                              loading="lazy"
+                              width="{{ chart_width }}"
+                              height="{{ chart_height }}"></iframe>
                       {% if subtab.democracy_description %}
                         <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                       {% endif %}
@@ -115,7 +124,15 @@
                       </ul>
                     {% endif %}
                     {% if section.FlourishEmbed %}
-                      <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                      {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
+                      {% set dim_parts = chart_dim.split("x") %}
+                      {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
+                      {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
+                      <iframe src="{{ section.FlourishEmbed }}"
+                              allowfullscreen
+                              loading="lazy"
+                              width="{{ chart_width }}"
+                              height="{{ chart_height }}"></iframe>
                       {% if subtab.democracy_description %}
                         <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                       {% endif %}
@@ -151,7 +168,15 @@
                           </ul>
                         {% endif %}
                         {% if section.FlourishEmbed %}
-                          <iframe src="{{ section.FlourishEmbed }}" allowfullscreen></iframe>
+                          {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
+                          {% set dim_parts = chart_dim.split("x") %}
+                          {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
+                          {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
+                          <iframe src="{{ section.FlourishEmbed }}"
+                                  allowfullscreen
+                                  loading="lazy"
+                                  width="{{ chart_width }}"
+                                  height="{{ chart_height }}"></iframe>
                           {% if subtab.democracy_description %}
                             <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                           {% endif %}
@@ -185,7 +210,7 @@
     {% endfor %}
   {% endif %}
 </div>
-<!-- JavaScript unchanged -->
+
 <script>
   function showTab(index) {
     // Show the correct tab panel
