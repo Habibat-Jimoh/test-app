@@ -200,9 +200,9 @@
              style="display: {% if loop.first %}block{% else %}none{% endif %};">
           <div class="more-info-toggle" onclick="toggleMoreInfo({{ loop.index0 }})">
             <span class="more-info-title">More info about this page</span>
-            <span class="more-info-icon" id="more-info-icon-{{ loop.index0 }}">+</span>
+            <span class="more-info-icon" id="more-info-icon-{{ loop.index0 }}">{% if loop.first %}−{% else %}+{% endif %}</span>
           </div>
-          <div class="more-info-content" id="more-info-content-{{ loop.index0 }}" style="display: none;">
+          <div class="more-info-content" id="more-info-content-{{ loop.index0 }}" style="display: {% if loop.first %}block{% else %}none{% endif %};">
             <p>{{ tab.more_info | safe }}</p>
           </div>
         </div>
@@ -256,6 +256,22 @@
     // Show only the relevant More Info section
     document.querySelectorAll('.more-info-section').forEach((section, i) => {
       section.style.display = i == index ? 'block' : 'none';
+    });
+
+    // Expand More Info by default for the active tab, collapse others.
+    document.querySelectorAll('.more-info-content').forEach((content, i) => {
+      if (i == index) {
+        content.style.display = 'block';
+      } else {
+        content.style.display = 'none';
+      }
+    });
+    document.querySelectorAll('.more-info-icon').forEach((icon, i) => {
+      if (i == index) {
+        icon.textContent = '−';
+      } else {
+        icon.textContent = '+';
+      }
     });
   }
 
