@@ -92,16 +92,36 @@
                       </ul>
                     {% endif %}
                     {% if section.FlourishEmbed %}
-                      {# Chart dimension handling #}
-                      {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
-                      {% set dim_parts = chart_dim.split("x") %}
-                      {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
-                      {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
-                      <iframe src="{{ section.FlourishEmbed }}"
-                              allowfullscreen
-                              loading="lazy"
-                              width="{{ chart_width }}"
-                              height="{{ chart_height }}"></iframe>
+                      <figure>
+                        <iframe src="{{ section.FlourishEmbed }}"
+                                allowfullscreen
+                                loading="lazy"
+                                title="{{ section['SEO-title'] or '' }}"
+                                sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+                                width="{{ section.get('Chart-dimension', '100% x 400px').split('x')[0].strip() if section.get('Chart-dimension') else '100%' }}"
+                                height="{{ section.get('Chart-dimension', '100% x 400px').split('x')[1].strip() if section.get('Chart-dimension') else '400px' }}"></iframe>
+                        {% if section['SEO-figcaption'] %}
+                          <figcaption style="position: absolute; left: -9999px;">
+                            {{ section['SEO-figcaption'] }}
+                          </figcaption>
+                        {% endif %}
+                      </figure>
+                      {% if section['SEO-title'] or section['SEO-description'] or section['SEO-keywords'] %}
+                        <script type="application/ld+json">
+                        {
+                          "@context": "https://schema.org",
+                          "@type": "Dataset",
+                          "name": "{{ section['SEO-title'] or '' }}",
+                          "description": "{{ section['SEO-description'] or '' }}",
+                          "keywords": [{% if section['SEO-keywords'] %}{% for kw in section['SEO-keywords'] %}"{{ kw }}"{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}],
+                          "creator": {
+                            "@type": "Organization",
+                            "name": "Stears"
+                          },
+                          "license": "https://creativecommons.org/licenses/by/4.0/"
+                        }
+                        </script>
+                      {% endif %}
                       {% if subtab.democracy_description %}
                         <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                       {% endif %}
@@ -124,15 +144,36 @@
                       </ul>
                     {% endif %}
                     {% if section.FlourishEmbed %}
-                      {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
-                      {% set dim_parts = chart_dim.split("x") %}
-                      {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
-                      {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
-                      <iframe src="{{ section.FlourishEmbed }}"
-                              allowfullscreen
-                              loading="lazy"
-                              width="{{ chart_width }}"
-                              height="{{ chart_height }}"></iframe>
+                      <figure>
+                        <iframe src="{{ section.FlourishEmbed }}"
+                                allowfullscreen
+                                loading="lazy"
+                                title="{{ section['SEO-title'] or '' }}"
+                                sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+                                width="{{ section.get('Chart-dimension', '100% x 400px').split('x')[0].strip() if section.get('Chart-dimension') else '100%' }}"
+                                height="{{ section.get('Chart-dimension', '100% x 400px').split('x')[1].strip() if section.get('Chart-dimension') else '400px' }}"></iframe>
+                        {% if section['SEO-figcaption'] %}
+                          <figcaption style="position: absolute; left: -9999px;">
+                            {{ section['SEO-figcaption'] }}
+                          </figcaption>
+                        {% endif %}
+                      </figure>
+                      {% if section['SEO-title'] or section['SEO-description'] or section['SEO-keywords'] %}
+                        <script type="application/ld+json">
+                        {
+                          "@context": "https://schema.org",
+                          "@type": "Dataset",
+                          "name": "{{ section['SEO-title'] or '' }}",
+                          "description": "{{ section['SEO-description'] or '' }}",
+                          "keywords": [{% if section['SEO-keywords'] %}{% for kw in section['SEO-keywords'] %}"{{ kw }}"{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}],
+                          "creator": {
+                            "@type": "Organization",
+                            "name": "Stears"
+                          },
+                          "license": "https://creativecommons.org/licenses/by/4.0/"
+                        }
+                        </script>
+                      {% endif %}
                       {% if subtab.democracy_description %}
                         <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                       {% endif %}
@@ -168,15 +209,36 @@
                           </ul>
                         {% endif %}
                         {% if section.FlourishEmbed %}
-                          {% set chart_dim = section.get("Chart-dimension", "100% x 400px") %}
-                          {% set dim_parts = chart_dim.split("x") %}
-                          {% set chart_width = dim_parts[0].strip() if dim_parts|length > 0 else "100%" %}
-                          {% set chart_height = dim_parts[1].strip() if dim_parts|length > 1 else "400px" %}
-                          <iframe src="{{ section.FlourishEmbed }}"
-                                  allowfullscreen
-                                  loading="lazy"
-                                  width="{{ chart_width }}"
-                                  height="{{ chart_height }}"></iframe>
+                          <figure>
+                            <iframe src="{{ section.FlourishEmbed }}"
+                                    allowfullscreen
+                                    loading="lazy"
+                                    title="{{ section['SEO-title'] or '' }}"
+                                    sandbox="allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation"
+                                    width="{{ section.get('Chart-dimension', '100% x 400px').split('x')[0].strip() if section.get('Chart-dimension') else '100%' }}"
+                                    height="{{ section.get('Chart-dimension', '100% x 400px').split('x')[1].strip() if section.get('Chart-dimension') else '400px' }}"></iframe>
+                            {% if section['SEO-figcaption'] %}
+                              <figcaption style="position: absolute; left: -9999px;">
+                                {{ section['SEO-figcaption'] }}
+                              </figcaption>
+                            {% endif %}
+                          </figure>
+                          {% if section['SEO-title'] or section['SEO-description'] or section['SEO-keywords'] %}
+                            <script type="application/ld+json">
+                            {
+                              "@context": "https://schema.org",
+                              "@type": "Dataset",
+                              "name": "{{ section['SEO-title'] or '' }}",
+                              "description": "{{ section['SEO-description'] or '' }}",
+                              "keywords": [{% if section['SEO-keywords'] %}{% for kw in section['SEO-keywords'] %}"{{ kw }}"{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}],
+                              "creator": {
+                                "@type": "Organization",
+                                "name": "Stears"
+                              },
+                              "license": "https://creativecommons.org/licenses/by/4.0/"
+                            }
+                            </script>
+                          {% endif %}
                           {% if subtab.democracy_description %}
                             <p class="chart-footnote">{{ subtab.democracy_description | safe }}</p>
                           {% endif %}
