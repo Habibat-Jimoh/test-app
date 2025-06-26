@@ -6,6 +6,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+def parse_seo_keywords(seo_keywords):
+    if seo_keywords and isinstance(seo_keywords, str):
+        # Split by comma, strip whitespace from each phrase (no quotes to strip)
+        return [kw.strip() for kw in seo_keywords.split(",") if kw.strip()]
+    return seo_keywords  # already a list or None
+
 def extract_country_data(base) -> Dict[str, Any]:
     pages = base.table("Pages").all()
     tabs = base.table("Tabs").all()
@@ -45,13 +51,14 @@ def extract_country_data(base) -> Dict[str, Any]:
                 section_ids = subtab_fields.get("SectionID", [])
                 subtab_data = {"subtab_fields": subtab_fields.copy(), "sections": []}
 
-
                 for section_id in section_ids:
                     section = section_lookup.get(section_id)
                     if not section or section["fields"].get("ShowSection") != "Yes":
                         continue
 
                     section_data = section["fields"].copy()
+                    # --- SEO-keywords fix ---
+                    section_data["SEO-keywords"] = parse_seo_keywords(section_data.get("SEO-keywords"))
                     subtab_data["sections"].append(section_data)
 
                 tab_data["subtabs"].append(subtab_data)
@@ -61,7 +68,6 @@ def extract_country_data(base) -> Dict[str, Any]:
         result[page_id] = country_data
 
     return result
-
 
 def extract_democracy_data(base) -> Dict[str, Any]:
     pages = base.table("Democracy-pages").all()
@@ -109,7 +115,10 @@ def extract_democracy_data(base) -> Dict[str, Any]:
                 subtab_data = {"subtab_fields": subtab_fields.copy(), "sections": []}
 
                 for section in subtab_id_to_sections.get(subtab_id, []):
-                    subtab_data["sections"].append(section["fields"].copy())
+                    section_fields = section["fields"].copy()
+                    # --- SEO-keywords fix ---
+                    section_fields["SEO-keywords"] = parse_seo_keywords(section_fields.get("SEO-keywords"))
+                    subtab_data["sections"].append(section_fields)
 
                 tab_data["subtabs"].append(subtab_data)
 
@@ -118,7 +127,6 @@ def extract_democracy_data(base) -> Dict[str, Any]:
         result[page_id] = page_data
 
     return result
-
 
 def load_data_from_airtable() -> None:
     api_key = os.getenv("AIRTABLE_API_KEY")
@@ -142,7 +150,6 @@ def load_data_from_airtable() -> None:
 
     print("Data written to africa_pages.json")
     return combined
-
 
 if __name__ == "__main__":
     load_data_from_airtable()
