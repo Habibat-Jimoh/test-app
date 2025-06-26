@@ -78,7 +78,8 @@
                   "SectionID": "guinea-bissau-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -112,7 +113,8 @@
                   "SectionID": "guinea-bissau-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -163,7 +165,8 @@
                   "SectionID": "guinea-bissau-2024-one-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -220,7 +223,8 @@
                   "SectionID": "guinea-bissau-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -235,7 +239,8 @@
                   "SectionID": "guinea-bissau-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -250,7 +255,8 @@
                   "SectionID": "guinea-bissau-2012-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -264,7 +270,8 @@
                   "SectionID": "guinea-bissau-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -302,7 +309,8 @@
                   "SectionID": "guinea-bissau-2023-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -317,7 +325,8 @@
                   "SectionID": "guinea-bissau-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -332,7 +341,8 @@
                   "SectionID": "guinea-bissau-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -347,7 +357,8 @@
                   "SectionID": "guinea-bissau-2004-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -446,7 +457,8 @@
                   "SectionID": "nigeria-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -480,7 +492,8 @@
                   "SectionID": "nigeria-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -531,7 +544,8 @@
                   "SectionID": "nigeria-2023-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -592,7 +606,8 @@
                   "SectionID": "nigeria-2023-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -607,7 +622,8 @@
                   "SectionID": "nigeria-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -622,7 +638,8 @@
                   "SectionID": "nigeria-2015-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -636,7 +653,8 @@
                   "SectionID": "nigeria-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 4,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -651,7 +669,8 @@
                   "SectionID": "nigeria-2015-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -666,7 +685,8 @@
                   "SectionID": "nigeria-2023-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -681,7 +701,8 @@
                   "SectionID": "nigeria-2019-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -696,7 +717,8 @@
                   "SectionID": "nigeria-2019-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -711,7 +733,8 @@
                   "SectionID": "nigeria-2023-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -755,7 +778,8 @@
                   "SectionID": "nigeria-2023-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -770,7 +794,8 @@
                   "SectionID": "nigeria-2023-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -785,7 +810,8 @@
                   "SectionID": "nigeria-2019-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -800,7 +826,8 @@
                   "SectionID": "nigeria-2019-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -815,7 +842,8 @@
                   "SectionID": "nigeria-2015-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -830,7 +858,8 @@
                   "SectionID": "nigeria-2015-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -845,7 +874,8 @@
                   "SectionID": "nigeria-2011-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -860,7 +890,8 @@
                   "SectionID": "nigeria-2011-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -875,7 +906,8 @@
                   "SectionID": "nigeria-2007-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -890,7 +922,8 @@
                   "SectionID": "nigeria-2007-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -978,7 +1011,8 @@
                   "SectionID": "senegal-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -1012,7 +1046,8 @@
                   "SectionID": "senegal-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1063,7 +1098,8 @@
                   "SectionID": "senegal-2024-two-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1123,7 +1159,8 @@
                   "SectionID": "senegal-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1138,7 +1175,8 @@
                   "SectionID": "senegal-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1153,7 +1191,8 @@
                   "SectionID": "senegal-2012-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1168,7 +1207,8 @@
                   "SectionID": "senegal-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1183,7 +1223,8 @@
                   "SectionID": "senegal-2012-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1198,7 +1239,8 @@
                   "SectionID": "senegal-2012-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1212,7 +1254,8 @@
                   "SectionID": "senegal-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 4,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -1249,7 +1292,8 @@
                   "SectionID": "senegal-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1264,7 +1308,8 @@
                   "SectionID": "senegal-2022-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1279,7 +1324,8 @@
                   "SectionID": "senegal-2017-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1365,7 +1411,8 @@
                   "SectionID": "guinea-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -1399,7 +1446,8 @@
                   "SectionID": "guinea-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1491,7 +1539,8 @@
                   "SectionID": "guinea-2020-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1506,7 +1555,8 @@
                   "SectionID": "guinea-2015-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1521,7 +1571,8 @@
                   "SectionID": "guinea-2010-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1535,7 +1586,8 @@
                   "SectionID": "guinea-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -1573,7 +1625,8 @@
                   "SectionID": "guinea-2020-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1588,7 +1641,8 @@
                   "SectionID": "guinea-2013-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1603,7 +1657,8 @@
                   "SectionID": "guinea-2002-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1618,7 +1673,8 @@
                   "SectionID": "guinea-1995-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1715,7 +1771,8 @@
                   "SectionID": "ghana-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -1749,7 +1806,8 @@
                   "SectionID": "ghana-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1800,7 +1858,8 @@
                   "SectionID": "ghana-2024-four-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -1865,7 +1924,8 @@
                   "SectionID": "ghana-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1880,7 +1940,8 @@
                   "SectionID": "ghana-2020-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1895,7 +1956,8 @@
                   "SectionID": "ghana-2016-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1910,7 +1972,8 @@
                   "SectionID": "ghana-2012-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1925,7 +1988,8 @@
                   "SectionID": "ghana-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1940,7 +2004,8 @@
                   "SectionID": "ghana-2020-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1955,7 +2020,8 @@
                   "SectionID": "ghana-2016-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1970,7 +2036,8 @@
                   "SectionID": "ghana-2012-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -1985,7 +2052,8 @@
                   "SectionID": "ghana-2020-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2000,7 +2068,8 @@
                   "SectionID": "ghana-2016-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2015,7 +2084,8 @@
                   "SectionID": "ghana-2012-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2029,7 +2099,8 @@
                   "SectionID": "ghana-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 4,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -2070,7 +2141,8 @@
                   "SectionID": "ghana-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2085,7 +2157,8 @@
                   "SectionID": "ghana-2020-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2100,7 +2173,8 @@
                   "SectionID": "ghana-2016-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2115,7 +2189,8 @@
                   "SectionID": "ghana-2012-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2130,7 +2205,8 @@
                   "SectionID": "ghana-2008-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2145,7 +2221,8 @@
                   "SectionID": "ghana-2004-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2160,7 +2237,8 @@
                   "SectionID": "ghana-2000-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2247,7 +2325,8 @@
                   "SectionID": "mauritania-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -2281,7 +2360,8 @@
                   "SectionID": "mauritania-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2332,7 +2412,8 @@
                   "SectionID": "mauritania-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2392,7 +2473,8 @@
                   "SectionID": "mauritania-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2407,7 +2489,8 @@
                   "SectionID": "mauritania-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2422,7 +2505,8 @@
                   "SectionID": "mauritania-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2437,7 +2521,8 @@
                   "SectionID": "mauritania-2009-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2452,7 +2537,8 @@
                   "SectionID": "mauritania-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2467,7 +2553,8 @@
                   "SectionID": "mauritania-2019-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2481,7 +2568,8 @@
                   "SectionID": "mauritania-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -2517,7 +2605,8 @@
                   "SectionID": "mauritania-2023-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2532,7 +2621,8 @@
                   "SectionID": "mauritania-2018-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2630,7 +2720,8 @@
                   "SectionID": "botswana-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -2664,7 +2755,8 @@
                   "SectionID": "botswana-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2715,7 +2807,8 @@
                   "SectionID": "botswana-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -2796,7 +2889,8 @@
                   "SectionID": "botswana-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2811,7 +2905,8 @@
                   "SectionID": "botswana-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2826,7 +2921,8 @@
                   "SectionID": "botswana-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2841,7 +2937,8 @@
                   "SectionID": "botswana-2009-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2856,7 +2953,8 @@
                   "SectionID": "botswana-2004-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2870,7 +2968,8 @@
                   "SectionID": "botswana-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -2912,7 +3011,8 @@
                   "SectionID": "botswana-2024-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2927,7 +3027,8 @@
                   "SectionID": "botswana-2019-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2942,7 +3043,8 @@
                   "SectionID": "botswana-2014-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2957,7 +3059,8 @@
                   "SectionID": "botswana-2009-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2972,7 +3075,8 @@
                   "SectionID": "botswana-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -2987,7 +3091,8 @@
                   "SectionID": "botswana-2019-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3002,7 +3107,8 @@
                   "SectionID": "botswana-2014-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3089,7 +3195,8 @@
                   "SectionID": "chad-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -3123,7 +3230,8 @@
                   "SectionID": "chad-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3174,7 +3282,8 @@
                   "SectionID": "chad-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3232,7 +3341,8 @@
                   "SectionID": "chad-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3247,7 +3357,8 @@
                   "SectionID": "chad-2021-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3262,7 +3373,8 @@
                   "SectionID": "chad-2016-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3277,7 +3389,8 @@
                   "SectionID": "chad-2011-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3291,7 +3404,8 @@
                   "SectionID": "chad-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -3329,7 +3443,8 @@
                   "SectionID": "chad-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3344,7 +3459,8 @@
                   "SectionID": "chad-1997-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3359,7 +3475,8 @@
                   "SectionID": "chad-2002-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3374,7 +3491,8 @@
                   "SectionID": "chad-2011-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3468,7 +3586,8 @@
                   "SectionID": "mauritius-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -3502,7 +3621,8 @@
                   "SectionID": "mauritius-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3553,7 +3673,8 @@
                   "SectionID": "mauritius-2024-two-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3613,7 +3734,8 @@
                   "SectionID": "mauritius-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3628,7 +3750,8 @@
                   "SectionID": "mauritius-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3643,7 +3766,8 @@
                   "SectionID": "mauritius-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3658,7 +3782,8 @@
                   "SectionID": "mauritius-2010-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3673,7 +3798,8 @@
                   "SectionID": "mauritius-2005-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3687,7 +3813,8 @@
                   "SectionID": "mauritius-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -3732,7 +3859,8 @@
                   "SectionID": "mauritius-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3747,7 +3875,8 @@
                   "SectionID": "mauritius-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3762,7 +3891,8 @@
                   "SectionID": "mauritius-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3777,7 +3907,8 @@
                   "SectionID": "mauritius-2010-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3792,7 +3923,8 @@
                   "SectionID": "mauritius-2005-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3807,7 +3939,8 @@
                   "SectionID": "mauritius-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3822,7 +3955,8 @@
                   "SectionID": "mauritius-2019-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3837,7 +3971,8 @@
                   "SectionID": "mauritius-2014-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3852,7 +3987,8 @@
                   "SectionID": "mauritius-2010-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -3867,7 +4003,8 @@
                   "SectionID": "mauritius-2005-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -3955,7 +4092,8 @@
                   "SectionID": "tunisia-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -3989,7 +4127,8 @@
                   "SectionID": "tunisia-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4040,7 +4179,8 @@
                   "SectionID": "tunisia-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4101,7 +4241,8 @@
                   "SectionID": "tunisia-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4116,7 +4257,8 @@
                   "SectionID": "tunisia-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4131,7 +4273,8 @@
                   "SectionID": "tunisia-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4146,7 +4289,8 @@
                   "SectionID": "tunisia-2009-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4161,7 +4305,8 @@
                   "SectionID": "tunisia-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4176,7 +4321,8 @@
                   "SectionID": "tunisia-2019-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4191,7 +4337,8 @@
                   "SectionID": "tunisia-2014-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4205,7 +4352,8 @@
                   "SectionID": "tunisia-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -4241,7 +4389,8 @@
                   "SectionID": "tunisia-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4256,7 +4405,8 @@
                   "SectionID": "tunisia-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4345,7 +4495,8 @@
                   "SectionID": "gabon-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -4379,7 +4530,8 @@
                   "SectionID": "gabon-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4430,7 +4582,8 @@
                   "SectionID": "gabon-2025-two-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4489,7 +4642,8 @@
                   "SectionID": "gabon-2025-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4504,7 +4658,8 @@
                   "SectionID": "gabon-2023-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4519,7 +4674,8 @@
                   "SectionID": "gabon-2016-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4534,7 +4690,8 @@
                   "SectionID": "gabon-2009-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4549,7 +4706,8 @@
                   "SectionID": "gabon-2016-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4563,7 +4721,8 @@
                   "SectionID": "gabon-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -4602,7 +4761,8 @@
                   "SectionID": "gabon-2025-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4617,7 +4777,8 @@
                   "SectionID": "gabon-2021-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4632,7 +4793,8 @@
                   "SectionID": "gabon-2018-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4647,7 +4809,8 @@
                   "SectionID": "gabon-2014-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4662,7 +4825,8 @@
                   "SectionID": "gabon-2011-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4750,7 +4914,8 @@
                   "SectionID": "namibia-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -4784,7 +4949,8 @@
                   "SectionID": "namibia-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4835,7 +5001,8 @@
                   "SectionID": "namibia-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -4893,7 +5060,8 @@
                   "SectionID": "namibia-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4908,7 +5076,8 @@
                   "SectionID": "namibia-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4923,7 +5092,8 @@
                   "SectionID": "namibia-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4938,7 +5108,8 @@
                   "SectionID": "namibia-2009-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -4952,7 +5123,8 @@
                   "SectionID": "namibia-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -4991,7 +5163,8 @@
                   "SectionID": "namibia-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5006,7 +5179,8 @@
                   "SectionID": "namibia-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5021,7 +5195,8 @@
                   "SectionID": "namibia-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5036,7 +5211,8 @@
                   "SectionID": "namibia-2009-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5051,7 +5227,8 @@
                   "SectionID": "namibia-2004-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5139,7 +5316,8 @@
                   "SectionID": "kenya-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -5173,7 +5351,8 @@
                   "SectionID": "kenya-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5224,7 +5403,8 @@
                   "SectionID": "kenya-2022-two-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5284,7 +5464,8 @@
                   "SectionID": "kenya-2022-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5299,7 +5480,8 @@
                   "SectionID": "kenya-2017-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5314,7 +5496,8 @@
                   "SectionID": "kenya-2013-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5329,7 +5512,8 @@
                   "SectionID": "kenya-2013-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5344,7 +5528,8 @@
                   "SectionID": "kenya-2017-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5359,7 +5544,8 @@
                   "SectionID": "kenya-2013-election-representativeness-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 3,
-                  "Chart-dimension": "100% x 200px"
+                  "Chart-dimension": "100% x 200px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5373,7 +5559,8 @@
                   "SectionID": "kenya-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 4,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -5410,7 +5597,8 @@
                   "SectionID": "kenya-2022-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5425,7 +5613,8 @@
                   "SectionID": "kenya-2013-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5440,7 +5629,8 @@
                   "SectionID": "kenya-2007-national-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5539,7 +5729,8 @@
                   "SectionID": "south-africa-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -5573,7 +5764,8 @@
                   "SectionID": "south-africa-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5624,7 +5816,8 @@
                   "SectionID": "south-africa-2024-three-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -5682,7 +5875,8 @@
                   "SectionID": "south-africa-2024-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5697,7 +5891,8 @@
                   "SectionID": "south-africa-2019-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5712,7 +5907,8 @@
                   "SectionID": "south-africa-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5727,7 +5923,8 @@
                   "SectionID": "south-africa-2009-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -5767,7 +5964,8 @@
                   "SectionID": "south-africa-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5782,7 +5980,8 @@
                   "SectionID": "south-africa-2024-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5797,7 +5996,8 @@
                   "SectionID": "south-africa-2019-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5812,7 +6012,8 @@
                   "SectionID": "south-africa-2014-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5827,7 +6028,8 @@
                   "SectionID": "south-africa-2009-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5842,7 +6044,8 @@
                   "SectionID": "south-africa-2004-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 500px"
+                  "Chart-dimension": "100% x 500px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -5885,7 +6088,8 @@
                   "SectionID": "south-africa-2024-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5900,7 +6104,8 @@
                   "SectionID": "south-africa-2019-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5915,7 +6120,8 @@
                   "SectionID": "south-africa-2014-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5930,7 +6136,8 @@
                   "SectionID": "south-africa-2009-map-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 600px"
+                  "Chart-dimension": "100% x 600px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5945,7 +6152,8 @@
                   "SectionID": "south-africa-2024-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5960,7 +6168,8 @@
                   "SectionID": "south-africa-2019-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5975,7 +6184,8 @@
                   "SectionID": "south-africa-2014-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -5990,7 +6200,8 @@
                   "SectionID": "south-africa-2009-voter-preference-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -6080,7 +6291,8 @@
                   "SectionID": "egypt-2023-two-candidates-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 250px"
+                  "Chart-dimension": "100% x 250px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -6136,7 +6348,8 @@
                   "SectionID": "egypt-2023-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6151,7 +6364,8 @@
                   "SectionID": "egypt-2018-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6165,7 +6379,8 @@
                   "SectionID": "egypt-voting-metrics-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6180,7 +6395,8 @@
                   "SectionID": "egypt-2014-bar-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 150px"
+                  "Chart-dimension": "100% x 150px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -6222,7 +6438,8 @@
                   "SectionID": "egypt-2020-house-of-representative-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6237,7 +6454,8 @@
                   "SectionID": "egypt-2025-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6252,7 +6470,8 @@
                   "SectionID": "egypt-2025-house-of-representative-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6267,7 +6486,8 @@
                   "SectionID": "egypt-2020-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6282,7 +6502,8 @@
                   "SectionID": "egypt-2015-house-of-representative-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6297,7 +6518,8 @@
                   "SectionID": "egypt-2012-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6312,7 +6534,8 @@
                   "SectionID": "egypt-2011-house-of-representative-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 },
                 {
                   "SubtabID": [
@@ -6327,7 +6550,8 @@
                   "SectionID": "egypt-2010-senate-parliament-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -6380,7 +6604,8 @@
                   "SectionID": "egypt-key-stats-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 1,
-                  "Chart-dimension": "100% x 350px"
+                  "Chart-dimension": "100% x 350px",
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -6414,7 +6639,8 @@
                   "SectionID": "egypt-democratic-history-chart",
                   "ShowSection": "Yes",
                   "SectionOrder": 2,
-                  "Chart-dimension": "100% x 400px"
+                  "Chart-dimension": "100% x 400px",
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -6490,7 +6716,76 @@
                   "SEO-title": "Election Integrity & Accuracy in Africa: Observations vs. Official Results",
                   "SEO-figcaption": "Explore verified election results in African countries, comparing official outcomes with independent observations for accuracy and democratic integrity",
                   "SEO-description": "Discover a detailed comparison of official election results and independent observations across African nations. This analysis examines whether observed results matched official announcements, potential deviations, and discrepancies that could have impacted election outcomes. The resource draws from trusted organizations like YIAGA, CCMG, CODEOGHANA, and MESN to explore electoral integrity and its influence on democracy in Africa",
-                  "SEO-keywords": "\"election accuracy in Africa\", \"official election results vs observations\", \"independent election observation Africa\",  \"verified election results Africa\", \"democratic integrity Africa\", \"Nigeria election results\", \"Zambia election results\",  \"Ghana election results\", \"Malawi election results\", \"election result deviations\", \"impact of election deviations\",  \"vote share discrepancies\", \"winning party vote share\", \"YIAGA Africa reports\", \"CCMG Zambia reports\", \"CODEOGHANA reports\",  \"MESN Malawi reports\", \"election transparency Africa\", \"electoral integrity Africa\", \"Africa election credibility\",  \"African election processes\", \"democracy in Africa\", \"electoral integrity in Africa\", \"African countries election results\",  \"official election results in Africa\", \"independent election observation in Africa\", \"verified African election results\",  \"election result accuracy Africa\", \"Nigeria election result comparison\", \"Zambia election result analysis\",  \"Ghana election result verification\", \"Malawi election result check\", \"vote share deviations Africa\", \"election discrepancies in African countries\",  \"African elections vote share discrepancies\", \"YIAGA Africa election reports\", \"CCMG Zambia election reports\", \"CODEOGHANA election reports\",  \"MESN Malawi election verification\", \"electoral transparency Africa\", \"African election integrity\", \"African election audit\",  \"African election reliability\", \"election observation in Africa\", \"election rigging in Africa\", \"election corruption in Africa\",  \"vote manipulation in Africa\", \"nonpartisan election observation\", \"PVRT Africa\", \"parallel vote tabulation Africa\",  \"Process and Results Verification for Transparency\", \"NDI Africa\", \"National Democratic Institute Africa\", \"electoral processes in African countries\",  \"democracy and elections in Africa\", \"YIAGA\", \"CCMG\", \"CODEOGHANA\", \"MESN\", \"Mourakiboun\", \"ZESN\", \"ELOG\", \"CODEL\", \"POECI\",  \"COSCE\", \"CSEC\", \"SWIFTCOUNT\", \"FODEP\""
+                  "SEO-keywords": [
+                    "election accuracy in Africa",
+                    "official election results vs observations",
+                    "independent election observation Africa",
+                    "verified election results Africa",
+                    "democratic integrity Africa",
+                    "Nigeria election results",
+                    "Zambia election results",
+                    "Ghana election results",
+                    "Malawi election results",
+                    "election result deviations",
+                    "impact of election deviations",
+                    "vote share discrepancies",
+                    "winning party vote share",
+                    "YIAGA Africa reports",
+                    "CCMG Zambia reports",
+                    "CODEOGHANA reports",
+                    "MESN Malawi reports",
+                    "election transparency Africa",
+                    "electoral integrity Africa",
+                    "Africa election credibility",
+                    "African election processes",
+                    "democracy in Africa",
+                    "electoral integrity in Africa",
+                    "African countries election results",
+                    "official election results in Africa",
+                    "independent election observation in Africa",
+                    "verified African election results",
+                    "election result accuracy Africa",
+                    "Nigeria election result comparison",
+                    "Zambia election result analysis",
+                    "Ghana election result verification",
+                    "Malawi election result check",
+                    "vote share deviations Africa",
+                    "election discrepancies in African countries",
+                    "African elections vote share discrepancies",
+                    "YIAGA Africa election reports",
+                    "CCMG Zambia election reports",
+                    "CODEOGHANA election reports",
+                    "MESN Malawi election verification",
+                    "electoral transparency Africa",
+                    "African election integrity",
+                    "African election audit",
+                    "African election reliability",
+                    "election observation in Africa",
+                    "election rigging in Africa",
+                    "election corruption in Africa",
+                    "vote manipulation in Africa",
+                    "nonpartisan election observation",
+                    "PVRT Africa",
+                    "parallel vote tabulation Africa",
+                    "Process and Results Verification for Transparency",
+                    "NDI Africa",
+                    "National Democratic Institute Africa",
+                    "electoral processes in African countries",
+                    "democracy and elections in Africa",
+                    "YIAGA",
+                    "CCMG",
+                    "CODEOGHANA",
+                    "MESN",
+                    "Mourakiboun",
+                    "ZESN",
+                    "ELOG",
+                    "CODEL",
+                    "POECI",
+                    "COSCE",
+                    "CSEC",
+                    "SWIFTCOUNT",
+                    "FODEP"
+                  ]
                 }
               ]
             },
@@ -6519,7 +6814,8 @@
                   "SectionOrder": "2",
                   "Democracy-pageID": [
                     "rec272oEMbhvLWKTR"
-                  ]
+                  ],
+                  "SEO-keywords": null
                 }
               ]
             }
@@ -6589,7 +6885,98 @@
                   "SEO-title": "EIU Democracy Level Map for African Countries",
                   "SEO-figcaption": "This map visualizes the Economist Intelligence Unit's Democracy Levels in African Countries",
                   "SEO-description": "Explore the state of democracy in African countries with data from the Economist    Intelligence Unit's Democracy Index. This interactive resource visualizes the geographic distribution    of democracy levels across Africa, based on 60 indicators grouped into five key categories:    pluralism, civil liberties, political participation, political culture, and government functioning.    Each country is ranked with a numeric score and categorized into one of four regime types:    full democracies, flawed democracies, hybrid regimes, and authoritarian regimes.    Dive into this comprehensive assessment of democratic rights and institutions, compare rankings, and uncover trends shaping Africa's political landscape",
-                  "SEO-keywords": "\"Democracy in Africa\", \"Africa Democracy Index\", \"EIU Democracy Index Africa\",      \"African democracy levels\", \"State of democracy in Africa\", \"African countries democracy rankings\",      \"Democracy measurement in Africa\", \"Democratic rights in Africa\", \"African democratic institutions\",      \"Civil liberties in Africa\", \"Pluralism in African politics\", \"Political participation in Africa\",      \"Political culture in Africa\", \"Africa political trends\", \"Africa regime types\",      \"Full democracies in Africa\", \"Flawed democracies in African countries\", \"Hybrid regimes in Africa\",      \"Authoritarian regimes in Africa\", \"Compare democracy rankings in Africa\",      \"Trends in African democracy\", \"Geographic distribution of democracy in Africa\",      \"African governance quality\", \"Economist Intelligence Unit Democracy Index\",      \"Africa political landscape\", \"Democracy Africa\", \"Authoritarian Africa\", \"Corruption Africa\",      \"democracy ranking\", \"democracy rating\", \"democracy score\", \"democracy index\", \"civil war\",      \"military regime\", \"coup\", \"junta\", \"Algeria\", \"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\",      \"Burundi\", \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\",      \"Democratic Republic of the Congo\", \"Republic of the Congo\", \"Djibouti\", \"Egypt\",      \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"The Gambia\", \"Ghana\", \"Guinea\",      \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Libya\", \"Madagascar\", \"Malawi\",      \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\", \"Niger\", \"Nigeria\",      \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\",      \"South Africa\", \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "Democracy in Africa",
+                    "Africa Democracy Index",
+                    "EIU Democracy Index Africa",
+                    "African democracy levels",
+                    "State of democracy in Africa",
+                    "African countries democracy rankings",
+                    "Democracy measurement in Africa",
+                    "Democratic rights in Africa",
+                    "African democratic institutions",
+                    "Civil liberties in Africa",
+                    "Pluralism in African politics",
+                    "Political participation in Africa",
+                    "Political culture in Africa",
+                    "Africa political trends",
+                    "Africa regime types",
+                    "Full democracies in Africa",
+                    "Flawed democracies in African countries",
+                    "Hybrid regimes in Africa",
+                    "Authoritarian regimes in Africa",
+                    "Compare democracy rankings in Africa",
+                    "Trends in African democracy",
+                    "Geographic distribution of democracy in Africa",
+                    "African governance quality",
+                    "Economist Intelligence Unit Democracy Index",
+                    "Africa political landscape",
+                    "Democracy Africa",
+                    "Authoritarian Africa",
+                    "Corruption Africa",
+                    "democracy ranking",
+                    "democracy rating",
+                    "democracy score",
+                    "democracy index",
+                    "civil war",
+                    "military regime",
+                    "coup",
+                    "junta",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Rwanda",
+                    "Sao Tome and Principe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             }
@@ -6659,7 +7046,84 @@
                   "SEO-title": "Presidential Term Limits and Historical Compliance",
                   "SEO-figcaption": "Discover African presidential term limits, leadership durations, and historical compliance with term limit policies",
                   "SEO-description": "Explore a comprehensive visualization of presidential term limits, leadership durations, and historical compliance across African countries. This interactive resource delves into how term limits shape governance, leadership timelines, and political trends on the continent",
-                  "SEO-keywords": "\"African presidential term limits\", \"presidential term durations in Africa\", \"leadership timelines in Africa\",  \"term limit policies in Africa\", \"historical compliance with term limits\", \"governance in African countries\",  \"African leadership analysis\", \"presidential term compliance Africa\", \"term limit visualization Africa\",  \"political leadership trends in Africa\", \"presidential term limits and policies in Africa\",  \"Africa governance analysis\", \"oldest ruling leaders in Africa\", \"longest ruling African presidents\",  \"longest ruling head of state\", \"oldest president in Africa\", \"which African leader has ruled the longest\",  \"Africa authoritarian leadership\", \"Africa democracy vs authoritarianism\", \"African political stability\",  \"Democracy Africa\", \"Corruption Africa\", \"Algeria\", \"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\", \"Burundi\",  \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\", \"Democratic Republic of the Congo\",  \"Republic of the Congo\", \"Djibouti\", \"Egypt\", \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\",  \"Gabon\", \"The Gambia\", \"Ghana\", \"Guinea\", \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\",  \"Libya\", \"Madagascar\", \"Malawi\", \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\",  \"Niger\", \"Nigeria\", \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\",  \"South Africa\", \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "African presidential term limits",
+                    "presidential term durations in Africa",
+                    "leadership timelines in Africa",
+                    "term limit policies in Africa",
+                    "historical compliance with term limits",
+                    "governance in African countries",
+                    "African leadership analysis",
+                    "presidential term compliance Africa",
+                    "term limit visualization Africa",
+                    "political leadership trends in Africa",
+                    "presidential term limits and policies in Africa",
+                    "Africa governance analysis",
+                    "oldest ruling leaders in Africa",
+                    "longest ruling African presidents",
+                    "longest ruling head of state",
+                    "oldest president in Africa",
+                    "which African leader has ruled the longest",
+                    "Africa authoritarian leadership",
+                    "Africa democracy vs authoritarianism",
+                    "African political stability",
+                    "Democracy Africa",
+                    "Corruption Africa",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Rwanda",
+                    "Sao Tome and Principe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             }
@@ -6729,7 +7193,134 @@
                   "SEO-title": "Coup and Conflict African Map",
                   "SEO-figcaption": "This map highlights which African countries are currently in active civil war or ruled by military regimes",
                   "SEO-description": "Explore the current political landscape of Africa with data on active civil wars, military regimes, and ongoing conflicts. This interactive resource visualizes the distribution of countries facing military rule, coups, and major conflicts across the continent. Dive into this comprehensive assessment to understand the political dynamics shaping Africa\u2019s development and stability, and get insights into the regions most affected by political unrest and military regimes",
-                  "SEO-keywords": "\"Africa political landscape\", \"active civil wars in Africa\", \"military regimes in Africa\", \"African coups\", \"ongoing conflicts in Africa\", \"Africa military rule\", \"conflict map Africa\", \"political unrest in Africa\", \"military regimes and coups in Africa\", \"Africa political dynamics\", \"Africa development and stability\", \"regions affected by conflict in Africa\", \"Africa political unrest\", \"Africa conflict distribution\", \"political instability in Africa\", \"Africa political assessment\", \"Mali coups\", \"Mali conflict\", \"Burkina Faso coups\", \"Burkina Faso conflict\", \"Guinea coups\", \"Guinea conflict\", \"Sudan coups\", \"Sudan conflict\", \"Chad coups\", \"Chad conflict\", \"Zambia coups\", \"Zambia conflict\", \"Comoros coups\", \"Comoros conflict\", \"Congo (Republic of the Congo) coups\", \"Congo (Republic of the Congo) conflict\", \"Lesotho coups\", \"Lesotho conflict\", \"Central African Republic coups\", \"Central African Republic conflict\", \"Togo coups\", \"Togo conflict\", \"Guinea-Bissau coups\", \"Guinea-Bissau conflict\", \"Sierra Leone coups\", \"Sierra Leone conflict\", \"Mauritania coups\", \"Mauritania conflict\", \"Ethiopia coups\", \"Ethiopia conflict\", \"Zimbabwe coups\", \"Zimbabwe conflict\", \"Nigeria coups\", \"Nigeria conflict\", \"Ivory Coast coups\", \"Ivory Coast conflict\", \"Somalia coups\", \"Somalia conflict\", \"Egypt coups\", \"Egypt conflict\", \"Liberia coups\", \"Liberia conflict\", \"Madagascar coups\", \"Madagascar conflict\", \"Libya coups\", \"Libya conflict\", \"Algeria coups\", \"Algeria conflict\", \"Angola coups\", \"Angola conflict\", \"Benin coups\", \"Benin conflict\", \"Botswana coups\", \"Botswana conflict\", \"Burundi coups\", \"Burundi conflict\", \"Cape Verde coups\", \"Cape Verde conflict\", \"Cameroon coups\", \"Cameroon conflict\", \"Congo (Democratic Republic) coups\", \"Congo (Democratic Republic) conflict\", \"Djibouti coups\", \"Djibouti conflict\", \"Equatorial Guinea coups\", \"Equatorial Guinea conflict\", \"Eritrea coups\", \"Eritrea conflict\", \"Eswatini coups\", \"Eswatini conflict\", \"Gabon coups\", \"Gabon conflict\", \"Gambia coups\", \"Gambia conflict\", \"Ghana coups\", \"Ghana conflict\", \"Kenya coups\", \"Kenya conflict\", \"Malawi coups\", \"Malawi conflict\", \"Mauritius coups\", \"Mauritius conflict\", \"Morocco coups\", \"Morocco conflict\", \"Mozambique coups\", \"Mozambique conflict\", \"Namibia coups\", \"Namibia conflict\", \"Niger coups\", \"Niger conflict\", \"Rwanda coups\", \"Rwanda conflict\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe coups\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe conflict\", \"Senegal coups\", \"Senegal conflict\", \"Seychelles coups\", \"Seychelles conflict\", \"South Africa coups\", \"South Africa conflict\", \"South Sudan coups\", \"South Sudan conflict\", \"Tanzania coups\", \"Tanzania conflict\", \"Tunisia coups\", \"Tunisia conflict\", \"Uganda coups\", \"Uganda conflict\", \"Zimbabwe coups\", \"Zimbabwe conflict\""
+                  "SEO-keywords": [
+                    "Africa political landscape",
+                    "active civil wars in Africa",
+                    "military regimes in Africa",
+                    "African coups",
+                    "ongoing conflicts in Africa",
+                    "Africa military rule",
+                    "conflict map Africa",
+                    "political unrest in Africa",
+                    "military regimes and coups in Africa",
+                    "Africa political dynamics",
+                    "Africa development and stability",
+                    "regions affected by conflict in Africa",
+                    "Africa political unrest",
+                    "Africa conflict distribution",
+                    "political instability in Africa",
+                    "Africa political assessment",
+                    "Mali coups",
+                    "Mali conflict",
+                    "Burkina Faso coups",
+                    "Burkina Faso conflict",
+                    "Guinea coups",
+                    "Guinea conflict",
+                    "Sudan coups",
+                    "Sudan conflict",
+                    "Chad coups",
+                    "Chad conflict",
+                    "Zambia coups",
+                    "Zambia conflict",
+                    "Comoros coups",
+                    "Comoros conflict",
+                    "Congo (Republic of the Congo) coups",
+                    "Congo (Republic of the Congo) conflict",
+                    "Lesotho coups",
+                    "Lesotho conflict",
+                    "Central African Republic coups",
+                    "Central African Republic conflict",
+                    "Togo coups",
+                    "Togo conflict",
+                    "Guinea-Bissau coups",
+                    "Guinea-Bissau conflict",
+                    "Sierra Leone coups",
+                    "Sierra Leone conflict",
+                    "Mauritania coups",
+                    "Mauritania conflict",
+                    "Ethiopia coups",
+                    "Ethiopia conflict",
+                    "Zimbabwe coups",
+                    "Zimbabwe conflict",
+                    "Nigeria coups",
+                    "Nigeria conflict",
+                    "Ivory Coast coups",
+                    "Ivory Coast conflict",
+                    "Somalia coups",
+                    "Somalia conflict",
+                    "Egypt coups",
+                    "Egypt conflict",
+                    "Liberia coups",
+                    "Liberia conflict",
+                    "Madagascar coups",
+                    "Madagascar conflict",
+                    "Libya coups",
+                    "Libya conflict",
+                    "Algeria coups",
+                    "Algeria conflict",
+                    "Angola coups",
+                    "Angola conflict",
+                    "Benin coups",
+                    "Benin conflict",
+                    "Botswana coups",
+                    "Botswana conflict",
+                    "Burundi coups",
+                    "Burundi conflict",
+                    "Cape Verde coups",
+                    "Cape Verde conflict",
+                    "Cameroon coups",
+                    "Cameroon conflict",
+                    "Congo (Democratic Republic) coups",
+                    "Congo (Democratic Republic) conflict",
+                    "Djibouti coups",
+                    "Djibouti conflict",
+                    "Equatorial Guinea coups",
+                    "Equatorial Guinea conflict",
+                    "Eritrea coups",
+                    "Eritrea conflict",
+                    "Eswatini coups",
+                    "Eswatini conflict",
+                    "Gabon coups",
+                    "Gabon conflict",
+                    "Gambia coups",
+                    "Gambia conflict",
+                    "Ghana coups",
+                    "Ghana conflict",
+                    "Kenya coups",
+                    "Kenya conflict",
+                    "Malawi coups",
+                    "Malawi conflict",
+                    "Mauritius coups",
+                    "Mauritius conflict",
+                    "Morocco coups",
+                    "Morocco conflict",
+                    "Mozambique coups",
+                    "Mozambique conflict",
+                    "Namibia coups",
+                    "Namibia conflict",
+                    "Niger coups",
+                    "Niger conflict",
+                    "Rwanda coups",
+                    "Rwanda conflict",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe coups",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe conflict",
+                    "Senegal coups",
+                    "Senegal conflict",
+                    "Seychelles coups",
+                    "Seychelles conflict",
+                    "South Africa coups",
+                    "South Africa conflict",
+                    "South Sudan coups",
+                    "South Sudan conflict",
+                    "Tanzania coups",
+                    "Tanzania conflict",
+                    "Tunisia coups",
+                    "Tunisia conflict",
+                    "Uganda coups",
+                    "Uganda conflict",
+                    "Zimbabwe coups",
+                    "Zimbabwe conflict"
+                  ]
                 }
               ]
             }
@@ -6803,7 +7394,84 @@
                   "SEO-title": "Age of Democracy Table for African Countries",
                   "SEO-figcaption": "This table visualizes the age of democracy for each African country",
                   "SEO-description": "Explore the state of democracy in African countries with data sourced by Stears Open Data. This interactive resource visualizes the geographic distribution of the different ages of uninterrupted democracy across Africa. Dive into this comprehensive assessment of democratic rights and institutions, compare rankings, and uncover trends shaping Africa's political landscape",
-                  "SEO-keywords": "\"Democracy in Africa\", \"Africa Democracy\", \"Age of Democracy in Africa\", \"African democracy levels\",  \"State of democracy in Africa\", \"African countries democracy rankings\", \"Democracy measurement in Africa\",  \"Democratic rights in Africa\", \"African democratic institutions\", \"Civil liberties in Africa\",  \"Africa political trends\", \"Africa regime types\", \"Authoritarian regimes in Africa\",  \"Compare democracy rankings in Africa\", \"Trends in African democracy\",  \"Geographic distribution of democracy in Africa\", \"African governance quality\",  \"How old is democracy in Africa?\", \"How long has each African country been a democracy?\",  \"Democracy Africa\", \"Authoritarian Africa\", \"Corruption Africa\", \"Algeria\", \"Angola\", \"Benin\",  \"Botswana\", \"Burkina Faso\", \"Burundi\", \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\",  \"Comoros\", \"Democratic Republic of the Congo\", \"Republic of the Congo\", \"Djibouti\", \"Egypt\",  \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"The Gambia\", \"Ghana\", \"Guinea\",  \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Libya\", \"Madagascar\", \"Malawi\",  \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\", \"Niger\", \"Nigeria\",  \"Rwanda\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\",  \"South Africa\", \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "Democracy in Africa",
+                    "Africa Democracy",
+                    "Age of Democracy in Africa",
+                    "African democracy levels",
+                    "State of democracy in Africa",
+                    "African countries democracy rankings",
+                    "Democracy measurement in Africa",
+                    "Democratic rights in Africa",
+                    "African democratic institutions",
+                    "Civil liberties in Africa",
+                    "Africa political trends",
+                    "Africa regime types",
+                    "Authoritarian regimes in Africa",
+                    "Compare democracy rankings in Africa",
+                    "Trends in African democracy",
+                    "Geographic distribution of democracy in Africa",
+                    "African governance quality",
+                    "How old is democracy in Africa?",
+                    "How long has each African country been a democracy?",
+                    "Democracy Africa",
+                    "Authoritarian Africa",
+                    "Corruption Africa",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Rwanda",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             },
@@ -6839,7 +7507,83 @@
                   "SEO-title": "Map of Current Continuous Democracy Age",
                   "SEO-figcaption": "This map visualizes the age of uninterrupted democracy for each African country",
                   "SEO-description": "Explore the state of democracy across Africa with data sourced from Stears\u2019 Open Data. This interactive map visualizes the ages of uninterrupted democracy in African countries, helping you understand democratic rights, political trends, and governance across the continent",
-                  "SEO-keywords": "\"Democracy in Africa\", \"Africa Democracy\", \"Age of Democracy in Africa\",  \"African democracy levels\", \"State of democracy in Africa\", \"African countries democracy rankings\",  \"Democracy measurement in Africa\", \"Democratic rights in Africa\", \"African democratic institutions\",  \"Civil liberties in Africa\", \"Political trends in Africa\", \"Africa regime types\", \"Authoritarian regimes in Africa\",  \"Democracy comparison in Africa\", \"Trends in African democracy\", \"Geographic distribution of democracy in Africa\",  \"African governance quality\", \"Corruption in Africa\", \"Africa democracy rankings\", \"Democracy Africa\",  \"How old is democracy in Africa?\", \"Algeria\", \"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\", \"Burundi\",  \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\", \"Democratic Republic of the Congo\",  \"Djibouti\", \"Egypt\", \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"The Gambia\", \"Ghana\",  \"Guinea\", \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Libya\", \"Madagascar\", \"Malawi\",  \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\", \"Niger\", \"Nigeria\", \"Republic of the Congo\",  \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\", \"South Africa\",  \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "Democracy in Africa",
+                    "Africa Democracy",
+                    "Age of Democracy in Africa",
+                    "African democracy levels",
+                    "State of democracy in Africa",
+                    "African countries democracy rankings",
+                    "Democracy measurement in Africa",
+                    "Democratic rights in Africa",
+                    "African democratic institutions",
+                    "Civil liberties in Africa",
+                    "Political trends in Africa",
+                    "Africa regime types",
+                    "Authoritarian regimes in Africa",
+                    "Democracy comparison in Africa",
+                    "Trends in African democracy",
+                    "Geographic distribution of democracy in Africa",
+                    "African governance quality",
+                    "Corruption in Africa",
+                    "Africa democracy rankings",
+                    "Democracy Africa",
+                    "How old is democracy in Africa?",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Republic of the Congo",
+                    "Rwanda",
+                    "Sao Tome and Principe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             }
@@ -6908,7 +7652,68 @@
                   "SEO-title": "Past or Recent African Elections Tracker",
                   "SEO-figcaption": "Explore past and recent African elections with an interactive table showcasing election dates, voter turnout trends, parliamentary seat shifts, and regional election maps for countries across the continent, including South Africa, Nigeria, Ghana, Kenya, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Namibia. A comprehensive resource for understanding Africa's electoral landscape",
                   "SEO-description": "Explore in-depth data on recent African elections or past African elections, visualized through an interactive table. This page offers insights into all recently passed national level elections, with further analysis on selected countries, including South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Kenya. Discover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape",
-                  "SEO-keywords": "\"African elections\", \"African elections calendar\", \"past elections\", \"recent African elections\", \"interactive African elections table\", \"African elections insights\", \"election analysis\", \"When was Algeria's election?\", \"When was Angola's election?\", \"When was the Benin Republic's election?\", \"When was Botswana's election?\", \"When was Burkina Faso's election?\", \"When was Burundi's election?\", \"When was Cape Verde's election?\", \"When was the Central African Republic's election?\", \"When was Chad's election?\", \"When was Comoros' election?\", \"When was the Democratic Republic of the Congo's election?\", \"When was Djibouti's election?\", \"When was Egypt's election?\", \"When was Equatorial Guinea's election?\", \"When was Eritrea's election?\", \"When was Eswatini's election?\", \"When was Ethiopia's election?\", \"When was Gabon's election?\", \"When was The Gambia's election?\", \"When was Ghana's election?\", \"When was Guinea's election?\", \"When was Guinea-Bissau's election?\", \"When was Ivory Coast's election?\", \"When was Kenya's election?\", \"When was Lesotho's election?\", \"When was Liberia's election?\", \"When was Libya's election?\", \"When was Madagascar's election?\", \"When was Malawi's election?\", \"When was Mali's election?\", \"When was Mauritania's election?\", \"When was Mauritius' election?\", \"When was Morocco's election?\", \"When was Mozambique's election?\", \"When was Namibia's election?\", \"When was Niger's election?\", \"When was Nigeria's election?\", \"When was the Republic of the Congo's election?\", \"When was Rwanda's election?\", \"When was S\u00e3o Tom\u00e9 and Pr\u00edncipe's election?\", \"When was Senegal's election?\", \"When was Seychelles' election?\", \"When was Sierra Leone's election?\", \"When was Somalia's election?\", \"When was South Africa's election?\", \"When was South Sudan's election?\", \"When was Sudan's election?\", \"When was Tanzania's election?\", \"When was Togo's election?\", \"When was Tunisia's election?\", \"When was Uganda's election?\", \"When was Zambia's election?\", \"When was Zimbabwe's election?\""
+                  "SEO-keywords": [
+                    "African elections",
+                    "African elections calendar",
+                    "past elections",
+                    "recent African elections",
+                    "interactive African elections table",
+                    "African elections insights",
+                    "election analysis",
+                    "When was Algeria's election?",
+                    "When was Angola's election?",
+                    "When was the Benin Republic's election?",
+                    "When was Botswana's election?",
+                    "When was Burkina Faso's election?",
+                    "When was Burundi's election?",
+                    "When was Cape Verde's election?",
+                    "When was the Central African Republic's election?",
+                    "When was Chad's election?",
+                    "When was Comoros' election?",
+                    "When was the Democratic Republic of the Congo's election?",
+                    "When was Djibouti's election?",
+                    "When was Egypt's election?",
+                    "When was Equatorial Guinea's election?",
+                    "When was Eritrea's election?",
+                    "When was Eswatini's election?",
+                    "When was Ethiopia's election?",
+                    "When was Gabon's election?",
+                    "When was The Gambia's election?",
+                    "When was Ghana's election?",
+                    "When was Guinea's election?",
+                    "When was Guinea-Bissau's election?",
+                    "When was Ivory Coast's election?",
+                    "When was Kenya's election?",
+                    "When was Lesotho's election?",
+                    "When was Liberia's election?",
+                    "When was Libya's election?",
+                    "When was Madagascar's election?",
+                    "When was Malawi's election?",
+                    "When was Mali's election?",
+                    "When was Mauritania's election?",
+                    "When was Mauritius' election?",
+                    "When was Morocco's election?",
+                    "When was Mozambique's election?",
+                    "When was Namibia's election?",
+                    "When was Niger's election?",
+                    "When was Nigeria's election?",
+                    "When was the Republic of the Congo's election?",
+                    "When was Rwanda's election?",
+                    "When was S\u00e3o Tom\u00e9 and Pr\u00edncipe's election?",
+                    "When was Senegal's election?",
+                    "When was Seychelles' election?",
+                    "When was Sierra Leone's election?",
+                    "When was Somalia's election?",
+                    "When was South Africa's election?",
+                    "When was South Sudan's election?",
+                    "When was Sudan's election?",
+                    "When was Tanzania's election?",
+                    "When was Togo's election?",
+                    "When was Tunisia's election?",
+                    "When was Uganda's election?",
+                    "When was Zambia's election?",
+                    "When was Zimbabwe's election?"
+                  ]
                 }
               ]
             }
@@ -6977,7 +7782,80 @@
                   "SEO-title": "Upcoming African Elections Tracker",
                   "SEO-figcaption": "Explore upcoming African elections with an interactive table showcasing election dates, voter turnout trends, parliamentary seat shifts, and regional election maps for countries across the continent, including South Africa, Nigeria, Ghana, Kenya, Tunisia, Mauritania, Mauritius, Chad, Senegal, Guinea Bissau, and Namibia. A comprehensive resource for understanding Africa's electoral landscape",
                   "SEO-description": "Explore in-depth data on upcoming African elections, visualized through an interactive table. This page offers insights into African elections scheduled within the next 12 months, with further analysis on selected countries, including South Africa, Namibia, Botswana, Nigeria, Ghana, Tunisia, Mauritania, Chad, Senegal, Guinea Bissau, and Kenya. Discover in-depth visuals illustrating how voters have turned out over the years, how parliamentary seats have shifted across parties, and election maps showing winners by regions, states, provinces, or districts. Each row provides a clear overview of each country's elections, making it an ideal resource for researchers, students, historians, election observers, civil society members, and activists looking to stay informed on Africa's electoral landscape",
-                  "SEO-keywords": "\"African elections\", \"African elections calendar\", \"upcoming elections\", \"upcoming African elections\", \"insights into African elections\", \"next 12 months elections\", \"election analysis\",  \"Africa's electoral landscape\", \"election calendar\", \"election tracker\", \"election date\",  \"presidential election\", \"parliamentary election\", \"general election\", \"2024 election\", \"2025 election\", \"2026 election\", \"Which African elections will be important\", \"Which African elections will be significant\", \"When is Algeria's election?\", \"When is Angola's election?\", \"When is the Benin Republic's election?\", \"When is Botswana's election?\", \"When is Burkina Faso's election?\", \"When is Burundi's election?\", \"When is Cape Verde's election?\", \"When is the Central African Republic's election?\", \"When is Chad's election?\", \"When is Comoros' election?\", \"When is the Democratic Republic of the Congo's election?\", \"When is Djibouti's election?\", \"When is Egypt's election?\", \"When is Equatorial Guinea's election?\", \"When is Eritrea's election?\", \"When is Eswatini's election?\", \"When is Ethiopia's election?\", \"When is Gabon's election?\", \"When is The Gambia's election?\", \"When is Ghana's election?\", \"When is Guinea's election?\", \"When is Guinea-Bissau's election?\", \"When is Ivory Coast's election?\", \"When is Kenya's election?\", \"When is Lesotho's election?\", \"When is Liberia's election?\", \"When is Libya's election?\", \"When is Madagascar's election?\", \"When is Malawi's election?\", \"When is Mali's election?\", \"When is Mauritania's election?\", \"When is Mauritius' election?\", \"When is Morocco's election?\", \"When is Mozambique's election?\", \"When is Namibia's election?\", \"When is Niger's election?\", \"When is Nigeria's election?\", \"When is the Republic of the Congo's election?\", \"When is Rwanda's election?\", \"When is S\u00e3o Tom\u00e9 and Pr\u00edncipe's election?\", \"When is Senegal's election?\", \"When is Seychelles' election?\", \"When is Sierra Leone's election?\", \"When is Somalia's election?\", \"When is South Africa's election?\", \"When is South Sudan's election?\", \"When is Sudan's election?\", \"When is Tanzania's election?\", \"When is Togo's election?\", \"When is Tunisia's election?\", \"When is Uganda's election?\", \"When is Zambia's election?\", \"When is Zimbabwe's election?\""
+                  "SEO-keywords": [
+                    "African elections",
+                    "African elections calendar",
+                    "upcoming elections",
+                    "upcoming African elections",
+                    "insights into African elections",
+                    "next 12 months elections",
+                    "election analysis",
+                    "Africa's electoral landscape",
+                    "election calendar",
+                    "election tracker",
+                    "election date",
+                    "presidential election",
+                    "parliamentary election",
+                    "general election",
+                    "2024 election",
+                    "2025 election",
+                    "2026 election",
+                    "Which African elections will be important",
+                    "Which African elections will be significant",
+                    "When is Algeria's election?",
+                    "When is Angola's election?",
+                    "When is the Benin Republic's election?",
+                    "When is Botswana's election?",
+                    "When is Burkina Faso's election?",
+                    "When is Burundi's election?",
+                    "When is Cape Verde's election?",
+                    "When is the Central African Republic's election?",
+                    "When is Chad's election?",
+                    "When is Comoros' election?",
+                    "When is the Democratic Republic of the Congo's election?",
+                    "When is Djibouti's election?",
+                    "When is Egypt's election?",
+                    "When is Equatorial Guinea's election?",
+                    "When is Eritrea's election?",
+                    "When is Eswatini's election?",
+                    "When is Ethiopia's election?",
+                    "When is Gabon's election?",
+                    "When is The Gambia's election?",
+                    "When is Ghana's election?",
+                    "When is Guinea's election?",
+                    "When is Guinea-Bissau's election?",
+                    "When is Ivory Coast's election?",
+                    "When is Kenya's election?",
+                    "When is Lesotho's election?",
+                    "When is Liberia's election?",
+                    "When is Libya's election?",
+                    "When is Madagascar's election?",
+                    "When is Malawi's election?",
+                    "When is Mali's election?",
+                    "When is Mauritania's election?",
+                    "When is Mauritius' election?",
+                    "When is Morocco's election?",
+                    "When is Mozambique's election?",
+                    "When is Namibia's election?",
+                    "When is Niger's election?",
+                    "When is Nigeria's election?",
+                    "When is the Republic of the Congo's election?",
+                    "When is Rwanda's election?",
+                    "When is S\u00e3o Tom\u00e9 and Pr\u00edncipe's election?",
+                    "When is Senegal's election?",
+                    "When is Seychelles' election?",
+                    "When is Sierra Leone's election?",
+                    "When is Somalia's election?",
+                    "When is South Africa's election?",
+                    "When is South Sudan's election?",
+                    "When is Sudan's election?",
+                    "When is Tanzania's election?",
+                    "When is Togo's election?",
+                    "When is Tunisia's election?",
+                    "When is Uganda's election?",
+                    "When is Zambia's election?",
+                    "When is Zimbabwe's election?"
+                  ]
                 }
               ]
             }
@@ -7062,7 +7940,82 @@
                   "SEO-title": "United Nations Population map for African Countries",
                   "SEO-figcaption": "This map visualizes population numbers and population trends in African countries",
                   "SEO-description": "Explore the varying population numbers in African countries with data from the United Nations. This interactive resource visualizes the distribution and trends of populations across Africa, providing a comprehensive assessment of demographic changes shaping Africa's landscape",
-                  "SEO-keywords": "\"Population in African countries\", \"African population data\", \"United Nations population statistics Africa\", \"African population trends\",  \"Population distribution in Africa\", \"Population numbers in Africa\", \"African population visualizations\", \"Population trends shaping Africa\",  \"Africa population interactive map\", \"Africa population analysis\", \"Africa political landscape and population\",  \"United Nations Africa population report\", \"People distribution across Africa\", \"African demographic trends\", \"Population growth in Africa\",  \"How many people live in African countries\", \"African countries ranked by population\", \"Population size of African nations\",  \"United Nations data on Africa demographics\", \"Comprehensive African population assessment\", \"Algeria population\", \"Angola population\",  \"Benin population\", \"Botswana population\", \"Burkina Faso population\", \"Burundi population\", \"Cabo Verde population\", \"Cameroon population\",  \"Central African Republic population\", \"Chad population\", \"Comoros population\", \"Democratic Republic of the Congo population\",  \"Republic of the Congo population\", \"Djibouti population\", \"Egypt population\", \"Equatorial Guinea population\", \"Eritrea population\",  \"Eswatini population\", \"Ethiopia population\", \"Gabon population\", \"The Gambia population\", \"Ghana population\", \"Guinea population\",  \"Guinea-Bissau population\", \"Ivory Coast population\", \"Kenya population\", \"Lesotho population\", \"Liberia population\", \"Libya population\",  \"Madagascar population\", \"Malawi population\", \"Mali population\", \"Mauritania population\", \"Mauritius population\", \"Morocco population\",  \"Mozambique population\", \"Namibia population\", \"Niger population\", \"Nigeria population\", \"Rwanda population\",  \"S\u00e3o Tom\u00e9 and Pr\u00edncipe population\", \"Senegal population\", \"Seychelles population\", \"Sierra Leone population\", \"Somalia population\",  \"South Africa population\", \"South Sudan population\", \"Sudan population\", \"Tanzania population\", \"Togo population\", \"Tunisia population\",  \"Uganda population\", \"Zambia population\", \"Zimbabwe population\""
+                  "SEO-keywords": [
+                    "Population in African countries",
+                    "African population data",
+                    "United Nations population statistics Africa",
+                    "African population trends",
+                    "Population distribution in Africa",
+                    "Population numbers in Africa",
+                    "African population visualizations",
+                    "Population trends shaping Africa",
+                    "Africa population interactive map",
+                    "Africa population analysis",
+                    "Africa political landscape and population",
+                    "United Nations Africa population report",
+                    "People distribution across Africa",
+                    "African demographic trends",
+                    "Population growth in Africa",
+                    "How many people live in African countries",
+                    "African countries ranked by population",
+                    "Population size of African nations",
+                    "United Nations data on Africa demographics",
+                    "Comprehensive African population assessment",
+                    "Algeria population",
+                    "Angola population",
+                    "Benin population",
+                    "Botswana population",
+                    "Burkina Faso population",
+                    "Burundi population",
+                    "Cabo Verde population",
+                    "Cameroon population",
+                    "Central African Republic population",
+                    "Chad population",
+                    "Comoros population",
+                    "Democratic Republic of the Congo population",
+                    "Republic of the Congo population",
+                    "Djibouti population",
+                    "Egypt population",
+                    "Equatorial Guinea population",
+                    "Eritrea population",
+                    "Eswatini population",
+                    "Ethiopia population",
+                    "Gabon population",
+                    "The Gambia population",
+                    "Ghana population",
+                    "Guinea population",
+                    "Guinea-Bissau population",
+                    "Ivory Coast population",
+                    "Kenya population",
+                    "Lesotho population",
+                    "Liberia population",
+                    "Libya population",
+                    "Madagascar population",
+                    "Malawi population",
+                    "Mali population",
+                    "Mauritania population",
+                    "Mauritius population",
+                    "Morocco population",
+                    "Mozambique population",
+                    "Namibia population",
+                    "Niger population",
+                    "Nigeria population",
+                    "Rwanda population",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe population",
+                    "Senegal population",
+                    "Seychelles population",
+                    "Sierra Leone population",
+                    "Somalia population",
+                    "South Africa population",
+                    "South Sudan population",
+                    "Sudan population",
+                    "Tanzania population",
+                    "Togo population",
+                    "Tunisia population",
+                    "Uganda population",
+                    "Zambia population",
+                    "Zimbabwe population"
+                  ]
                 }
               ]
             },
@@ -7098,7 +8051,134 @@
                   "SEO-title": "Coup and Conflict African Map",
                   "SEO-figcaption": "This map highlights which African countries are currently in active civil war or ruled by military regimes",
                   "SEO-description": "Explore the current political landscape of Africa with data on active civil wars, military regimes, and ongoing conflicts. This interactive resource visualizes the distribution of countries facing military rule, coups, and major conflicts across the continent. Dive into this comprehensive assessment to understand the political dynamics shaping Africa\u2019s development and stability, and get insights into the regions most affected by political unrest and military regimes",
-                  "SEO-keywords": "\"Africa political landscape\", \"active civil wars in Africa\", \"military regimes in Africa\", \"African coups\", \"ongoing conflicts in Africa\", \"Africa military rule\", \"conflict map Africa\", \"political unrest in Africa\", \"military regimes and coups in Africa\", \"Africa political dynamics\", \"Africa development and stability\", \"regions affected by conflict in Africa\", \"Africa political unrest\", \"Africa conflict distribution\", \"political instability in Africa\", \"Africa political assessment\", \"Mali coups\", \"Mali conflict\", \"Burkina Faso coups\", \"Burkina Faso conflict\", \"Guinea coups\", \"Guinea conflict\", \"Sudan coups\", \"Sudan conflict\", \"Chad coups\", \"Chad conflict\", \"Zambia coups\", \"Zambia conflict\", \"Comoros coups\", \"Comoros conflict\", \"Congo (Republic of the Congo) coups\", \"Congo (Republic of the Congo) conflict\", \"Lesotho coups\", \"Lesotho conflict\", \"Central African Republic coups\", \"Central African Republic conflict\", \"Togo coups\", \"Togo conflict\", \"Guinea-Bissau coups\", \"Guinea-Bissau conflict\", \"Sierra Leone coups\", \"Sierra Leone conflict\", \"Mauritania coups\", \"Mauritania conflict\", \"Ethiopia coups\", \"Ethiopia conflict\", \"Zimbabwe coups\", \"Zimbabwe conflict\", \"Nigeria coups\", \"Nigeria conflict\", \"Ivory Coast coups\", \"Ivory Coast conflict\", \"Somalia coups\", \"Somalia conflict\", \"Egypt coups\", \"Egypt conflict\", \"Liberia coups\", \"Liberia conflict\", \"Madagascar coups\", \"Madagascar conflict\", \"Libya coups\", \"Libya conflict\", \"Algeria coups\", \"Algeria conflict\", \"Angola coups\", \"Angola conflict\", \"Benin coups\", \"Benin conflict\", \"Botswana coups\", \"Botswana conflict\", \"Burundi coups\", \"Burundi conflict\", \"Cape Verde coups\", \"Cape Verde conflict\", \"Cameroon coups\", \"Cameroon conflict\", \"Congo (Democratic Republic) coups\", \"Congo (Democratic Republic) conflict\", \"Djibouti coups\", \"Djibouti conflict\", \"Equatorial Guinea coups\", \"Equatorial Guinea conflict\", \"Eritrea coups\", \"Eritrea conflict\", \"Eswatini coups\", \"Eswatini conflict\", \"Gabon coups\", \"Gabon conflict\", \"Gambia coups\", \"Gambia conflict\", \"Ghana coups\", \"Ghana conflict\", \"Kenya coups\", \"Kenya conflict\", \"Malawi coups\", \"Malawi conflict\", \"Mauritius coups\", \"Mauritius conflict\", \"Morocco coups\", \"Morocco conflict\", \"Mozambique coups\", \"Mozambique conflict\", \"Namibia coups\", \"Namibia conflict\", \"Niger coups\", \"Niger conflict\", \"Rwanda coups\", \"Rwanda conflict\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe coups\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe conflict\", \"Senegal coups\", \"Senegal conflict\", \"Seychelles coups\", \"Seychelles conflict\", \"South Africa coups\", \"South Africa conflict\", \"South Sudan coups\", \"South Sudan conflict\", \"Tanzania coups\", \"Tanzania conflict\", \"Tunisia coups\", \"Tunisia conflict\", \"Uganda coups\", \"Uganda conflict\", \"Zimbabwe coups\", \"Zimbabwe conflict\""
+                  "SEO-keywords": [
+                    "Africa political landscape",
+                    "active civil wars in Africa",
+                    "military regimes in Africa",
+                    "African coups",
+                    "ongoing conflicts in Africa",
+                    "Africa military rule",
+                    "conflict map Africa",
+                    "political unrest in Africa",
+                    "military regimes and coups in Africa",
+                    "Africa political dynamics",
+                    "Africa development and stability",
+                    "regions affected by conflict in Africa",
+                    "Africa political unrest",
+                    "Africa conflict distribution",
+                    "political instability in Africa",
+                    "Africa political assessment",
+                    "Mali coups",
+                    "Mali conflict",
+                    "Burkina Faso coups",
+                    "Burkina Faso conflict",
+                    "Guinea coups",
+                    "Guinea conflict",
+                    "Sudan coups",
+                    "Sudan conflict",
+                    "Chad coups",
+                    "Chad conflict",
+                    "Zambia coups",
+                    "Zambia conflict",
+                    "Comoros coups",
+                    "Comoros conflict",
+                    "Congo (Republic of the Congo) coups",
+                    "Congo (Republic of the Congo) conflict",
+                    "Lesotho coups",
+                    "Lesotho conflict",
+                    "Central African Republic coups",
+                    "Central African Republic conflict",
+                    "Togo coups",
+                    "Togo conflict",
+                    "Guinea-Bissau coups",
+                    "Guinea-Bissau conflict",
+                    "Sierra Leone coups",
+                    "Sierra Leone conflict",
+                    "Mauritania coups",
+                    "Mauritania conflict",
+                    "Ethiopia coups",
+                    "Ethiopia conflict",
+                    "Zimbabwe coups",
+                    "Zimbabwe conflict",
+                    "Nigeria coups",
+                    "Nigeria conflict",
+                    "Ivory Coast coups",
+                    "Ivory Coast conflict",
+                    "Somalia coups",
+                    "Somalia conflict",
+                    "Egypt coups",
+                    "Egypt conflict",
+                    "Liberia coups",
+                    "Liberia conflict",
+                    "Madagascar coups",
+                    "Madagascar conflict",
+                    "Libya coups",
+                    "Libya conflict",
+                    "Algeria coups",
+                    "Algeria conflict",
+                    "Angola coups",
+                    "Angola conflict",
+                    "Benin coups",
+                    "Benin conflict",
+                    "Botswana coups",
+                    "Botswana conflict",
+                    "Burundi coups",
+                    "Burundi conflict",
+                    "Cape Verde coups",
+                    "Cape Verde conflict",
+                    "Cameroon coups",
+                    "Cameroon conflict",
+                    "Congo (Democratic Republic) coups",
+                    "Congo (Democratic Republic) conflict",
+                    "Djibouti coups",
+                    "Djibouti conflict",
+                    "Equatorial Guinea coups",
+                    "Equatorial Guinea conflict",
+                    "Eritrea coups",
+                    "Eritrea conflict",
+                    "Eswatini coups",
+                    "Eswatini conflict",
+                    "Gabon coups",
+                    "Gabon conflict",
+                    "Gambia coups",
+                    "Gambia conflict",
+                    "Ghana coups",
+                    "Ghana conflict",
+                    "Kenya coups",
+                    "Kenya conflict",
+                    "Malawi coups",
+                    "Malawi conflict",
+                    "Mauritius coups",
+                    "Mauritius conflict",
+                    "Morocco coups",
+                    "Morocco conflict",
+                    "Mozambique coups",
+                    "Mozambique conflict",
+                    "Namibia coups",
+                    "Namibia conflict",
+                    "Niger coups",
+                    "Niger conflict",
+                    "Rwanda coups",
+                    "Rwanda conflict",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe coups",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe conflict",
+                    "Senegal coups",
+                    "Senegal conflict",
+                    "Seychelles coups",
+                    "Seychelles conflict",
+                    "South Africa coups",
+                    "South Africa conflict",
+                    "South Sudan coups",
+                    "South Sudan conflict",
+                    "Tanzania coups",
+                    "Tanzania conflict",
+                    "Tunisia coups",
+                    "Tunisia conflict",
+                    "Uganda coups",
+                    "Uganda conflict",
+                    "Zimbabwe coups",
+                    "Zimbabwe conflict"
+                  ]
                 }
               ]
             },
@@ -7127,7 +8207,8 @@
                   "SectionOrder": "1",
                   "Democracy-pageID": [
                     "reco6kA5T7i0WdRCz"
-                  ]
+                  ],
+                  "SEO-keywords": null
                 }
               ]
             },
@@ -7163,7 +8244,98 @@
                   "SEO-title": "EIU Democracy Level Map for African Countries",
                   "SEO-figcaption": "This map visualizes the Economist Intelligence Unit's Democracy Levels in African Countries",
                   "SEO-description": "Explore the state of democracy in African countries with data from the Economist    Intelligence Unit's Democracy Index. This interactive resource visualizes the geographic distribution    of democracy levels across Africa, based on 60 indicators grouped into five key categories:    pluralism, civil liberties, political participation, political culture, and government functioning.    Each country is ranked with a numeric score and categorized into one of four regime types:    full democracies, flawed democracies, hybrid regimes, and authoritarian regimes.    Dive into this comprehensive assessment of democratic rights and institutions, compare rankings, and uncover trends shaping Africa's political landscape",
-                  "SEO-keywords": "\"Democracy in Africa\", \"Africa Democracy Index\", \"EIU Democracy Index Africa\",      \"African democracy levels\", \"State of democracy in Africa\", \"African countries democracy rankings\",      \"Democracy measurement in Africa\", \"Democratic rights in Africa\", \"African democratic institutions\",      \"Civil liberties in Africa\", \"Pluralism in African politics\", \"Political participation in Africa\",      \"Political culture in Africa\", \"Africa political trends\", \"Africa regime types\",      \"Full democracies in Africa\", \"Flawed democracies in African countries\", \"Hybrid regimes in Africa\",      \"Authoritarian regimes in Africa\", \"Compare democracy rankings in Africa\",      \"Trends in African democracy\", \"Geographic distribution of democracy in Africa\",      \"African governance quality\", \"Economist Intelligence Unit Democracy Index\",      \"Africa political landscape\", \"Democracy Africa\", \"Authoritarian Africa\", \"Corruption Africa\",      \"democracy ranking\", \"democracy rating\", \"democracy score\", \"democracy index\", \"civil war\",      \"military regime\", \"coup\", \"junta\", \"Algeria\", \"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\",      \"Burundi\", \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\",      \"Democratic Republic of the Congo\", \"Republic of the Congo\", \"Djibouti\", \"Egypt\",      \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"The Gambia\", \"Ghana\", \"Guinea\",      \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Libya\", \"Madagascar\", \"Malawi\",      \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\", \"Niger\", \"Nigeria\",      \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\",      \"South Africa\", \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "Democracy in Africa",
+                    "Africa Democracy Index",
+                    "EIU Democracy Index Africa",
+                    "African democracy levels",
+                    "State of democracy in Africa",
+                    "African countries democracy rankings",
+                    "Democracy measurement in Africa",
+                    "Democratic rights in Africa",
+                    "African democratic institutions",
+                    "Civil liberties in Africa",
+                    "Pluralism in African politics",
+                    "Political participation in Africa",
+                    "Political culture in Africa",
+                    "Africa political trends",
+                    "Africa regime types",
+                    "Full democracies in Africa",
+                    "Flawed democracies in African countries",
+                    "Hybrid regimes in Africa",
+                    "Authoritarian regimes in Africa",
+                    "Compare democracy rankings in Africa",
+                    "Trends in African democracy",
+                    "Geographic distribution of democracy in Africa",
+                    "African governance quality",
+                    "Economist Intelligence Unit Democracy Index",
+                    "Africa political landscape",
+                    "Democracy Africa",
+                    "Authoritarian Africa",
+                    "Corruption Africa",
+                    "democracy ranking",
+                    "democracy rating",
+                    "democracy score",
+                    "democracy index",
+                    "civil war",
+                    "military regime",
+                    "coup",
+                    "junta",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Rwanda",
+                    "Sao Tome and Principe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             },
@@ -7199,7 +8371,83 @@
                   "SEO-title": "Map of Current Continuous Democracy Age",
                   "SEO-figcaption": "This map visualizes the age of uninterrupted democracy for each African country",
                   "SEO-description": "Explore the state of democracy across Africa with data sourced from Stears\u2019 Open Data. This interactive map visualizes the ages of uninterrupted democracy in African countries, helping you understand democratic rights, political trends, and governance across the continent",
-                  "SEO-keywords": "\"Democracy in Africa\", \"Africa Democracy\", \"Age of Democracy in Africa\",  \"African democracy levels\", \"State of democracy in Africa\", \"African countries democracy rankings\",  \"Democracy measurement in Africa\", \"Democratic rights in Africa\", \"African democratic institutions\",  \"Civil liberties in Africa\", \"Political trends in Africa\", \"Africa regime types\", \"Authoritarian regimes in Africa\",  \"Democracy comparison in Africa\", \"Trends in African democracy\", \"Geographic distribution of democracy in Africa\",  \"African governance quality\", \"Corruption in Africa\", \"Africa democracy rankings\", \"Democracy Africa\",  \"How old is democracy in Africa?\", \"Algeria\", \"Angola\", \"Benin\", \"Botswana\", \"Burkina Faso\", \"Burundi\",  \"Cabo Verde\", \"Cameroon\", \"Central African Republic\", \"Chad\", \"Comoros\", \"Democratic Republic of the Congo\",  \"Djibouti\", \"Egypt\", \"Equatorial Guinea\", \"Eritrea\", \"Eswatini\", \"Ethiopia\", \"Gabon\", \"The Gambia\", \"Ghana\",  \"Guinea\", \"Guinea-Bissau\", \"Ivory Coast\", \"Kenya\", \"Lesotho\", \"Liberia\", \"Libya\", \"Madagascar\", \"Malawi\",  \"Mali\", \"Mauritania\", \"Mauritius\", \"Morocco\", \"Mozambique\", \"Namibia\", \"Niger\", \"Nigeria\", \"Republic of the Congo\",  \"Rwanda\", \"Sao Tome and Principe\", \"Senegal\", \"Seychelles\", \"Sierra Leone\", \"Somalia\", \"South Africa\",  \"South Sudan\", \"Sudan\", \"Tanzania\", \"Togo\", \"Tunisia\", \"Uganda\", \"Zambia\", \"Zimbabwe\""
+                  "SEO-keywords": [
+                    "Democracy in Africa",
+                    "Africa Democracy",
+                    "Age of Democracy in Africa",
+                    "African democracy levels",
+                    "State of democracy in Africa",
+                    "African countries democracy rankings",
+                    "Democracy measurement in Africa",
+                    "Democratic rights in Africa",
+                    "African democratic institutions",
+                    "Civil liberties in Africa",
+                    "Political trends in Africa",
+                    "Africa regime types",
+                    "Authoritarian regimes in Africa",
+                    "Democracy comparison in Africa",
+                    "Trends in African democracy",
+                    "Geographic distribution of democracy in Africa",
+                    "African governance quality",
+                    "Corruption in Africa",
+                    "Africa democracy rankings",
+                    "Democracy Africa",
+                    "How old is democracy in Africa?",
+                    "Algeria",
+                    "Angola",
+                    "Benin",
+                    "Botswana",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cameroon",
+                    "Central African Republic",
+                    "Chad",
+                    "Comoros",
+                    "Democratic Republic of the Congo",
+                    "Djibouti",
+                    "Egypt",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Eswatini",
+                    "Ethiopia",
+                    "Gabon",
+                    "The Gambia",
+                    "Ghana",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Ivory Coast",
+                    "Kenya",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Madagascar",
+                    "Malawi",
+                    "Mali",
+                    "Mauritania",
+                    "Mauritius",
+                    "Morocco",
+                    "Mozambique",
+                    "Namibia",
+                    "Niger",
+                    "Nigeria",
+                    "Republic of the Congo",
+                    "Rwanda",
+                    "Sao Tome and Principe",
+                    "Senegal",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Somalia",
+                    "South Africa",
+                    "South Sudan",
+                    "Sudan",
+                    "Tanzania",
+                    "Togo",
+                    "Tunisia",
+                    "Uganda",
+                    "Zambia",
+                    "Zimbabwe"
+                  ]
                 }
               ]
             },
@@ -7235,7 +8483,82 @@
                   "SEO-title": "World Bank GDP map for African Countries",
                   "SEO-figcaption": "This map visualizes World Bank GDP data in African countries",
                   "SEO-description": "Explore the varying GDP (Gross Domestic Product) figures across African countries with data from the World Bank. This interactive resource visualizes the economic output of each country, providing insights into the distribution of economic activity across Africa. Dive into this comprehensive assessment to understand the economic trends shaping Africa\u2019s development and political landscape",
-                  "SEO-keywords": "\"GDP of African countries\", \"African GDP data\", \"World Bank GDP statistics Africa\", \"Economic output of African countries\",  \"Economic activity in Africa\", \"Africa GDP visualization\", \"African economic trends\", \"Africa economic assessment\",  \"GDP distribution across Africa\", \"Africa economic development\", \"Economic trends shaping Africa\", \"Africa\u2019s economic landscape\",  \"Africa political landscape and economy\", \"Africa economic resources\", \"Africa development and GDP\", \"African countries ranked by GDP\",  \"Economic growth in African countries\", \"GDP comparison across African nations\", \"World Bank data on African economies\",  \"Understanding GDP in Africa\", \"Algeria GDP\", \"Angola GDP\", \"Benin GDP\", \"Botswana GDP\", \"Burkina Faso GDP\", \"Burundi GDP\",  \"Cabo Verde GDP\", \"Cameroon GDP\", \"Central African Republic GDP\", \"Chad GDP\", \"Comoros GDP\", \"Democratic Republic of the Congo GDP\",  \"Republic of the Congo GDP\", \"Djibouti GDP\", \"Egypt GDP\", \"Equatorial Guinea GDP\", \"Eritrea GDP\", \"Eswatini GDP\", \"Ethiopia GDP\",  \"Gabon GDP\", \"The Gambia GDP\", \"Ghana GDP\", \"Guinea GDP\", \"Guinea-Bissau GDP\", \"Ivory Coast GDP\", \"Kenya GDP\", \"Lesotho GDP\",  \"Liberia GDP\", \"Libya GDP\", \"Madagascar GDP\", \"Malawi GDP\", \"Mali GDP\", \"Mauritania GDP\", \"Mauritius GDP\", \"Morocco GDP\",  \"Mozambique GDP\", \"Namibia GDP\", \"Niger GDP\", \"Nigeria GDP\", \"Rwanda GDP\", \"S\u00e3o Tom\u00e9 and Pr\u00edncipe GDP\", \"Senegal GDP\",  \"Seychelles GDP\", \"Sierra Leone GDP\", \"Somalia GDP\", \"South Africa GDP\", \"South Sudan GDP\", \"Sudan GDP\", \"Tanzania GDP\",  \"Togo GDP\", \"Tunisia GDP\", \"Uganda GDP\", \"Zambia GDP\", \"Zimbabwe GDP\""
+                  "SEO-keywords": [
+                    "GDP of African countries",
+                    "African GDP data",
+                    "World Bank GDP statistics Africa",
+                    "Economic output of African countries",
+                    "Economic activity in Africa",
+                    "Africa GDP visualization",
+                    "African economic trends",
+                    "Africa economic assessment",
+                    "GDP distribution across Africa",
+                    "Africa economic development",
+                    "Economic trends shaping Africa",
+                    "Africa\u2019s economic landscape",
+                    "Africa political landscape and economy",
+                    "Africa economic resources",
+                    "Africa development and GDP",
+                    "African countries ranked by GDP",
+                    "Economic growth in African countries",
+                    "GDP comparison across African nations",
+                    "World Bank data on African economies",
+                    "Understanding GDP in Africa",
+                    "Algeria GDP",
+                    "Angola GDP",
+                    "Benin GDP",
+                    "Botswana GDP",
+                    "Burkina Faso GDP",
+                    "Burundi GDP",
+                    "Cabo Verde GDP",
+                    "Cameroon GDP",
+                    "Central African Republic GDP",
+                    "Chad GDP",
+                    "Comoros GDP",
+                    "Democratic Republic of the Congo GDP",
+                    "Republic of the Congo GDP",
+                    "Djibouti GDP",
+                    "Egypt GDP",
+                    "Equatorial Guinea GDP",
+                    "Eritrea GDP",
+                    "Eswatini GDP",
+                    "Ethiopia GDP",
+                    "Gabon GDP",
+                    "The Gambia GDP",
+                    "Ghana GDP",
+                    "Guinea GDP",
+                    "Guinea-Bissau GDP",
+                    "Ivory Coast GDP",
+                    "Kenya GDP",
+                    "Lesotho GDP",
+                    "Liberia GDP",
+                    "Libya GDP",
+                    "Madagascar GDP",
+                    "Malawi GDP",
+                    "Mali GDP",
+                    "Mauritania GDP",
+                    "Mauritius GDP",
+                    "Morocco GDP",
+                    "Mozambique GDP",
+                    "Namibia GDP",
+                    "Niger GDP",
+                    "Nigeria GDP",
+                    "Rwanda GDP",
+                    "S\u00e3o Tom\u00e9 and Pr\u00edncipe GDP",
+                    "Senegal GDP",
+                    "Seychelles GDP",
+                    "Sierra Leone GDP",
+                    "Somalia GDP",
+                    "South Africa GDP",
+                    "South Sudan GDP",
+                    "Sudan GDP",
+                    "Tanzania GDP",
+                    "Togo GDP",
+                    "Tunisia GDP",
+                    "Uganda GDP",
+                    "Zambia GDP",
+                    "Zimbabwe GDP"
+                  ]
                 }
               ]
             }
@@ -7303,7 +8626,51 @@
                   "SEO-title": "Comprehensive List of African Election Observation and Fact-Checking Organizations",
                   "SEO-figcaption": "Explore a detailed compilation of organizations dedicated to election observation, fact-checking, and democracy promotion across Africa",
                   "SEO-description": "This resource provides a thorough list of organizations across Africa that focus on election observation, fact-checking, and promoting democratic processes. It covers institutions involved in monitoring electoral integrity, verifying official results, and combating misinformation. From regional initiatives like Africa Check and Dubawa to country-specific groups such as YIAGA Africa, CODEOGHANA, and CCMG Zambia, this directory highlights their roles in safeguarding transparency and accountability. By exploring this list, you can gain insights into how these organizations contribute to credible elections, uphold governance, and combat electoral malpractice throughout the continent",
-                  "SEO-keywords": "\"African election observation organizations\", \"election monitoring groups in Africa\", \"fact-checking organizations Africa\",  \"democracy promotion Africa\", \"election integrity institutions Africa\", \"Africa Check\", \"Dubawa\", \"FactSpace West Africa\",  \"election transparency Africa\", \"YIAGA Africa\", \"CODEOGHANA\", \"CCMG Zambia\", \"Mourakiboun Tunisia\", \"African election monitoring network\",  \"election observation and results verification\", \"fighting misinformation in Africa\", \"African election accountability\",  \"election result credibility Africa\", \"regional election networks Africa\", \"NGOs monitoring elections in Africa\",  \"election fairness Africa\", \"independent election audits Africa\", \"election integrity organizations Africa\",  \"civil society election monitoring Africa\", \"parallel vote tabulation Africa\", \"anti-rigging organizations Africa\",  \"respected African election observers\", \"Africa election data validation\", \"electoral transparency Africa\",  \"African election integrity\", \"African election audit\", \"African election reliability\", \"election observation in Africa\",  \"election rigging in Africa\", \"election corruption in Africa\", \"vote manipulation in Africa\", \"nonpartisan election observation\",  \"PVRT Africa\", \"Process and Results Verification for Transparency\", \"NDI Africa\", \"National Democratic Institute Africa\",  \"electoral processes in African countries\", \"democracy and elections in Africa\""
+                  "SEO-keywords": [
+                    "African election observation organizations",
+                    "election monitoring groups in Africa",
+                    "fact-checking organizations Africa",
+                    "democracy promotion Africa",
+                    "election integrity institutions Africa",
+                    "Africa Check",
+                    "Dubawa",
+                    "FactSpace West Africa",
+                    "election transparency Africa",
+                    "YIAGA Africa",
+                    "CODEOGHANA",
+                    "CCMG Zambia",
+                    "Mourakiboun Tunisia",
+                    "African election monitoring network",
+                    "election observation and results verification",
+                    "fighting misinformation in Africa",
+                    "African election accountability",
+                    "election result credibility Africa",
+                    "regional election networks Africa",
+                    "NGOs monitoring elections in Africa",
+                    "election fairness Africa",
+                    "independent election audits Africa",
+                    "election integrity organizations Africa",
+                    "civil society election monitoring Africa",
+                    "parallel vote tabulation Africa",
+                    "anti-rigging organizations Africa",
+                    "respected African election observers",
+                    "Africa election data validation",
+                    "electoral transparency Africa",
+                    "African election integrity",
+                    "African election audit",
+                    "African election reliability",
+                    "election observation in Africa",
+                    "election rigging in Africa",
+                    "election corruption in Africa",
+                    "vote manipulation in Africa",
+                    "nonpartisan election observation",
+                    "PVRT Africa",
+                    "Process and Results Verification for Transparency",
+                    "NDI Africa",
+                    "National Democratic Institute Africa",
+                    "electoral processes in African countries",
+                    "democracy and elections in Africa"
+                  ]
                 }
               ]
             }
