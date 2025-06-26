@@ -1167,8 +1167,7 @@ a.view-button {
   margin: 32px 44px 0 44px;
 }
 
-
-/* --- CHEVRON ICON (SVG) --- */
+/* Chevron Icon: category dropdown icon */
 .chevron {
   display: flex;
   align-items: center;
@@ -1217,6 +1216,11 @@ a.view-button {
   }
 }
 
+/* removes indentation added by using figure to wrap iframe */
+figure {
+  margin: 0 !important;
+  padding: 0 !important;
+}
 
 /* Responsive design */
 @media (max-width: 900px) {
