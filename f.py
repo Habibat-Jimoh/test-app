@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # SEO templates for all country chart types
-SEO_TEMPLATES = {
+seo_templates = {
     "key stats": {
         "SEO-title": "{country}’s government Key Stats table",
         "sandbox": "allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation",
@@ -109,8 +109,8 @@ SEO_TEMPLATES = {
             "{country} election results", "{country} election trends by map", "{country} electoral geography", "{country} electoral maps", "{country} historical election results", "{country} legislative control", "{country} parliament results",
             "{country} political analysis by region", "{country} political maps", "{country} presidential election data", "{country} presidential election map", "{country} presidential election results", "{country} presidential election visualizations",
             "{country} regional democracy trends", "{country} regional election results", "{country} regional voting trends", "{country} ruling party map", "{country} subnational election results", "{country} subnational results", "{country} vote manipulation",
-            "{country} voter turnout", "{country} voting patterns", "Percentage votes by political parties {country}", "Regional voting patterns {country}", "Shifting voter trends {country}", "When is {country} presidential election?", "When will {country} elect a president?",
-            "Who won {country} president?", "Who won {country} election?", "Which party won in {country}?", "nonpartisan"
+            "{country} voter turnout", "{country} voting patterns", "Percentage votes by political parties {country}", "Regional voting patterns {country}", "Shifting voter trends {country}", "When is {country}'s presidential election?", "When will {country} elect a president?",
+            "Who won {country} president?", "Who won {country}'s election?", "Which party won in {country}?", "nonpartisan"
         ]
     },
     "election integrity": {
@@ -133,17 +133,37 @@ SEO_TEMPLATES = {
     }
 }
 
+# Alias mapping for chart types found in a.json to the seo templates
+charttype_aliases = {
+    "key stats": "key stats",
+    "democratic history": "democratic history",
+    "one-candidates": "candidates",
+    "two-candidates": "candidates",
+    "three-candidates": "candidates",
+    "four-candidates": "candidates",
+    "candidates": "candidates",
+    "parliament": "parliament",
+    "senate parliament": "parliament",
+    "national parliament": "parliament",
+    "bar": "bar",
+    "voting metrics": "voting metrics",
+    "map": "map",
+    "voter preference bar": "bar",
+    "election integrity": "election integrity",
+    "election representativeness": "election integrity",
+}
+
 def parse_seo_keywords(seo_keywords):
     if seo_keywords and isinstance(seo_keywords, str):
         return [kw.strip() for kw in seo_keywords.split(",") if kw.strip()]
     return seo_keywords  # already a list or None
 
 def fill_seo_fields(section_data, charttype, country, year):
-    template = SEO_TEMPLATES.get(charttype.lower())
+    charttype_key = charttype_aliases.get(charttype.lower(), charttype.lower())
+    template = seo_templates.get(charttype_key)
     if not template:
         return section_data
 
-    # for "year_plus_5" etc.
     replacements = {
         "country": country,
         "year": year,
