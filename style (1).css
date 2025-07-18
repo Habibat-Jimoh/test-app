@@ -589,11 +589,19 @@ p {
   color: #9CA3AF;
 }
 
+.chart-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 15px 0;
+  line-height: 1.3;
+}
+
 .chart-footnote {
-  font-size: 0.875rem;
-  font-style: italic;
-  color: #ccc;
-  margin-top: 5px;
+  font-size: 0.9rem;
+  color: #9CA3AF;
+  margin-top: 10px;
+  line-height: 1.4;
 }
 
 .stay-updated {
@@ -895,6 +903,8 @@ p {
   margin: 0 auto;
   align-items: center;
   align-self: center;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .page-wrapper {
@@ -909,6 +919,9 @@ p {
   border: 0.5px solid #4B5563;
   font-size: 0.875rem;
   margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
 }
 
 .section-container {
@@ -917,6 +930,9 @@ p {
   margin-bottom: 28px;
   background: #18191b;
   font-size: 0.875rem;
+  width: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
 }
 
 .section-container__title {
@@ -1176,19 +1192,31 @@ figure {
   padding: 0 !important;
 }
 
-/* Tablet adjustments */
-@media (max-width: 1024px) and (min-width: 769px) {
-  .sidebar {
-    flex: 0 0 200px;
+/* Small laptop adjustments */
+@media (max-width: 1200px) and (min-width: 1025px) {
+  .content {
+    padding: 20px;
+    margin-right: 10px;
   }
 
-  .content {
+  .content-container {
     padding: 20px;
   }
 }
 
-/* Mobile Navigation Styles */
-@media (max-width: 768px) {
+/* Tablet adjustments */
+@media (max-width: 1024px) and (min-width: 769px) {
+  .content {
+    padding: 20px;
+  }
+
+  .content-container {
+    padding: 20px;
+  }
+}
+
+/* Mobile and Tablet Navigation Styles */
+@media (max-width: 1024px) {
   .sidebar {
     display: none;
   }
@@ -1459,7 +1487,7 @@ figure {
 }
 
 /* Hide mobile nav and panels on desktop */
-@media (min-width: 769px) {
+@media (min-width: 1025px) {
   .mobile-nav {
     display: none;
   }

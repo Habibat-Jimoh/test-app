@@ -4,7 +4,7 @@
 {% block content %}
 <div class="page-wrapper">
   <!-- Header section in its own card -->
-  <div class="page-header">
+  <div class="page-header {% if tab_links|length > 1 %}page-header--with-divider{% endif %}">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
       <div>
         <h1 class="page-header__title">{{ page_title }}</h1>
@@ -18,64 +18,35 @@
       </div>
       {% endif %}
     </div>
-    {# Show divider ONLY if there is more than one tab/page #}
-    {% if (is_country_page and source_tabs and source_tabs|length > 1)
-    or (category == "Election Tracker" and sidebar.tracker and sidebar.tracker|length > 1)
-    or (category == "Democracy Data" and sidebar.democracy and sidebar.democracy|length > 1) %}
-    <div class="header-divider" style="margin-bottom: 0;"></div>
-    {% endif %}
-    {% if is_country_page and source_tabs %}
-    <div class="tabs tabs--category tabs--country">
-      {% for tab in source_tabs %}
-      <button class="tabs__button {% if loop.first %}tabs__button--active{% endif %}"
-        onclick="showTab('{{ loop.index0 }}')">
-        {{ tab.title }}
-      </button>
-      {% endfor %}
-    </div>
-    {% elif category == "Election Tracker" %}
-    <div class="tabs tabs--category">
-      {% for slug, page in sidebar.tracker.items() %}
-      <a href="/{{ slug }}" class="tabs__button {% if slug == current_slug %}tabs__button--active{% endif %}">
-        {{ page.page_fields["Democracy-page"] }}
-      </a>
-      {% endfor %}
-    </div>
-    {% elif category == "Democracy Data" %}
-    <div class="tabs tabs--category">
-      {% for slug, page in sidebar.democracy.items() %}
-      <a href="/{{ slug }}" class="tabs__button {% if slug == current_slug %}tabs__button--active{% endif %}">
-        {{ page.page_fields["Democracy-page"] }}
+
+    {% if tab_links|length > 1 %}
+    <div class="tabs tabs--category {% if is_country_page %}tabs--country{% endif %}">
+      {% for tab_link in tab_links %}
+      <a href="{{ tab_link.url }}" class="tabs__button {% if tab_link.is_active %}tabs__button--active{% endif %}">
+        {{ tab_link.title }}
       </a>
       {% endfor %}
     </div>
     {% endif %}
   </div>
 
-  {% if source_tabs %}
-  <!-- Main tabbed content, each subtab in its own content-container -->
-  {% for tab in source_tabs %}
-  <div class="tabs__panel" style="display: {% if loop.first %}block{% else %}none{% endif %};"
-    data-tab="{{ loop.index0 }}">
-    {% set tab_index = loop.index0 %}
-
-    {% if tab.text %}
-    <p class="tabs__text">{{ tab.text }}</p>
+  <!-- Single tab content -->
+  <div class="tabs__panel">
+    {% if current_tab.text %}
+    <p class="tabs__text">{{ current_tab.text }}</p>
     {% endif %}
 
     {# --- BEGIN: Grouped Section Containers, each in its own card --- #}
-    {% for subtab in tab.subtabs %}
+    {% for subtab in current_tab.subtabs %}
     {% if subtab.sections_by_year is defined and subtab.sections_by_year|length > 0 %}
     <div class="content-container">
       {% if subtab.title %}
       <h3 class="section-container__title">{{ subtab.title }}</h3>
-      <div class="section-divider"></div>
       {% if subtab.text %}
       <p class="subtab__text">{{ subtab.text }}</p>
       {% endif %}
       {% elif subtab.text %}
       <p class="subtab__text">{{ subtab.text }}</p>
-      <div class="section-divider"></div>
       {% endif %}
 
       {% if subtab.years|length == 1 and subtab.years[0] == "all" %}
@@ -92,6 +63,9 @@
         </ul>
         {% endif %}
         {% if section.FlourishEmbed %}
+        {% if section.Charttype and 'parliament' in section.Charttype.lower() and section.Charttitle %}
+        <h4 class="chart-title">{{ section.Charttitle }}</h4>
+        {% endif %}
         <figure>
           <iframe src="{{ section.FlourishEmbed }}" allowfullscreen loading="lazy"
             title="{{ section['SEO-title'] or '' }}"
@@ -142,6 +116,9 @@
         </ul>
         {% endif %}
         {% if section.FlourishEmbed %}
+        {% if section.Charttype and 'parliament' in section.Charttype.lower() and section.Charttitle %}
+        <h4 class="chart-title">{{ section.Charttitle }}</h4>
+        {% endif %}
         <figure>
           <iframe src="{{ section.FlourishEmbed }}" allowfullscreen loading="lazy"
             title="{{ section['SEO-title'] or '' }}"
@@ -179,16 +156,22 @@
       {% else %}
       <div class="tabs--year {% if is_country_page %}tabs--category{% endif %}">
         {% for year in subtab.years %}
-        <button class="tabs__button--year {% if loop.first %}tabs__button--active{% endif %}"
-          onclick="showYear(this, '{{ year }}', {{ tab_index }}, '{{ subtab.title | replace(' ', '_') }}')">
+        {% if current_tab_slug %}
+        {% set year_url = "/" + current_slug + "-" + current_tab_slug + "{% if year != 'all' %}-" + year + "{% endif %}" %}
+        {% else %}
+        {% set year_url = "/" + current_slug + "{% if year != 'all' %}-" + year + "{% endif %}" %}
+        {% endif %}
+        <a href="{{ year_url }}" 
+           class="tabs__button--year {% if (selected_year == year) or (not selected_year and loop.first) %}tabs__button--active{% endif %}"
+           onclick="showYear(this, '{{ year }}', '{{ subtab.title | replace(' ', '_') }}'); return false;">
           {{ year }}
-        </button>
+        </a>
         {% endfor %}
       </div>
 
       {% for year in subtab.years %}
-      <div class="tabs__panel--year" id="year-{{ year }}-{{ tab_index }}-{{ subtab.title | replace(' ', '_') }}"
-        style="display: {% if loop.first %}block{% else %}none{% endif %};">
+      <div class="tabs__panel--year" id="year-{{ year }}-{{ subtab.title | replace(' ', '_') }}"
+        style="display: {% if (selected_year == year) or (not selected_year and loop.first) %}block{% else %}none{% endif %};">
         {% for section in subtab.sections_by_year[year] %}
         <div class="section">
           {% if section.Text %}
@@ -202,6 +185,9 @@
           </ul>
           {% endif %}
           {% if section.FlourishEmbed %}
+          {% if section.Charttype and 'parliament' in section.Charttype.lower() and section.Charttitle %}
+          <h4 class="chart-title">{{ section.Charttitle }}</h4>
+          {% endif %}
           <figure>
             <iframe src="{{ section.FlourishEmbed }}" allowfullscreen loading="lazy"
               title="{{ section['SEO-title'] or '' }}"
@@ -244,96 +230,52 @@
     {% endfor %}
     {# --- END: Grouped Section Containers --- #}
   </div>
-  {% endfor %}
-  {# More info in its own card, but only one shown at a time #}
-  {% for tab in source_tabs %}
-  {% if tab.more_info %}
-  <div class="content-container more-info" id="more-info-section-{{ loop.index0 }}"
-    style="display: {% if loop.first %}block{% else %}none{% endif %};">
-    <div class="more-info__toggle" onclick="toggleMoreInfo({{ loop.index0 }})">
+
+  {# More info section #}
+  {% if current_tab.more_info %}
+  <div class="content-container more-info">
+    <div class="more-info__toggle" onclick="toggleMoreInfo()">
       <span class="more-info__title">More info about this page</span>
-      <span class="more-info__icon" id="more-info-icon-{{ loop.index0 }}">−</span>
+      <span class="more-info__icon" id="more-info-icon">−</span>
     </div>
-    <div class="more-info__content" id="more-info-content-{{ loop.index0 }}"
-      style="display: block;">
-      <p>{{ tab.more_info | safe }}</p>
+    <div class="more-info__content" id="more-info-content" style="display: block;">
+      <p>{{ current_tab.more_info | safe }}</p>
     </div>
   </div>
-  {% endif %}
-  {% endfor %}
   {% endif %}
 </div>
 
 <script>
-  function showTab(index) {
-    // Show the correct tab panel
-    document.querySelectorAll('.tabs__panel').forEach((panel, i) => {
-      panel.style.display = i == index ? 'block' : 'none';
-    });
+  function showYear(button, year, subtabSlug) {
+    // Update the URL
+    const currentSlug = '{{ current_slug }}';
+    const currentTabSlug = '{{ current_tab_slug }}';
+    let newUrl;
 
-    // Toggle active class - handle both country tabs and regular content tabs differently
-    if (document.querySelector('.tabs--country')) {
-      document.querySelectorAll('.tabs--country .tabs__button').forEach((btn, i) => {
-        if (i == index) {
-          btn.classList.add('tabs__button--active');
-        } else {
-          btn.classList.remove('tabs__button--active');
-        }
-      });
+    if (year === 'all') {
+      newUrl = `/${currentSlug}-${currentTabSlug}`;
     } else {
-      document.querySelectorAll('.tabs:not(.tabs--category) .tabs__button').forEach((btn, i) => {
-        if (i == index) {
-          btn.classList.add('tabs__button--active');
-        } else {
-          btn.classList.remove('tabs__button--active');
-        }
-      });
+      newUrl = `/${currentSlug}-${currentTabSlug}-${year}`;
     }
 
-    // Show first year panel of active tab
-    const tab = document.querySelector(`.tabs__panel[data-tab="${index}"]`);
-    if (tab) {
-      const subtabPanels = tab.querySelectorAll('[id^="year-"]');
-      const shownSet = new Set();
-      subtabPanels.forEach(panel => panel.style.display = 'none');
-      subtabPanels.forEach(panel => {
-        const parts = panel.id.split('-');
-        const key = parts.slice(2).join('-');
-        if (!shownSet.has(key)) {
-          shownSet.add(key);
-          panel.style.display = 'block';
-        }
-      });
-    }
+    // Update URL without page reload
+    window.history.pushState({}, '', newUrl);
 
-    // Show only the relevant More Info section
-    document.querySelectorAll('.more-info').forEach((section, i) => {
-      section.style.display = i == index ? 'block' : 'none';
-    });
-
-    // Expand More Info by default for all tabs.
-    document.querySelectorAll('.more-info__content').forEach((content, i) => {
-      content.style.display = 'block';
-    });
-    document.querySelectorAll('.more-info__icon').forEach((icon, i) => {
-      icon.textContent = '−';
-    });
-  }
-
-  function showYear(button, year, tabIndex, subtabSlug) {
-    document.querySelectorAll(`.tabs__panel--year[id^="year-"][id*="${tabIndex}-${subtabSlug}"]`).forEach(panel => {
+    // Show/hide year panels
+    document.querySelectorAll(`[id^="year-"][id*="${subtabSlug}"]`).forEach(panel => {
       panel.style.display = panel.id.includes(`year-${year}`) ? 'block' : 'none';
     });
 
+    // Update active button state
     button.parentElement.querySelectorAll('.tabs__button--year').forEach(btn => {
       btn.classList.remove('tabs__button--active');
     });
     button.classList.add('tabs__button--active');
   }
 
-  function toggleMoreInfo(tabIndex) {
-    const content = document.getElementById(`more-info-content-${tabIndex}`);
-    const icon = document.getElementById(`more-info-icon-${tabIndex}`);
+  function toggleMoreInfo() {
+    const content = document.getElementById('more-info-content');
+    const icon = document.getElementById('more-info-icon');
 
     if (content.style.display === 'none' || content.style.display === '') {
       content.style.display = 'block';
@@ -343,7 +285,5 @@
       icon.textContent = '+';
     }
   }
-
-  document.addEventListener('DOMContentLoaded', () => showTab(0));
 </script>
 {% endblock %}
